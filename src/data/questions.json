@@ -1,0 +1,4902 @@
+[
+  {
+    "id": 1,
+    "chapter": "Skole",
+    "question": "Hvad er undervisningspligten i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mindst 8 års undervisning"
+      },
+      {
+        "key": "B",
+        "text": "Mindst 10 års undervisning"
+      },
+      {
+        "key": "C",
+        "text": "Mindst 12 års undervisning"
+      },
+      {
+        "key": "D",
+        "text": "Mindst 9 års undervisning"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Alle børn i Danmark skal have mindst ti års undervisning."
+  },
+  {
+    "id": 2,
+    "chapter": "Skole",
+    "question": "Hvornår starter børn normalt i børnehaveklassen?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Når de er 5 år gamle"
+      },
+      {
+        "key": "B",
+        "text": "Når de er 7 år gamle"
+      },
+      {
+        "key": "C",
+        "text": "Når de er 6 år gamle"
+      },
+      {
+        "key": "D",
+        "text": "Når de er 4 år gamle"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Børnene starter i børnehaveklassen, når de er omkring seks år gamle."
+  },
+  {
+    "id": 3,
+    "chapter": "Skole",
+    "question": "Hvad er den højeste karakter på den danske 7-trins-skala?",
+    "options": [
+      {
+        "key": "A",
+        "text": "10"
+      },
+      {
+        "key": "B",
+        "text": "13"
+      },
+      {
+        "key": "C",
+        "text": "12"
+      },
+      {
+        "key": "D",
+        "text": "15"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Den højeste karakter er 12, og den laveste karakter er -3."
+  },
+  {
+    "id": 4,
+    "chapter": "Skole",
+    "question": "Hvad er den laveste karakter på den danske 7-trins-skala?",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "-3"
+      },
+      {
+        "key": "C",
+        "text": "1"
+      },
+      {
+        "key": "D",
+        "text": "-1"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Den laveste karakter på 7-trins-skalaen er -3."
+  },
+  {
+    "id": 5,
+    "chapter": "Skole",
+    "question": "Fra hvilken klasse får eleverne karakterer i folkeskolen?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Fra 6. klasse"
+      },
+      {
+        "key": "B",
+        "text": "Fra 7. klasse"
+      },
+      {
+        "key": "C",
+        "text": "Fra 8. klasse"
+      },
+      {
+        "key": "D",
+        "text": "Fra 9. klasse"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Fra folkeskolens 8. klasse får eleverne karakterer i en række fag mindst to gange om året."
+  },
+  {
+    "id": 6,
+    "chapter": "Skole",
+    "question": "Hvad hedder folkeskolens tre trin?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Begynderklassen, mellemklassen og slutklassen"
+      },
+      {
+        "key": "B",
+        "text": "Indskolingen, mellemtrinnet og udskolingen"
+      },
+      {
+        "key": "C",
+        "text": "Grundtrinnet, mellemniveauet og afgangstrinnet"
+      },
+      {
+        "key": "D",
+        "text": "Børnehaveklassen, grundskolen og overbygningen"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "De tre trin er: Indskolingen (0.-3. klasse), mellemtrinnet (4.-6. klasse) og udskolingen (7.-9. klasse)."
+  },
+  {
+    "id": 7,
+    "chapter": "Skole",
+    "question": "Hvad kendetegner frie grundskoler (fx friskoler og privatskoler)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "De er helt gratis for forældrene"
+      },
+      {
+        "key": "B",
+        "text": "De behøver ikke at undervise i de samme emner som folkeskolen"
+      },
+      {
+        "key": "C",
+        "text": "Forældrene betaler direkte til skolen, og undervisningen skal stå mål med folkeskolens"
+      },
+      {
+        "key": "D",
+        "text": "De må ikke modtage offentlig støtte"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "På frie grundskoler betaler forældrene direkte til skolen, og undervisningen skal stå mål med, hvad der i almindelighed kræves i folkeskolen."
+  },
+  {
+    "id": 8,
+    "chapter": "Skole",
+    "question": "Hvem udgør flertallet i en folkeskoles skolebestyrelse?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Lærerne"
+      },
+      {
+        "key": "B",
+        "text": "Eleverne"
+      },
+      {
+        "key": "C",
+        "text": "Forældrene"
+      },
+      {
+        "key": "D",
+        "text": "Kommunen"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Forældrene udgør flertallet i skolebestyrelsen."
+  },
+  {
+    "id": 9,
+    "chapter": "Skole",
+    "question": "Hvad er en efterskole?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En skole kun for elever med specielle behov"
+      },
+      {
+        "key": "B",
+        "text": "En skole i 8., 9. eller 10. klasse, hvor eleverne bor og får undervisning"
+      },
+      {
+        "key": "C",
+        "text": "En videregående uddannelse for unge"
+      },
+      {
+        "key": "D",
+        "text": "En frivillig overbygning til gymnasiet"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "En efterskole er en skole, hvor eleverne bor og får undervisning. Den er for elever i 8., 9. eller 10. klasse."
+  },
+  {
+    "id": 10,
+    "chapter": "Skole",
+    "question": "Hvad er formålet med folkeskolen ifølge folkeskoleloven?",
+    "options": [
+      {
+        "key": "A",
+        "text": "At forberede eleverne udelukkende til videregående uddannelse"
+      },
+      {
+        "key": "B",
+        "text": "At lære eleverne boglig viden og give dem rettigheder og pligter i et demokratisk samfund"
+      },
+      {
+        "key": "C",
+        "text": "Kun at undervise i dansk og matematik"
+      },
+      {
+        "key": "D",
+        "text": "At give eleverne international uddannelse"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Folkeskolen skal i samarbejde med forældrene give eleverne viden og færdigheder og forberede dem til medansvar, rettigheder og pligter i et samfund med frihed og folkestyre."
+  },
+  {
+    "id": 11,
+    "chapter": "Skole",
+    "question": "Hvad er en elevplan i folkeskolen?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En plan over, hvilke fag eleven vælger"
+      },
+      {
+        "key": "B",
+        "text": "En oversigt over elevens fremtidige uddannelse"
+      },
+      {
+        "key": "C",
+        "text": "Lærerens vurdering af elevens faglige niveau og fokusområder fremover"
+      },
+      {
+        "key": "D",
+        "text": "En plan for elevens fritidsaktiviteter"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "I meddelelsesbogen (den er tilknyttet elevplanen) beskriver læreren bl.a., hvad eleven skal have fokus på i det kommende år."
+  },
+  {
+    "id": 12,
+    "chapter": "Skole",
+    "question": "Er 10. klasse obligatorisk i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ja, alle elever skal tage 10. klasse"
+      },
+      {
+        "key": "B",
+        "text": "Nej, det er frivilligt – ca. halvdelen af eleverne tilmelder sig"
+      },
+      {
+        "key": "C",
+        "text": "Nej, kun elever med dårlige karakterer skal tage 10. klasse"
+      },
+      {
+        "key": "D",
+        "text": "Ja, men kun for elever der går på efterskole"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "10. klasse er frivillig, men cirka halvdelen af alle elever tilmelder sig 10. klasse."
+  },
+  {
+    "id": 13,
+    "chapter": "Uddannelse",
+    "question": "Hvad er de to overordnede former for ungdomsuddannelser i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "De akademiske uddannelser og de tekniske uddannelser"
+      },
+      {
+        "key": "B",
+        "text": "De gymnasiale uddannelser og erhvervsuddannelserne"
+      },
+      {
+        "key": "C",
+        "text": "De videregående uddannelser og de grundlæggende uddannelser"
+      },
+      {
+        "key": "D",
+        "text": "De offentlige uddannelser og de private uddannelser"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Der er to former for ungdomsuddannelser: De gymnasiale uddannelser og erhvervsuddannelserne."
+  },
+  {
+    "id": 14,
+    "chapter": "Uddannelse",
+    "question": "Hvad er SU?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Statens Uddannelsesstøtte – økonomisk støtte til studerende"
+      },
+      {
+        "key": "B",
+        "text": "Studiernes Uddannelsesudvalg"
+      },
+      {
+        "key": "C",
+        "text": "Særlig Undervisning – støtte til elever med særlige behov"
+      },
+      {
+        "key": "D",
+        "text": "Statens Uddannelsessystem"
+      }
+    ],
+    "correctKey": "A",
+    "explanation": "SU er en forkortelse for Statens Uddannelsesstøtte. Man kan få SU, når man er indskrevet på en godkendt uddannelse og opfylder betingelserne."
+  },
+  {
+    "id": 15,
+    "chapter": "Uddannelse",
+    "question": "Hvor mange forskellige erhvervsuddannelser er der i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mere end 50"
+      },
+      {
+        "key": "B",
+        "text": "Mere end 100"
+      },
+      {
+        "key": "C",
+        "text": "Mere end 200"
+      },
+      {
+        "key": "D",
+        "text": "Mere end 75"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Der er mere end 100 forskellige erhvervsuddannelser."
+  },
+  {
+    "id": 16,
+    "chapter": "Uddannelse",
+    "question": "Hvor mange universiteter er der i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "5"
+      },
+      {
+        "key": "B",
+        "text": "6"
+      },
+      {
+        "key": "C",
+        "text": "8"
+      },
+      {
+        "key": "D",
+        "text": "10"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Der er otte universiteter i Danmark."
+  },
+  {
+    "id": 17,
+    "chapter": "Uddannelse",
+    "question": "Hvor mange professionshøjskoler er der i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "5"
+      },
+      {
+        "key": "B",
+        "text": "7"
+      },
+      {
+        "key": "C",
+        "text": "9"
+      },
+      {
+        "key": "D",
+        "text": "4"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Der er syv professionshøjskoler i Danmark."
+  },
+  {
+    "id": 18,
+    "chapter": "Uddannelse",
+    "question": "Hvad er hf-eksamen særligt rettet mod?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Lange universitetsuddannelser"
+      },
+      {
+        "key": "B",
+        "text": "Korte og mellemlange videregående uddannelser på professionshøjskoler og erhvervsakademier"
+      },
+      {
+        "key": "C",
+        "text": "Erhvervsuddannelser"
+      },
+      {
+        "key": "D",
+        "text": "Tekniske uddannelser"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Hf-eksamen er særligt rettet mod korte og mellemlange videregående uddannelser på professionshøjskoler og erhvervsakademier."
+  },
+  {
+    "id": 19,
+    "chapter": "Uddannelse",
+    "question": "Hvad er eux?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En europæisk udvekslingsordning for studerende"
+      },
+      {
+        "key": "B",
+        "text": "En erhvervsuddannelse med indbyggede gymnasiale fag, der giver både svendebrev og erhvervsfaglig studentereksamen"
+      },
+      {
+        "key": "C",
+        "text": "En særlig uddannelse for udlændinge i Danmark"
+      },
+      {
+        "key": "D",
+        "text": "En ekstra uddannelse til gymnasiestudenter"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Med en eux får du en erhvervsuddannelse med indbyggede gymnasiale fag, og du får både svendebrev med direkte adgang til job og en erhvervsfaglig studentereksamen."
+  },
+  {
+    "id": 20,
+    "chapter": "Uddannelse",
+    "question": "Hvad er FGU?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Folkeskolens Grundlæggende Uddannelse"
+      },
+      {
+        "key": "B",
+        "text": "Forberedende Grunduddannelse for unge under 25 år, der ikke er i gang med en ungdomsuddannelse"
+      },
+      {
+        "key": "C",
+        "text": "Fagforeningens Grundlæggende Union"
+      },
+      {
+        "key": "D",
+        "text": "Frivillig Grunduddannelse for Unge"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "FGU er for unge under 25 år, der ikke er i gang med eller har en ungdomsuddannelse og har behov for en særlig forberedende indsats."
+  },
+  {
+    "id": 21,
+    "chapter": "Uddannelse",
+    "question": "Hvor lang tid tager en typisk bacheloruddannelse på universitetet?",
+    "options": [
+      {
+        "key": "A",
+        "text": "2 år"
+      },
+      {
+        "key": "B",
+        "text": "3 år"
+      },
+      {
+        "key": "C",
+        "text": "4 år"
+      },
+      {
+        "key": "D",
+        "text": "5 år"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "En bacheloruddannelse tager typisk omkring tre år."
+  },
+  {
+    "id": 22,
+    "chapter": "Uddannelse",
+    "question": "Hvad er AMU-kurser?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Avancerede Medicinske Uddannelser"
+      },
+      {
+        "key": "B",
+        "text": "Arbejdsmarkedsuddannelser – kortere kursusforløb primært for faglærte og ufaglærte"
+      },
+      {
+        "key": "C",
+        "text": "Akademiske og Merkantile Uddannelser"
+      },
+      {
+        "key": "D",
+        "text": "Almene og Matematiske Uddannelsestilbud"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "AMU står for arbejdsmarkedsuddannelser og er korterevarende kursusforløb primært rettet mod faglærte og ufaglærte."
+  },
+  {
+    "id": 23,
+    "chapter": "Dagtilbud",
+    "question": "Hvad er aldersgruppen for børn i en vuggestue?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Fra ca. 1 år til ca. 6 år"
+      },
+      {
+        "key": "B",
+        "text": "Fra ca. 6 måneder til ca. 3 år"
+      },
+      {
+        "key": "C",
+        "text": "Fra ca. 3 år til ca. 6 år"
+      },
+      {
+        "key": "D",
+        "text": "Fra ca. 2 år til ca. 5 år"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "En vuggestue er for børn fra cirka seks måneder og op til cirka tre år."
+  },
+  {
+    "id": 24,
+    "chapter": "Dagtilbud",
+    "question": "Hvad er en dagpleje?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En stor institution med mange børn"
+      },
+      {
+        "key": "B",
+        "text": "En form for pasning, hvor barnet passes af en dagplejer i dagplejerens private hjem sammen med 2-4 andre børn"
+      },
+      {
+        "key": "C",
+        "text": "En halvdagsordning i børnehaven"
+      },
+      {
+        "key": "D",
+        "text": "En statslig institution for børn under 1 år"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "I en dagpleje passes barnet af en dagplejer, typisk for børn fra ca. 6 måneder til ca. 3 år, i dagplejerens private hjem sammen med 2-4 andre børn."
+  },
+  {
+    "id": 25,
+    "chapter": "Dagtilbud",
+    "question": "Hvad er aldersgruppen for børnehaven?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Fra ca. 1 år til ca. 5 år"
+      },
+      {
+        "key": "B",
+        "text": "Fra ca. 2 år til ca. 7 år"
+      },
+      {
+        "key": "C",
+        "text": "Fra ca. 3 år til ca. 6 år"
+      },
+      {
+        "key": "D",
+        "text": "Fra ca. 4 år til ca. 6 år"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "En børnehave er for børn fra ca. tre år og op til seks år."
+  },
+  {
+    "id": 26,
+    "chapter": "Dagtilbud",
+    "question": "Hvad er SFO?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Statens Fritidsordning"
+      },
+      {
+        "key": "B",
+        "text": "SkoleFritidsOrdning – et sted, hvor børn i folkeskolen kan blive passet før eller efter skoletid"
+      },
+      {
+        "key": "C",
+        "text": "Særlig FamilieOrdning"
+      },
+      {
+        "key": "D",
+        "text": "Socialt FællesskabsOmråde"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "SFO er en forkortelse for SkoleFritidsOrdning. Her kan børn i folkeskolen blive passet før eller efter skoletid af pædagoger."
+  },
+  {
+    "id": 27,
+    "chapter": "Dagtilbud",
+    "question": "Hvem er ansvarlige for dagtilbuddene i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Staten"
+      },
+      {
+        "key": "B",
+        "text": "Regionerne"
+      },
+      {
+        "key": "C",
+        "text": "Kommunerne"
+      },
+      {
+        "key": "D",
+        "text": "De private virksomheder"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Det er kommunerne, der er ansvarlige for dagtilbuddene."
+  },
+  {
+    "id": 28,
+    "chapter": "Dagtilbud",
+    "question": "Hvem betaler for barnets plads i dagtilbud?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Det er gratis for alle forældre"
+      },
+      {
+        "key": "B",
+        "text": "Kommunen betaler en del, og forældrene betaler den resterende del"
+      },
+      {
+        "key": "C",
+        "text": "Forældrene betaler det hele selv"
+      },
+      {
+        "key": "D",
+        "text": "Staten betaler det hele"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Kommunen betaler en del af udgiften, mens forældrene betaler den resterende del. Forældre med lav indkomst kan søge om yderligere tilskud."
+  },
+  {
+    "id": 29,
+    "chapter": "Dagtilbud",
+    "question": "Hvad er formålet med det pædagogiske arbejde i dagtilbud?",
+    "options": [
+      {
+        "key": "A",
+        "text": "At forberede børnene til prøver i folkeskolen"
+      },
+      {
+        "key": "B",
+        "text": "At fremme børns trivsel, udvikling og læring"
+      },
+      {
+        "key": "C",
+        "text": "At lære børnene at læse og skrive"
+      },
+      {
+        "key": "D",
+        "text": "At give forældrene mere fri tid"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Fælles for alle former for pasningstilbud er, at det pædagogiske arbejde skal fremme børns trivsel, udvikling og læring."
+  },
+  {
+    "id": 30,
+    "chapter": "Dagtilbud",
+    "question": "Har alle børn ret til en plads i et dagtilbud?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Nej, kun børn af forældre med lav indkomst"
+      },
+      {
+        "key": "B",
+        "text": "Ja, alle børn har ret til en plads i et dagtilbud"
+      },
+      {
+        "key": "C",
+        "text": "Kun børn over 2 år"
+      },
+      {
+        "key": "D",
+        "text": "Kun børn, der har søskende i folkeskolen"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Alle børn har ret til en plads i et dagtilbud."
+  },
+  {
+    "id": 31,
+    "chapter": "Det danske arbejdsmarked",
+    "question": "Hvad menes med 'den danske model' på arbejdsmarkedet?",
+    "options": [
+      {
+        "key": "A",
+        "text": "At staten bestemmer løn og arbejdstid ved lov"
+      },
+      {
+        "key": "B",
+        "text": "At de fleste forhold på arbejdsmarkedet bestemmes af aftaler mellem fagforeninger og arbejdsgivernes foreninger"
+      },
+      {
+        "key": "C",
+        "text": "At arbejdsmarkedet styres af EU-regler"
+      },
+      {
+        "key": "D",
+        "text": "At der altid er mindsteløn fastsat af Folketinget"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "At de fleste forhold på arbejdsmarkedet bestemmes af arbejdsmarkedets parter (fagforeninger og arbejdsgivere) og ikke af Folketinget, kaldes 'den danske model'."
+  },
+  {
+    "id": 32,
+    "chapter": "Det danske arbejdsmarked",
+    "question": "Hvad er 'flexicurity'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Fleksible arbejdstider for deltidsansatte"
+      },
+      {
+        "key": "B",
+        "text": "Et system, hvor det er let at ansætte og fyre, men ansatte er sikret via dagpenge ved arbejdsløshed"
+      },
+      {
+        "key": "C",
+        "text": "En ordning, der giver alle ret til deltidsarbejde"
+      },
+      {
+        "key": "D",
+        "text": "En EU-ordning for fleksible pensioner"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Flexicurity kombinerer fleksibilitet for arbejdsgiveren (let at ansætte og fyre) med sikkerhed for den ansatte via dagpenge og efteruddannelse ved arbejdsløshed."
+  },
+  {
+    "id": 33,
+    "chapter": "Det danske arbejdsmarked",
+    "question": "Hvad er den normale ugentlige arbejdstid i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "35 timer"
+      },
+      {
+        "key": "B",
+        "text": "40 timer"
+      },
+      {
+        "key": "C",
+        "text": "37 timer"
+      },
+      {
+        "key": "D",
+        "text": "36,5 timer"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Den mest almindelige arbejdstid er 37 timer om ugen."
+  },
+  {
+    "id": 34,
+    "chapter": "Det danske arbejdsmarked",
+    "question": "Hvad er en a-kasse?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En statlig kasse, der automatisk forsikrer alle ansatte mod arbejdsløshed"
+      },
+      {
+        "key": "B",
+        "text": "En privat arbejdsløshedskasse, man frivilligt kan melde sig ind i for at sikre sig dagpenge ved ledighed"
+      },
+      {
+        "key": "C",
+        "text": "En kommunal støtteordning for nyankomne udlændinge"
+      },
+      {
+        "key": "D",
+        "text": "En statslig pensionskasse"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "A-kassen (arbejdsløshedskassen) er en privat forsikringsordning. Det er frivilligt at være medlem, men som medlem kan man som udgangspunkt få dagpenge, hvis man bliver arbejdsløs."
+  },
+  {
+    "id": 35,
+    "chapter": "Det danske arbejdsmarked",
+    "question": "Hvad er en tillidsrepræsentant?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En statslig kontrollant på arbejdspladsen"
+      },
+      {
+        "key": "B",
+        "text": "En repræsentant for de ansatte, der bl.a. forhandler løn og repræsenterer dem over for ledelsen"
+      },
+      {
+        "key": "C",
+        "text": "En chef, der er ansvarlig for medarbejdernes velvære"
+      },
+      {
+        "key": "D",
+        "text": "En repræsentant for arbejdsgiverne i fagforeningsforhandlinger"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Tillidsrepræsentanter repræsenterer de ansatte over for ledelsen, fx i forbindelse med lønforhandlinger."
+  },
+  {
+    "id": 36,
+    "chapter": "Det danske arbejdsmarked",
+    "question": "Hvad er en strejke?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Arbejdsgiverne nægter de ansatte adgang til arbejdspladsen"
+      },
+      {
+        "key": "B",
+        "text": "Fagforeningsmedlemmer standser arbejdet, indtil der er indgået en overenskomst"
+      },
+      {
+        "key": "C",
+        "text": "En statslig indgriben i overenskomstforhandlinger"
+      },
+      {
+        "key": "D",
+        "text": "En aftale om nedsatte arbejdstimer"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Fagforeningerne kan organisere strejker, hvilket betyder, at medlemmer standser arbejdet, indtil der er indgået en overenskomst."
+  },
+  {
+    "id": 37,
+    "chapter": "Det danske arbejdsmarked",
+    "question": "Hvad er en lockout?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Det modsatte af strejke – arbejdsgiverne nægter de ansatte adgang til arbejdspladsen"
+      },
+      {
+        "key": "B",
+        "text": "En situation, hvor fagforeningen lukker virksomheden ned"
+      },
+      {
+        "key": "C",
+        "text": "En midlertidig lukning af virksomheden pga. tekniske problemer"
+      },
+      {
+        "key": "D",
+        "text": "En ordning, hvor ansatte låses inde på arbejdspladsen"
+      }
+    ],
+    "correctKey": "A",
+    "explanation": "Arbejdsgiverne kan lave lockout, hvilket betyder, at de ansatte, der er member af en fagforening, ikke må komme på arbejde, før der er indgået en overenskomst."
+  },
+  {
+    "id": 38,
+    "chapter": "Det danske arbejdsmarked",
+    "question": "Hvilke tre store fagforeninger nævnes i materialet?",
+    "options": [
+      {
+        "key": "A",
+        "text": "3F, DSF og LO"
+      },
+      {
+        "key": "B",
+        "text": "HK, FOA og 3F"
+      },
+      {
+        "key": "C",
+        "text": "FTF, HK og AC"
+      },
+      {
+        "key": "D",
+        "text": "LO, FOA og DA"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "De tre store fagforeninger er HK (handel og kontor), FOA (hjemmepleje, SOSU m.fl.) og 3F (industri, transport, byggeri m.fl.)."
+  },
+  {
+    "id": 39,
+    "chapter": "Det danske arbejdsmarked",
+    "question": "Hvor mange ugers betalt ferie har lønmodtagere ret til?",
+    "options": [
+      {
+        "key": "A",
+        "text": "4 uger"
+      },
+      {
+        "key": "B",
+        "text": "5 uger"
+      },
+      {
+        "key": "C",
+        "text": "6 uger"
+      },
+      {
+        "key": "D",
+        "text": "3 uger"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Man har ret til fem ugers betalt ferie, hvis man har arbejdet et helt år. De fem ugers ferie er bestemt ved lov."
+  },
+  {
+    "id": 40,
+    "chapter": "Det danske arbejdsmarked",
+    "question": "Hvad er en arbejdsmiljørepræsentant?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En statslig inspektør, der kontrollerer virksomheder"
+      },
+      {
+        "key": "B",
+        "text": "En valgt medarbejder, der holder øje med det fysiske og psykiske arbejdsmiljø"
+      },
+      {
+        "key": "C",
+        "text": "En leder, der er ansvarlig for virksomhedens sikkerhedspolitik"
+      },
+      {
+        "key": "D",
+        "text": "En fagforeningsrepræsentant, der forhandler om løn"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Arbejdsmiljørepræsentanten skal holde øje med det fysiske og psykiske arbejdsmiljø og være opmærksom på, om de ansatte fx har det rigtige sikkerhedsudstyr."
+  },
+  {
+    "id": 41,
+    "chapter": "Det danske arbejdsmarked",
+    "question": "Hvad må en arbejdsgiver IKKE spørge om ved en jobansøgning?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ansøgerens erhvervserfaring"
+      },
+      {
+        "key": "B",
+        "text": "Ansøgerens graviditet, antal sygedage og religion"
+      },
+      {
+        "key": "C",
+        "text": "Ansøgerens uddannelse"
+      },
+      {
+        "key": "D",
+        "text": "Ansøgerens tekniske kompetencer"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Når man søger et job, må arbejdsgiveren ikke spørge til ens helbred og antal af sygedage i tidligere job, om man er gravid, eller om man planlægger at få børn. Arbejdsgiveren må heller ikke spørge om folks religion."
+  },
+  {
+    "id": 42,
+    "chapter": "Dansk erhvervsliv",
+    "question": "Hvad er den nok mest kendte danske virksomhed ifølge materialet?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Novo Nordisk"
+      },
+      {
+        "key": "B",
+        "text": "Vestas"
+      },
+      {
+        "key": "C",
+        "text": "LEGO"
+      },
+      {
+        "key": "D",
+        "text": "Mærsk"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Den mest kendte er nok LEGO, der fremstiller byggeklodser til børn i snart sagt alle lande."
+  },
+  {
+    "id": 43,
+    "chapter": "Dansk erhvervsliv",
+    "question": "Hvad producerer Novo Nordisk bl.a.?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Vindmøller"
+      },
+      {
+        "key": "B",
+        "text": "Insulin til patienter med sukkersyge"
+      },
+      {
+        "key": "C",
+        "text": "Høreapparater"
+      },
+      {
+        "key": "D",
+        "text": "Mejeriprodukter"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Novo Nordisk bl.a. fremstiller insulin til patienter med sukkersyge og var i 2023 Europas største virksomhed målt på aktieværdi."
+  },
+  {
+    "id": 44,
+    "chapter": "Dansk erhvervsliv",
+    "question": "Hvad er Arla og Danish Crown eksempler på?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Statsejede virksomheder"
+      },
+      {
+        "key": "B",
+        "text": "Andelsselskaber ejet af landmændene"
+      },
+      {
+        "key": "C",
+        "text": "Børsnoterede aktieselskaber"
+      },
+      {
+        "key": "D",
+        "text": "Udenlandske virksomheder"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Arla og Danish Crown er andelsselskaber, ejet af landmændene, men nu lagt sammen i store koncerner."
+  },
+  {
+    "id": 45,
+    "chapter": "Dansk erhvervsliv",
+    "question": "Hvad er Vestas (2022) kendte for?",
+    "options": [
+      {
+        "key": "A",
+        "text": "At være verdens største producent af solceller"
+      },
+      {
+        "key": "B",
+        "text": "At være verdens største vindmølleproducent"
+      },
+      {
+        "key": "C",
+        "text": "At være verdens største skibsrederi"
+      },
+      {
+        "key": "D",
+        "text": "At være verdens største producent af insulin"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Verdens største vindmølleproducent (2022) – Vestas – ligger i Danmark."
+  },
+  {
+    "id": 46,
+    "chapter": "Dansk erhvervsliv",
+    "question": "Hvad er Mærsk (A.P. Møller-Mærsk) kendt for?",
+    "options": [
+      {
+        "key": "A",
+        "text": "At være et af verdens to største rederier, der sejler med containere"
+      },
+      {
+        "key": "B",
+        "text": "At fremstille medicin til hele verden"
+      },
+      {
+        "key": "C",
+        "text": "At producere LEGO-klodser"
+      },
+      {
+        "key": "D",
+        "text": "At drive Danmarks største dagligvarehandel"
+      }
+    ],
+    "correctKey": "A",
+    "explanation": "Mærsk er et af verdens to største rederier, der sejler med containere."
+  },
+  {
+    "id": 47,
+    "chapter": "Dansk erhvervsliv",
+    "question": "Hvilket land importerer Danmark mest fra (2023)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "USA"
+      },
+      {
+        "key": "B",
+        "text": "Kina"
+      },
+      {
+        "key": "C",
+        "text": "Sverige"
+      },
+      {
+        "key": "D",
+        "text": "Tyskland"
+      }
+    ],
+    "correctKey": "D",
+    "explanation": "Tyskland er det land, som Danmark importerer mest fra. I 2023 udgjorde Tyskland 12,9 procent af Danmarks samlede udenrigshandel."
+  },
+  {
+    "id": 48,
+    "chapter": "Dansk erhvervsliv",
+    "question": "Hvilket land eksporterer Danmark mest til (2023)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sverige"
+      },
+      {
+        "key": "B",
+        "text": "USA"
+      },
+      {
+        "key": "C",
+        "text": "Kina"
+      },
+      {
+        "key": "D",
+        "text": "Norge"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "USA er det land, som Danmark eksporterer mest til (12,3 procent). Samlet set er eksporten til andre EU-lande dog klart større."
+  },
+  {
+    "id": 49,
+    "chapter": "Dansk erhvervsliv",
+    "question": "Hvor stor en andel af verdensmarkedet for høreapparater produceres i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Over en fjerdedel"
+      },
+      {
+        "key": "B",
+        "text": "Over en tredjedel"
+      },
+      {
+        "key": "C",
+        "text": "Over halvdelen"
+      },
+      {
+        "key": "D",
+        "text": "Ca. en tiendedel"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Danmark fremstiller over en tredjedel af verdens høreapparater."
+  },
+  {
+    "id": 50,
+    "chapter": "Dansk erhvervsliv",
+    "question": "Hvad er kendetegnende for mange danske virksomheder ifølge materialet?",
+    "options": [
+      {
+        "key": "A",
+        "text": "At de er meget hierarkiske i deres ledelsesstruktur"
+      },
+      {
+        "key": "B",
+        "text": "At de giver den enkelte medarbejder ansvar for sit eget arbejdsområde"
+      },
+      {
+        "key": "C",
+        "text": "At de primært sælger inden for Danmark"
+      },
+      {
+        "key": "D",
+        "text": "At de ejes af udenlandske investorer"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Danske virksomheder er mere end i de fleste lande kendetegnet ved at give den enkelte medarbejder ansvar for sit eget arbejdsområde."
+  },
+  {
+    "id": 51,
+    "chapter": "Det danske velfærdssamfund",
+    "question": "Hvad er princippet bag det danske velfærdssamfund?",
+    "options": [
+      {
+        "key": "A",
+        "text": "At alle skal betale det samme i skat uanset indkomst"
+      },
+      {
+        "key": "B",
+        "text": "At alle, der kan, skal bidrage via skat, og alle, der har behov, kan få hjælp fra det offentlige"
+      },
+      {
+        "key": "C",
+        "text": "At staten kun hjælper dem, der er i arbejde"
+      },
+      {
+        "key": "D",
+        "text": "At kun fattige borgere kan modtage offentlige ydelser"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Princippet er, at alle, der kan, skal bidrage til velfærden, og at alle, der har behov, kan få hjælp fra det offentlige uanset deres tilknytning til arbejdsmarkedet."
+  },
+  {
+    "id": 52,
+    "chapter": "Det danske velfærdssamfund",
+    "question": "Fra hvilken alder kan man i 2024 få folkepension?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Fra 65 år"
+      },
+      {
+        "key": "B",
+        "text": "Fra 67 år"
+      },
+      {
+        "key": "C",
+        "text": "Fra 70 år"
+      },
+      {
+        "key": "D",
+        "text": "Fra 62 år"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Man kan i 2024 få folkepension, fra man er 67 år. Aldersgrænsen hæves gradvist i takt med, at befolkningen lever længere."
+  },
+  {
+    "id": 53,
+    "chapter": "Det danske velfærdssamfund",
+    "question": "Hvad er den danske moms?",
+    "options": [
+      {
+        "key": "A",
+        "text": "20%"
+      },
+      {
+        "key": "B",
+        "text": "22,5%"
+      },
+      {
+        "key": "C",
+        "text": "25%"
+      },
+      {
+        "key": "D",
+        "text": "15%"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Den danske moms på 25 procent på de varer, man køber, er blandt de højeste i Europa."
+  },
+  {
+    "id": 54,
+    "chapter": "Det danske velfærdssamfund",
+    "question": "Hvad er boligstøtte?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Et lån til at købe bolig"
+      },
+      {
+        "key": "B",
+        "text": "Penge fra det offentlige til at dække en del af huslejen for borgere med lav indkomst"
+      },
+      {
+        "key": "C",
+        "text": "En ordning, der sikrer gratis boliger til alle"
+      },
+      {
+        "key": "D",
+        "text": "Skattefradrag for boligejere"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Boligstøtte gives til at dække en del af huslejen for borgere, der bor til leje og har lav indkomst."
+  },
+  {
+    "id": 55,
+    "chapter": "Det danske velfærdssamfund",
+    "question": "Hvad er et sundhedskort ('det gule kort')?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Et kort, der giver ret til gratis rejser i den offentlige transport"
+      },
+      {
+        "key": "B",
+        "text": "Et bevis på, at man har ret til behandling i det offentlige sundhedsvæsen"
+      },
+      {
+        "key": "C",
+        "text": "Et lånekort til biblioteket"
+      },
+      {
+        "key": "D",
+        "text": "Et pas-kort for EU-borgere i Danmark"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Alle, som er tilmeldt Det Centrale Personregister (CPR), får et sundhedskort, der er bevis på ret til behandling i det offentlige sundhedsvæsen."
+  },
+  {
+    "id": 56,
+    "chapter": "Det danske velfærdssamfund",
+    "question": "Hvad er fleksjob?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Et job med fleksible arbejdstider for alle lønmodtagere"
+      },
+      {
+        "key": "B",
+        "text": "Et job for personer med begrænset arbejdsevne, der suppleres af en offentlig ydelse"
+      },
+      {
+        "key": "C",
+        "text": "Et deltidsjob for studerende"
+      },
+      {
+        "key": "D",
+        "text": "Et tidsbegrænset job hos kommunen"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Fleksjob er for personer, hvis arbejdsevne er begrænset. De arbejder og tjener en del selv og får resten i offentlig ydelse."
+  },
+  {
+    "id": 57,
+    "chapter": "Det danske velfærdssamfund",
+    "question": "Hvad er børnecheck (børne- og ungeydelse)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Et tilskud til barnets skoleudgifter"
+      },
+      {
+        "key": "B",
+        "text": "En ydelse forældre kan få, hvis de har børn under 18 år"
+      },
+      {
+        "key": "C",
+        "text": "En refusion for udgifter til børnehaven"
+      },
+      {
+        "key": "D",
+        "text": "En statslig opsparing til barnets uddannelse"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Forældrene kan få en 'børnecheck' (børne- og ungeydelse), hvis de har børn under 18 år."
+  },
+  {
+    "id": 58,
+    "chapter": "Det danske velfærdssamfund",
+    "question": "Hvad koster det at køre på veje og broer i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Det er gratis overalt"
+      },
+      {
+        "key": "B",
+        "text": "Det er gratis på veje, men man betaler for at køre over Øresundsbroen og Storebæltsbroen"
+      },
+      {
+        "key": "C",
+        "text": "Man betaler vejafgift overalt i Danmark"
+      },
+      {
+        "key": "D",
+        "text": "Man betaler kun i byerne"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Det er gratis at køre på veje og broer i Danmark. På to broer – Øresundsbroen og Storebæltsbroen – skal man dog betale for at køre over."
+  },
+  {
+    "id": 59,
+    "chapter": "Familieliv",
+    "question": "Hvad er reglerne for ægteskab i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Man må være gift med op til to personer"
+      },
+      {
+        "key": "B",
+        "text": "Man må kun være gift med én person ad gangen og skal være mindst 18 år"
+      },
+      {
+        "key": "C",
+        "text": "Man kan gifte sig fra 16 år med forældrenes tilladelse"
+      },
+      {
+        "key": "D",
+        "text": "Man skal have statsborgerskab for at gifte sig"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Det er ikke tilladt at være gift med mere end én person ad gangen, og man skal være fyldt 18 år for at indgå ægteskab."
+  },
+  {
+    "id": 60,
+    "chapter": "Familieliv",
+    "question": "Hvor mange procent af ægteskaber ender med skilsmisse i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ca. 20%"
+      },
+      {
+        "key": "B",
+        "text": "Ca. 50%"
+      },
+      {
+        "key": "C",
+        "text": "Ca. 35%"
+      },
+      {
+        "key": "D",
+        "text": "Ca. 25%"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "I Danmark ender cirka 35 procent af alle ægteskaber med en skilsmisse."
+  },
+  {
+    "id": 61,
+    "chapter": "Familieliv",
+    "question": "Hvad er den nuværende grænse for fri abort i Danmark (pr. 2024)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Inden udgangen af 8. graviditetsuge"
+      },
+      {
+        "key": "B",
+        "text": "Inden udgangen af 12. graviditetsuge (hæves til 18. uge fra 1. juli 2025)"
+      },
+      {
+        "key": "C",
+        "text": "Inden udgangen af 16. graviditetsuge"
+      },
+      {
+        "key": "D",
+        "text": "Inden udgangen af 20. graviditetsuge"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "I Danmark har en kvinde ret til at få en abort inden slutningen af 12. graviditetsuge. I 2024 er det aftalt at hæve grænsen til den 18. uge, gældende fra 1. juli 2025."
+  },
+  {
+    "id": 62,
+    "chapter": "Familieliv",
+    "question": "Hvad er myndigheds- og stemmeretsalderen i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "16 år"
+      },
+      {
+        "key": "B",
+        "text": "20 år"
+      },
+      {
+        "key": "C",
+        "text": "18 år"
+      },
+      {
+        "key": "D",
+        "text": "21 år"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "De unge er ifølge loven myndige, når de fylder 18 år. De får bl.a. stemmeret og kan tage kørekort."
+  },
+  {
+    "id": 63,
+    "chapter": "Familieliv",
+    "question": "Hvad er aldersgrænsen for at købe øl og vin i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "15 år"
+      },
+      {
+        "key": "B",
+        "text": "16 år"
+      },
+      {
+        "key": "C",
+        "text": "18 år"
+      },
+      {
+        "key": "D",
+        "text": "20 år"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Unge skal være fyldt 16 år, før de må købe øl og vin (dog er det aftalt, at fra 2025 skal man også være 18 år for at købe alkohol over seks procent)."
+  },
+  {
+    "id": 64,
+    "chapter": "Familieliv",
+    "question": "Hvad er aldersgrænsen for at købe spiritus og cigaretter i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "16 år"
+      },
+      {
+        "key": "B",
+        "text": "17 år"
+      },
+      {
+        "key": "C",
+        "text": "18 år"
+      },
+      {
+        "key": "D",
+        "text": "20 år"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Unge skal være fyldt 18 år, før de må købe spiritus og cigaretter."
+  },
+  {
+    "id": 65,
+    "chapter": "Familieliv",
+    "question": "Hvad betyder fælles forældremyndighed?",
+    "options": [
+      {
+        "key": "A",
+        "text": "At kun den ene forælder har ret til at træffe beslutninger om barnet"
+      },
+      {
+        "key": "B",
+        "text": "At forældrene skal tage vigtige beslutninger om barnet i fællesskab"
+      },
+      {
+        "key": "C",
+        "text": "At begge forældre skal bo samme sted som barnet"
+      },
+      {
+        "key": "D",
+        "text": "At staten har bestemmelsesret over barnet"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Fælles forældremyndighed betyder, at forældrene skal tage vigtige beslutninger om barnet i fællesskab – fx barnets navn, opdragelse, skole og religion."
+  },
+  {
+    "id": 66,
+    "chapter": "Familieliv",
+    "question": "Hvad siger loven om at slå børn i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Det er tilladt som disciplinering"
+      },
+      {
+        "key": "B",
+        "text": "Det er forbudt at slå børn"
+      },
+      {
+        "key": "C",
+        "text": "Det er tilladt, hvis det ikke efterlader synlige skader"
+      },
+      {
+        "key": "D",
+        "text": "Det er kun forbudt i skolen"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Det er forbudt at slå børn. Forbuddet gælder i alle situationer, herunder i hjemmet."
+  },
+  {
+    "id": 67,
+    "chapter": "Forenings- og fritidsliv",
+    "question": "Hvad siger grundloven om retten til at danne foreninger?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Myndighederne skal godkende en forening, inden den oprettes"
+      },
+      {
+        "key": "B",
+        "text": "Alle har ret til at danne foreninger med lovligt formål uden forudgående tilladelse fra myndighederne"
+      },
+      {
+        "key": "C",
+        "text": "Kun danske statsborgere må danne foreninger"
+      },
+      {
+        "key": "D",
+        "text": "Man skal have mindst 10 medlemmer for at danne en forening"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Myndighederne skal ikke først godkende en forening, som borgerne ønsker at danne. Retten til at danne en forening hænger sammen med forenings-, forsamlings- og ytringsfriheden i grundloven."
+  },
+  {
+    "id": 68,
+    "chapter": "Forenings- og fritidsliv",
+    "question": "Hvem inspirerede udviklingen af højskolen i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Hans Christian Andersen"
+      },
+      {
+        "key": "B",
+        "text": "Søren Kierkegaard"
+      },
+      {
+        "key": "C",
+        "text": "N.F.S. Grundtvig"
+      },
+      {
+        "key": "D",
+        "text": "Carl Nielsen"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Højskolen er bl.a. inspireret af Nikolai Frederik Severin Grundtvig (1783-1872), som var en dansk digter og præst. Hans ideer om skole og læring fik stor betydning for bl.a. udviklingen af højskoler i Danmark."
+  },
+  {
+    "id": 69,
+    "chapter": "Forenings- og fritidsliv",
+    "question": "Hvad kendetegner aftenskoler i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Man skal bestå en eksamen for at afslutte kurset"
+      },
+      {
+        "key": "B",
+        "text": "De giver undervisning i mange emner uden eksamen mod betaling"
+      },
+      {
+        "key": "C",
+        "text": "De er gratis og tilbydes af kommunen"
+      },
+      {
+        "key": "D",
+        "text": "De er kun for voksne over 25 år"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Aftenskoler giver undervisning i mange forskellige emner. Der er heller ikke eksamen på aftenskoler. Man skal betale for at gå på aftenskole."
+  },
+  {
+    "id": 70,
+    "chapter": "Forenings- og fritidsliv",
+    "question": "Hvad kendetegner en højskole i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Det er en videregående uddannelse med eksamen"
+      },
+      {
+        "key": "B",
+        "text": "Det er en skole, man bor på, med fokus på personlig og faglig udvikling uden eksamen"
+      },
+      {
+        "key": "C",
+        "text": "Det er en specialskole for elever med særlige behov"
+      },
+      {
+        "key": "D",
+        "text": "Det er et gymnasium med fokus på natur og miljø"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "På en højskole er der fokus på at udvikle sig fagligt og personligt. Man bor normalt på højskolen under sit ophold, og man går ikke til eksamen."
+  },
+  {
+    "id": 71,
+    "chapter": "Forenings- og fritidsliv",
+    "question": "Hvad er et eksempel på frivilligt socialt arbejde?",
+    "options": [
+      {
+        "key": "A",
+        "text": "At arbejde som tillidsrepræsentant på sin arbejdsplads"
+      },
+      {
+        "key": "B",
+        "text": "At hjælpe skolebørn med lektierne i en lektiecafé"
+      },
+      {
+        "key": "C",
+        "text": "At gå til fodbold i en idrætsforening"
+      },
+      {
+        "key": "D",
+        "text": "At deltage i undervisning på en aftenskole"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Lektiecaféer, hvor man hjælper skolebørn med lektierne, er et eksempel på frivilligt socialt arbejde."
+  },
+  {
+    "id": 72,
+    "chapter": "Forenings- og fritidsliv",
+    "question": "Hvor mange højskoler er der i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ca. 30"
+      },
+      {
+        "key": "B",
+        "text": "Ca. 50"
+      },
+      {
+        "key": "C",
+        "text": "Ca. 70"
+      },
+      {
+        "key": "D",
+        "text": "Ca. 100"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Der er omkring 70 forskellige højskoler i Danmark."
+  },
+  {
+    "id": 73,
+    "chapter": "Forenings- og fritidsliv",
+    "question": "Hvad kan man låne gratis på et folkebibliotek?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kun bøger på dansk"
+      },
+      {
+        "key": "B",
+        "text": "Bøger, magasiner, musik, film og computerspil – og der er gratis adgang til computer og internet"
+      },
+      {
+        "key": "C",
+        "text": "Kun bøger og aviser"
+      },
+      {
+        "key": "D",
+        "text": "Musikinstrumenter og sportsudstyr"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "På biblioteket kan man gratis låne bøger, magasiner, musik, film og computerspil, og der er gratis adgang til computere og internet."
+  },
+  {
+    "id": 74,
+    "chapter": "Sundhed og sygdom",
+    "question": "Hvad er et sundhedskort?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Et kort, der viser ens vaccinationshistorik"
+      },
+      {
+        "key": "B",
+        "text": "Et gult plastikkort, der er bevis på ret til behandling i det offentlige sundhedsvæsen"
+      },
+      {
+        "key": "C",
+        "text": "Et forsikringskort for private sygdomme"
+      },
+      {
+        "key": "D",
+        "text": "Et internationalt sundhedspas"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Sundhedskortet er et gult plastikkort og kan også downloades som app. Det er bevis på, at man har ret til behandling i det offentlige sundhedsvæsen."
+  },
+  {
+    "id": 75,
+    "chapter": "Sundhed og sygdom",
+    "question": "Hvad er receptpligtig medicin?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Medicin, man kun kan købe på apoteket med recept fra sin læge"
+      },
+      {
+        "key": "B",
+        "text": "Medicin, man kan købe i supermarkedet"
+      },
+      {
+        "key": "C",
+        "text": "Medicin, der kun gives på sygehuset"
+      },
+      {
+        "key": "D",
+        "text": "Medicin, der er gratis for alle borgere"
+      }
+    ],
+    "correctKey": "A",
+    "explanation": "Receptpligtig medicin kan man kun købe, hvis man har fået en recept af sin læge. Den kan kun købes på apoteket."
+  },
+  {
+    "id": 76,
+    "chapter": "Sundhed og sygdom",
+    "question": "Til hvem er gratis tandpleje (2024)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Til alle borgere uanset alder"
+      },
+      {
+        "key": "B",
+        "text": "Til børn og unge til og med 20 år"
+      },
+      {
+        "key": "C",
+        "text": "Kun til børn under 10 år"
+      },
+      {
+        "key": "D",
+        "text": "Til borgere over 65 år"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Alle børn i Danmark kan få gratis tandpleje til og med 20 år i 2024. Aldersgrænsen stiger til 21 år i 2025."
+  },
+  {
+    "id": 77,
+    "chapter": "Sundhed og sygdom",
+    "question": "Hvad er 'frit sygehusvalg'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Man kan vælge at gå til et privat sygehus, og behandlingen er altid gratis"
+      },
+      {
+        "key": "B",
+        "text": "Man kan normalt selv vælge, hvilket offentligt sygehus man vil behandles på"
+      },
+      {
+        "key": "C",
+        "text": "Man kan vælge sygehus i et andet EU-land gratis"
+      },
+      {
+        "key": "D",
+        "text": "Man kan vælge sin behandling uanset alder og indkomst"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Frit sygehusvalg betyder, at man normalt selv kan vælge, hvilket offentligt sygehus man vil behandles på."
+  },
+  {
+    "id": 78,
+    "chapter": "Sundhed og sygdom",
+    "question": "Hvem driver de offentlige sygehuse i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Staten"
+      },
+      {
+        "key": "B",
+        "text": "Kommunerne"
+      },
+      {
+        "key": "C",
+        "text": "De danske regioner"
+      },
+      {
+        "key": "D",
+        "text": "Private selskaber"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "De offentlige sygehuse bliver drevet af de danske regioner."
+  },
+  {
+    "id": 79,
+    "chapter": "Sundhed og sygdom",
+    "question": "Hvad er aldersgrænsen for at købe øl og vin (pr. 2024)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "15 år"
+      },
+      {
+        "key": "B",
+        "text": "16 år"
+      },
+      {
+        "key": "C",
+        "text": "18 år"
+      },
+      {
+        "key": "D",
+        "text": "20 år"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Folketing har besluttet, at man skal være mindst 16 år for at kunne købe øl og vin (dog aftales vin over 6% fra 2025 at kræve 18 år)."
+  },
+  {
+    "id": 80,
+    "chapter": "Sundhed og sygdom",
+    "question": "Hvad siger rygeloven i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Det er tilladt at ryge overalt ude"
+      },
+      {
+        "key": "B",
+        "text": "Det er forbudt at ryge indendørs på de fleste arbejdspladser, restauranter, caféer, barer og diskoteker"
+      },
+      {
+        "key": "C",
+        "text": "Det er kun forbudt at ryge i skolen"
+      },
+      {
+        "key": "D",
+        "text": "Rygeforbuddet gælder kun for offentlige institutioner"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Der er vedtaget en rygelov, som betyder, at det er forbudt at ryge indendørs på de fleste arbejdspladser, restauranter, caféer, barer og diskoteker."
+  },
+  {
+    "id": 81,
+    "chapter": "Sundhed og sygdom",
+    "question": "Hvornår begynder børns regelmæssige lægeundersøgelser ifølge programmet?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Fra barnet er 1 år"
+      },
+      {
+        "key": "B",
+        "text": "Fra barnet er 5 uger til det er 5 år (7 forebyggende børneundersøgelser)"
+      },
+      {
+        "key": "C",
+        "text": "Fra barnet begynder i vuggestue"
+      },
+      {
+        "key": "D",
+        "text": "Fra barnet er 6 måneder"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Fra et barn er fem uger, til det er fem år, kan det få syv forebyggende børneundersøgelser hos lægen."
+  },
+  {
+    "id": 82,
+    "chapter": "Ligestilling",
+    "question": "Hvornår fik kvinder stemmeret til Folketinget (den lovgivende forsamling)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1849"
+      },
+      {
+        "key": "B",
+        "text": "1905"
+      },
+      {
+        "key": "C",
+        "text": "1915"
+      },
+      {
+        "key": "D",
+        "text": "1924"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Kvinders ret til at stemme til den lovgivende forsamling blev indført i 1915, da man ændrede grundloven."
+  },
+  {
+    "id": 83,
+    "chapter": "Ligestilling",
+    "question": "Hvem var Danmarks første kvindelige minister?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Helle Thorning-Schmidt"
+      },
+      {
+        "key": "B",
+        "text": "Nina Bang (undervisningsminister i 1924)"
+      },
+      {
+        "key": "C",
+        "text": "Margrethe Vestager"
+      },
+      {
+        "key": "D",
+        "text": "Ritt Bjerregaard"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Den første kvindelige minister i Danmark var Nina Bang, som blev undervisningsminister i 1924."
+  },
+  {
+    "id": 84,
+    "chapter": "Ligestilling",
+    "question": "Hvem var Danmarks første kvindelige statsminister?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Nina Bang"
+      },
+      {
+        "key": "B",
+        "text": "Ritt Bjerregaard"
+      },
+      {
+        "key": "C",
+        "text": "Helle Thorning-Schmidt (i 2011)"
+      },
+      {
+        "key": "D",
+        "text": "Mette Frederiksen"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "I 2011 fik Danmark sin første kvindelige statsminister, Helle Thorning-Schmidt."
+  },
+  {
+    "id": 85,
+    "chapter": "Ligestilling",
+    "question": "Hvad er loven om ligeløn?",
+    "options": [
+      {
+        "key": "A",
+        "text": "At alle ansatte i samme virksomhed skal have samme løn"
+      },
+      {
+        "key": "B",
+        "text": "At mænd og kvinder har krav på samme løn for samme arbejde"
+      },
+      {
+        "key": "C",
+        "text": "At staten bestemmer mindsteløn for alle"
+      },
+      {
+        "key": "D",
+        "text": "At lønnen skal offentliggøres i alle virksomheder"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Ifølge lov om ligeløn har mænd og kvinder krav på samme løn for samme arbejde."
+  },
+  {
+    "id": 86,
+    "chapter": "Ligestilling",
+    "question": "Hvad kan par af samme køn i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "De kan leve sammen, men ikke gifte sig"
+      },
+      {
+        "key": "B",
+        "text": "De kan gifte sig og adoptere børn på samme vilkår som par af forskelligt køn"
+      },
+      {
+        "key": "C",
+        "text": "De kan gifte sig, men ikke adoptere"
+      },
+      {
+        "key": "D",
+        "text": "De har ingen særlige rettigheder ifølge dansk lov"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Par af samme køn kan blive gift på lige fod med andre par, og de kan adoptere børn på samme vilkår som par af forskelligt køn."
+  },
+  {
+    "id": 87,
+    "chapter": "Ligestilling",
+    "question": "Hvad kan man gøre, hvis man oplever diskrimination på grund af køn eller etnisk oprindelse?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Man kan henvende sig til politiet og betale et gebyr for at klage"
+      },
+      {
+        "key": "B",
+        "text": "Man kan klage til Ligebehandlingsnævnet – det er gratis at klage"
+      },
+      {
+        "key": "C",
+        "text": "Man kan kun klage til sin arbejdsgiver"
+      },
+      {
+        "key": "D",
+        "text": "Der er ingen klagesystem for dette i Danmark"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Hvis man oplever forskelsbehandling i strid med loven, kan man klage til Ligebehandlingsnævnet. Det er gratis at klage."
+  },
+  {
+    "id": 88,
+    "chapter": "Ligestilling",
+    "question": "Hvad er andelen af kvinder i Folketinget (aktuelt)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ca. 25%"
+      },
+      {
+        "key": "B",
+        "text": "Ca. 35%"
+      },
+      {
+        "key": "C",
+        "text": "Ca. 44%"
+      },
+      {
+        "key": "D",
+        "text": "Ca. 50%"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "44 procent af medlemmerne af det danske Folketing er kvinder."
+  },
+  {
+    "id": 89,
+    "chapter": "Demokrati og grundloven",
+    "question": "Hvornår fik Danmark sin første demokratiske grundlov?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1660"
+      },
+      {
+        "key": "B",
+        "text": "1849"
+      },
+      {
+        "key": "C",
+        "text": "1915"
+      },
+      {
+        "key": "D",
+        "text": "1953"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Danmark fik sin første demokratiske forfatning, grundloven, i 1849."
+  },
+  {
+    "id": 90,
+    "chapter": "Demokrati og grundloven",
+    "question": "Hvornår er den nuværende danske grundlov fra?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1849"
+      },
+      {
+        "key": "B",
+        "text": "1915"
+      },
+      {
+        "key": "C",
+        "text": "1945"
+      },
+      {
+        "key": "D",
+        "text": "1953"
+      }
+    ],
+    "correctKey": "D",
+    "explanation": "Grundloven er sidst ændret i 1953. Den nuværende grundlov er fra 1953."
+  },
+  {
+    "id": 91,
+    "chapter": "Demokrati og grundloven",
+    "question": "Hvad er statsmagtens tredeling?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Stat, region og kommune"
+      },
+      {
+        "key": "B",
+        "text": "Den lovgivende (Folketing + regering), den udøvende (regering) og den dømmende magt (domstolene)"
+      },
+      {
+        "key": "C",
+        "text": "Kongen, Statsministeren og Højesteret"
+      },
+      {
+        "key": "D",
+        "text": "Folketing, Landsting og Ministeriet"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Statsmagten er tredelt i den lovgivende (Folketing + regering), den udøvende (regering) og den dømmende magt (domstolene)."
+  },
+  {
+    "id": 92,
+    "chapter": "Demokrati og grundloven",
+    "question": "Hvornår arvede Kong Frederik 10. tronen?",
+    "options": [
+      {
+        "key": "A",
+        "text": "I 2020"
+      },
+      {
+        "key": "B",
+        "text": "I 2022"
+      },
+      {
+        "key": "C",
+        "text": "I 2024"
+      },
+      {
+        "key": "D",
+        "text": "I 2019"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Kong Frederik 10. arvede tronen i 2024 efter sin mor, Dronning Margrethe 2."
+  },
+  {
+    "id": 93,
+    "chapter": "Demokrati og grundloven",
+    "question": "Hvem er Kronprins i Danmark (2024)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Prins Vincent"
+      },
+      {
+        "key": "B",
+        "text": "Kronprins Christian"
+      },
+      {
+        "key": "C",
+        "text": "Prins Joachim"
+      },
+      {
+        "key": "D",
+        "text": "Prins Henrik"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Efter Frederik 10. vil tronen gå i arv til Kronprins Christian."
+  },
+  {
+    "id": 94,
+    "chapter": "Demokrati og grundloven",
+    "question": "Hvad beskytter ytringsfriheden?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Retten til at sige og skrive det, man mener, men med visse lovmæssige begrænsninger"
+      },
+      {
+        "key": "B",
+        "text": "Retten til at sige alt uden nogen begrænsninger"
+      },
+      {
+        "key": "C",
+        "text": "Kun retten til at skrive i aviser"
+      },
+      {
+        "key": "D",
+        "text": "Retten til at demonstrere"
+      }
+    ],
+    "correctKey": "A",
+    "explanation": "Ytringsfriheden dækker retten til offentligt at sige og skrive det, man mener – men ytringerne må ikke være ulovlige (fx injurier eller racistiske udtalelser)."
+  },
+  {
+    "id": 95,
+    "chapter": "Demokrati og grundloven",
+    "question": "Hvad kræves for at ændre grundloven?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Et simpelt flertal i Folketinget"
+      },
+      {
+        "key": "B",
+        "text": "Et flertal i siddende Folketing → nyvalg → nyt Folketing vedtager → folkeafstemning med mindst 40% af vælgerne stemmer for"
+      },
+      {
+        "key": "C",
+        "text": "Kongens godkendelse og et flertal i Folketing"
+      },
+      {
+        "key": "D",
+        "text": "Folkeafstemning med simpelt flertal"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "En ændring af grundloven skal vedtages af det siddende Folketing, derefter nyvalg, nyt Folketing vedtager det i uændret form, og til sidst folkeafstemning med flertal og mindst 40% af alle vælgere."
+  },
+  {
+    "id": 96,
+    "chapter": "Demokrati og grundloven",
+    "question": "Hvad er enevælde?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Et system, hvor befolkningen vælger en stærk præsident"
+      },
+      {
+        "key": "B",
+        "text": "En styreform, hvor kongen alene har magten – gjaldt i Danmark fra 1660-61 til 1848"
+      },
+      {
+        "key": "C",
+        "text": "Et demokrati med begrænset stemmeret"
+      },
+      {
+        "key": "D",
+        "text": "En form for koalitionsregering"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Enevælden var en styreform, hvor kongen havde magten alene. Danmark havde enevælde fra 1660-61 og frem til grundloven i 1849."
+  },
+  {
+    "id": 97,
+    "chapter": "Det danske retssamfund",
+    "question": "Inden for hvilken tidsramme skal en anholdt person stilles for en dommer?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Inden 12 timer"
+      },
+      {
+        "key": "B",
+        "text": "Inden 24 timer"
+      },
+      {
+        "key": "C",
+        "text": "Inden 48 timer"
+      },
+      {
+        "key": "D",
+        "text": "Inden 72 timer"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Hvis en person bliver anholdt, skal personen enten løslades igen eller stilles for en dommer inden for 24 timer."
+  },
+  {
+    "id": 98,
+    "chapter": "Det danske retssamfund",
+    "question": "Hvad er den hårdeste straf i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Dødsstraf"
+      },
+      {
+        "key": "B",
+        "text": "Fængsel på livstid"
+      },
+      {
+        "key": "C",
+        "text": "30 års fængsel"
+      },
+      {
+        "key": "D",
+        "text": "Livsvarig husarrest"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Den hårdeste straf er fængsel på livstid. Der er ikke dødsstraf i Danmark."
+  },
+  {
+    "id": 99,
+    "chapter": "Det danske retssamfund",
+    "question": "Hvad er den laveste aldersgrænse for straf i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Børn under 12 år kan ikke straffes"
+      },
+      {
+        "key": "B",
+        "text": "Børn under 15 år kan ikke straffes"
+      },
+      {
+        "key": "C",
+        "text": "Børn under 18 år kan ikke straffes"
+      },
+      {
+        "key": "D",
+        "text": "Alle kan straffes uanset alder"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Børn under 15 år kan ikke straffes og kan altså ikke blive dømt til at betale bøder eller komme i fængsel."
+  },
+  {
+    "id": 100,
+    "chapter": "Det danske retssamfund",
+    "question": "Hvad er Højesteret?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Den laveste domstol i Danmark"
+      },
+      {
+        "key": "B",
+        "text": "Danmarks øverste domstol"
+      },
+      {
+        "key": "C",
+        "text": "Den domstol, der behandler alle sager i første instans"
+      },
+      {
+        "key": "D",
+        "text": "Den domstol, der kun behandler skattesager"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Højesteret er Danmarks øverste domstol."
+  },
+  {
+    "id": 101,
+    "chapter": "Det danske retssamfund",
+    "question": "Hvad er de to landsretter i Danmark, og hvor er de?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sjællands Landsret i Roskilde og Jyllands Landsret i Vejle"
+      },
+      {
+        "key": "B",
+        "text": "Østre Landsret i København og Vestre Landsret i Viborg"
+      },
+      {
+        "key": "C",
+        "text": "Nordre Landsret i Aalborg og Søndre Landsret i Odense"
+      },
+      {
+        "key": "D",
+        "text": "Der er kun én landsret i Danmark"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Der er to landsretter i Danmark: Østre Landsret i København og Vestre Landsret i Viborg."
+  },
+  {
+    "id": 102,
+    "chapter": "Det danske retssamfund",
+    "question": "Hvad er en betinget fængselsstraf?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En straf, der altid skal afsones"
+      },
+      {
+        "key": "B",
+        "text": "En straf, der kan undgås, hvis man opfylder visse betingelser – fx ikke begår ny kriminalitet i en periode"
+      },
+      {
+        "key": "C",
+        "text": "En straf, der kun gives til unge under 18 år"
+      },
+      {
+        "key": "D",
+        "text": "En straf, der automatisk nedsættes efter to år"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "En betinget fængselsstraf betyder, at man kan undgå at afsone fængselsstraffen, hvis man opfylder nogle betingelser – fx ikke begår ny kriminalitet i en periode."
+  },
+  {
+    "id": 103,
+    "chapter": "Det danske retssamfund",
+    "question": "Hvad er en straffeattest?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Et dokument, der viser ens uddannelsesniveau"
+      },
+      {
+        "key": "B",
+        "text": "Et dokument, der viser om en person har været straffet for visse forbrydelser"
+      },
+      {
+        "key": "C",
+        "text": "En politirapport om en anmeldelse"
+      },
+      {
+        "key": "D",
+        "text": "Et certifikat for god opførsel"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "En straffeattest er et dokument, der viser, om en person har været straffet for visse forbrydelser."
+  },
+  {
+    "id": 104,
+    "chapter": "Folketing og regering",
+    "question": "Hvad er Folketing og regering tilsammen?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Den udøvende magt"
+      },
+      {
+        "key": "B",
+        "text": "Den lovgivende magt"
+      },
+      {
+        "key": "C",
+        "text": "Den dømmende magt"
+      },
+      {
+        "key": "D",
+        "text": "Den administrative magt"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Folketing og regering udgør tilsammen den lovgivende magt."
+  },
+  {
+    "id": 105,
+    "chapter": "Folketing og regering",
+    "question": "Hvor mange medlemmer er der i Folketinget i alt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "175"
+      },
+      {
+        "key": "B",
+        "text": "177"
+      },
+      {
+        "key": "C",
+        "text": "179"
+      },
+      {
+        "key": "D",
+        "text": "181"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Folketinget har 179 medlemmer: 175 er valgt i Danmark, to er valgt på Færøerne og to i Grønland."
+  },
+  {
+    "id": 106,
+    "chapter": "Folketing og regering",
+    "question": "Hvad sker der hvert onsdag i Folketinget?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Der afholdes altid et særligt møde om klimaet"
+      },
+      {
+        "key": "B",
+        "text": "Der er spørgetid, hvor ministre svarer på spørgsmål fra Folketingets medlemmer"
+      },
+      {
+        "key": "C",
+        "text": "Finansloven vedtages"
+      },
+      {
+        "key": "D",
+        "text": "Regeringen præsenterer sine lovforslag"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Hvert onsdag er der spørgetid i Folketinget. Her svarer en eller flere ministre på spørgsmål fra medlemmerne af Folketinget."
+  },
+  {
+    "id": 107,
+    "chapter": "Folketing og regering",
+    "question": "Hvem bestemmer, hvem der skal være minister og hvor mange ministre der skal være?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kongen"
+      },
+      {
+        "key": "B",
+        "text": "Parlamentet"
+      },
+      {
+        "key": "C",
+        "text": "Statsministeren alene"
+      },
+      {
+        "key": "D",
+        "text": "Alle partilederne i fællesskab"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Det er alene statsministeren, som bestemmer, hvem der skal være minister, og hvor mange ministre der skal være i en regering."
+  },
+  {
+    "id": 108,
+    "chapter": "Folketing og regering",
+    "question": "Hvad er en mindretalsregering?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En regering med under fem partier"
+      },
+      {
+        "key": "B",
+        "text": "En regering, hvis partier ikke tilsammen har flertal i Folketinget og er afhængig af støttepartier"
+      },
+      {
+        "key": "C",
+        "text": "En regering med meget lavt meningsmålingsresultat"
+      },
+      {
+        "key": "D",
+        "text": "En regering, der kun repræsenterer mindretalsgrupper"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "En mindretalsregering er en, hvor regeringspartierne ikke har flertal i Folketinget og er afhængig af støtte fra andre partier."
+  },
+  {
+    "id": 109,
+    "chapter": "Folketing og regering",
+    "question": "Hvad er en flertalsregering, og hvem har siden 2022 dannet en sådan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En koalition med mere end fem partier – dannet af Enhedslisten, SF og Alternativet"
+      },
+      {
+        "key": "B",
+        "text": "En regering, hvis partier tilsammen har flertal i Folketing – siden 2022: Socialdemokratiet, Venstre og Moderaterne"
+      },
+      {
+        "key": "C",
+        "text": "En regering valgt direkte af befolkningen"
+      },
+      {
+        "key": "D",
+        "text": "En regering, der altid opnår 80% opbakning"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Siden 2022 har Danmark haft en flertalsregering bestående af Socialdemokratiet, Venstre og Moderaterne."
+  },
+  {
+    "id": 110,
+    "chapter": "Folketing og regering",
+    "question": "Hvad er et parlamentarisk demokrati?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Et demokrati, hvor præsidenten har den øverste magt"
+      },
+      {
+        "key": "B",
+        "text": "Et demokrati, hvor Folketing bestemmer, hvem der skal have regeringsmagten – en regering kan ikke dannes, hvis den har et flertal imod sig"
+      },
+      {
+        "key": "C",
+        "text": "Et demokrati, hvor borgerne direkte vedtager alle love"
+      },
+      {
+        "key": "D",
+        "text": "Et demokrati med enevældig monark"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Det danske demokrati er et parlamentarisk demokrati – Folketing bestemmer, hvem der har regeringsmagten, og en regering kan ikke dannes, hvis den har et flertal imod sig."
+  },
+  {
+    "id": 111,
+    "chapter": "Det lokale selvstyre",
+    "question": "Hvor mange kommuner er der i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "80"
+      },
+      {
+        "key": "B",
+        "text": "90"
+      },
+      {
+        "key": "C",
+        "text": "98"
+      },
+      {
+        "key": "D",
+        "text": "110"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Der er 98 kommuner i Danmark."
+  },
+  {
+    "id": 112,
+    "chapter": "Det lokale selvstyre",
+    "question": "Hvad hedder formanden for kommunalbestyrelsen?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Regionsrådsformand"
+      },
+      {
+        "key": "B",
+        "text": "Borgmester"
+      },
+      {
+        "key": "C",
+        "text": "Amtmand"
+      },
+      {
+        "key": "D",
+        "text": "Kommunaldirektør"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Formanden for kommunalbestyrelsen kaldes borgmesteren (i København: overborgmesteren)."
+  },
+  {
+    "id": 113,
+    "chapter": "Det lokale selvstyre",
+    "question": "Hvad har regionerne ansvaret for?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Vejene og affaldsindsamlingen"
+      },
+      {
+        "key": "B",
+        "text": "Primært sundhedsområdet – herunder driften af de offentlige sygehuse"
+      },
+      {
+        "key": "C",
+        "text": "Folkeskoler og daginstitutioner"
+      },
+      {
+        "key": "D",
+        "text": "Boligstøtte og sociale ydelser"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Regionerne har bl.a. ansvar for sundhedsområdet. Det er regionerne, der driver de offentlige sygehuse."
+  },
+  {
+    "id": 114,
+    "chapter": "Det lokale selvstyre",
+    "question": "Hvad er de fem regioner i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Nord, Syd, Øst, Vest og Midt"
+      },
+      {
+        "key": "B",
+        "text": "Region Hovedstaden, Region Sjælland, Region Syddanmark, Region Midtjylland og Region Nordjylland"
+      },
+      {
+        "key": "C",
+        "text": "Sjælland, Bornholm, Fyn, Jylland og Sønderjylland"
+      },
+      {
+        "key": "D",
+        "text": "Storkøbenhavn, Vestsjælland, Østjylland, Nordjylland og Sønderjylland"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "De fem regioner er: Region Hovedstaden, Region Sjælland, Region Syddanmark, Region Midtjylland og Region Nordjylland."
+  },
+  {
+    "id": 115,
+    "chapter": "Det lokale selvstyre",
+    "question": "Hvornår holdes der valg til kommuner og regionsråd?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Hvert 3. år"
+      },
+      {
+        "key": "B",
+        "text": "Hvert 4. år (fx 2017, 2021, 2025)"
+      },
+      {
+        "key": "C",
+        "text": "Hvert 5. år"
+      },
+      {
+        "key": "D",
+        "text": "Hvert 2. år"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Der er valg til kommuner og regionsråd hvert fjerde år (2017, 2021, 2025 osv.)."
+  },
+  {
+    "id": 116,
+    "chapter": "Det lokale selvstyre",
+    "question": "Har regionerne ret til at udskrive skatter?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ja, regionerne udskriver deres egne skatter"
+      },
+      {
+        "key": "B",
+        "text": "Nej, regionerne har ikke ret til at udskrive skatter – de får penge direkte fra staten"
+      },
+      {
+        "key": "C",
+        "text": "Ja, men kun sundhedsskatter"
+      },
+      {
+        "key": "D",
+        "text": "Ja, men kun med Folketing godkendelse"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Regionerne har ikke ret til at udskrive skatter, men får deres penge direkte fra staten."
+  },
+  {
+    "id": 117,
+    "chapter": "Det lokale selvstyre",
+    "question": "Hvad er KL?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kommunernes Landsforening – kommunernes interesseorganisation"
+      },
+      {
+        "key": "B",
+        "text": "Konservative Liberale – et politisk parti"
+      },
+      {
+        "key": "C",
+        "text": "Kommunal Lovgivning – en lov om kommuner"
+      },
+      {
+        "key": "D",
+        "text": "Kulturens Landsforening"
+      }
+    ],
+    "correctKey": "A",
+    "explanation": "De 98 kommuner har en interesseorganisation, der hedder Kommunernes Landsforening (KL)."
+  },
+  {
+    "id": 118,
+    "chapter": "Folkestyret i praksis – valg og partier",
+    "question": "Hvad kræves for at have stemmeret til Folketing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Dansk statsborgerskab, 18 år, fast bopæl i Danmark/Færøerne/Grønland"
+      },
+      {
+        "key": "B",
+        "text": "Fast bopæl i Danmark i mindst 5 år"
+      },
+      {
+        "key": "C",
+        "text": "Dansk statsborgerskab og mindst 21 år"
+      },
+      {
+        "key": "D",
+        "text": "Statsborgerskab i et EU-land og 18 år"
+      }
+    ],
+    "correctKey": "A",
+    "explanation": "For at stemme til Folketing skal man: have dansk statsborgerskab, være fyldt 18 år og have fast bopæl i Danmark, på Færøerne eller i Grønland."
+  },
+  {
+    "id": 119,
+    "chapter": "Folkestyret i praksis – valg og partier",
+    "question": "Hvem kan stemme til kommunal- og regionalvalg?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kun danske statsborgere"
+      },
+      {
+        "key": "B",
+        "text": "EU-borgere, norske og islandske statsborgere samt andre udlændinge med fast bopæl i mindst 4 år – alle mindst 18 år"
+      },
+      {
+        "key": "C",
+        "text": "Alle udlændinge med opholdstilladelse uanset bopælstid"
+      },
+      {
+        "key": "D",
+        "text": "Kun borgere, der er mindst 21 år"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "EU-borgere (Norge/Island inkluderet) samt andre udlændinge med fast bopæl i mindst 4 år har stemmeret til kommunal- og regionalvalg, hvis de er mindst 18 år."
+  },
+  {
+    "id": 120,
+    "chapter": "Folkestyret i praksis – valg og partier",
+    "question": "Hvad er valgprocenten normalt ved Folketing-valg?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ca. 60-70%"
+      },
+      {
+        "key": "B",
+        "text": "Ca. 70-80%"
+      },
+      {
+        "key": "C",
+        "text": "Ca. 80-90%"
+      },
+      {
+        "key": "D",
+        "text": "Over 95%"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Normalt stemmer mellem 80 og 90 procent af de stemmeberettigede ved Folketing-valgene."
+  },
+  {
+    "id": 121,
+    "chapter": "Folkestyret i praksis – valg og partier",
+    "question": "Hvad er et politisk partis vigtigste funktion?",
+    "options": [
+      {
+        "key": "A",
+        "text": "At administrere den offentlige sektor"
+      },
+      {
+        "key": "B",
+        "text": "At arbejde for et bestemt politisk program og opstille kandidater til valg"
+      },
+      {
+        "key": "C",
+        "text": "At drive fagforeninger"
+      },
+      {
+        "key": "D",
+        "text": "At rådgive dommere i retssager"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Et politisk parti er en forening, der arbejder for et bestemt politisk program og opstiller kandidater til et valg."
+  },
+  {
+    "id": 122,
+    "chapter": "Folkestyret i praksis – valg og partier",
+    "question": "Hvad er en folkeafstemning?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Et valg til Folketing"
+      },
+      {
+        "key": "B",
+        "text": "En afstemning om en konkret sag, som hele befolkningen kan deltage i"
+      },
+      {
+        "key": "C",
+        "text": "Et kommunalvalg"
+      },
+      {
+        "key": "D",
+        "text": "En intern afstemning i et politisk parti"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Folkeafstemninger afholdes om helt konkrete ting, fx valgretsalderen eller Danmarks overladelse af suverænitet til internationale organer."
+  },
+  {
+    "id": 123,
+    "chapter": "Folkestyret i praksis – valg og partier",
+    "question": "Hvad er brevstemme?",
+    "options": [
+      {
+        "key": "A",
+        "text": "At stemme online via internettet"
+      },
+      {
+        "key": "B",
+        "text": "At stemme inden selve valgdagen – fx fordi man er bortrejst"
+      },
+      {
+        "key": "C",
+        "text": "At sende sin stemmeseddel med post efter valget"
+      },
+      {
+        "key": "D",
+        "text": "At stemme på vegne af et fraværende familiemedlem"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Man kan stemme inden valget, fx fordi man er bortrejst på selve valgdagen. Det kaldes at brevstemme."
+  },
+  {
+    "id": 124,
+    "chapter": "Folkestyret i praksis – valg og partier",
+    "question": "Hvem bestemmer, hvornår der skal udskrives Folketing-valg?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kongen"
+      },
+      {
+        "key": "B",
+        "text": "Statsministeren"
+      },
+      {
+        "key": "C",
+        "text": "Højesteret"
+      },
+      {
+        "key": "D",
+        "text": "Et flertal i Folketing"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Det er statsministeren, der bestemmer, hvornår der skal udskrives Folketing-valg, men der skal dog holdes valg mindst hvert fjerde år."
+  },
+  {
+    "id": 125,
+    "chapter": "Borgernes rettigheder og pligter",
+    "question": "Hvad er frihedsrettigheder i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Retten til gratis uddannelse og lægehjælp"
+      },
+      {
+        "key": "B",
+        "text": "Religionsfrihed, ytringsfrihed, forsamlingsfrihed og foreningsfrihed"
+      },
+      {
+        "key": "C",
+        "text": "Retten til arbejde og bolig"
+      },
+      {
+        "key": "D",
+        "text": "Retten til at stemme og stille op til valg"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Frihedsrettigheder er bl.a. religionsfrihed, ytringsfrihed, forsamlingsfrihed og foreningsfrihed."
+  },
+  {
+    "id": 126,
+    "chapter": "Borgernes rettigheder og pligter",
+    "question": "Hvad er sociale rettigheder?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Retten til at danne foreninger og deltage i valg"
+      },
+      {
+        "key": "B",
+        "text": "Retten til at modtage forskellige former for ydelser og tilbud, hvis man har brug for hjælp – fx gratis lægehjælp"
+      },
+      {
+        "key": "C",
+        "text": "Retten til at ytre sig frit"
+      },
+      {
+        "key": "D",
+        "text": "Retten til fri abort"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Sociale rettigheder er bl.a. retten til at modtage ydelser og tilbud, hvis man har brug for hjælp – fx gratis lægehjælp eller støtte ved arbejdsløshed."
+  },
+  {
+    "id": 127,
+    "chapter": "Borgernes rettigheder og pligter",
+    "question": "Hvad er værnepligt i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En frivillig ordning for unge mænd og kvinder"
+      },
+      {
+        "key": "B",
+        "text": "En pligt for alle mænd til at være med til at forsvare landet (og fra 2027 også kvinder)"
+      },
+      {
+        "key": "C",
+        "text": "En pligt til at arbejde frivilligt i et år"
+      },
+      {
+        "key": "D",
+        "text": "En pligt til at betale en særlig forsvarsskat"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Alle mænd i Danmark har pligt til at være med til at forsvare landet (værnepligt). Det er besluttet, at kvinder fra 2027 også skal aftjene værnepligt."
+  },
+  {
+    "id": 128,
+    "chapter": "Borgernes rettigheder og pligter",
+    "question": "Hvad er skattepligten?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Man betaler kun skat af løn"
+      },
+      {
+        "key": "B",
+        "text": "Man har pligt til at betale skat af sine indtægter – fx løn, sociale ydelser, SU, bankrenter og gevinster fra aktier"
+      },
+      {
+        "key": "C",
+        "text": "Kun borgere over 25 år er skattepligtige"
+      },
+      {
+        "key": "D",
+        "text": "Skat betales frivilligt til statskassen"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Man har pligt til at betale skat af sine indtægter – ikke kun af løn, men også af fx mange sociale ydelser, SU, bankrenter og aktiegevinster."
+  },
+  {
+    "id": 129,
+    "chapter": "Borgernes rettigheder og pligter",
+    "question": "Hvad er 'Forsvarets Dag'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En national festdag for det danske forsvar"
+      },
+      {
+        "key": "B",
+        "text": "En dag, hvor alle unge indkaldes til undersøgelse og test for at vurdere egnethed til militærtjeneste"
+      },
+      {
+        "key": "C",
+        "text": "En dag, hvor soldater præsenteres for offentligheden"
+      },
+      {
+        "key": "D",
+        "text": "En dag, hvor man kan melde sig frivilligt til hæren"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "På 'Forsvarets Dag' skal de unge kvinder og mænd igennem forskellige tests og en helbredsundersøgelse. Det vurderes, om de unge er egnede til militærtjeneste."
+  },
+  {
+    "id": 130,
+    "chapter": "Borgernes rettigheder og pligter",
+    "question": "Hvad er militærnægterordningen?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En ordning for kvinder, der ønsker at aftjene værnepligt"
+      },
+      {
+        "key": "B",
+        "text": "En mulighed for at nægte værnepligt i Forsvaret og Beredskabsstyrelsen og i stedet arbejde i offentlige institutioner eller nødhjælpsorganisationer"
+      },
+      {
+        "key": "C",
+        "text": "En ordning, der fritar borgere fuldstændigt fra al militærtjeneste"
+      },
+      {
+        "key": "D",
+        "text": "En ordning, der kun gælder for religiøse mindretal"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Hvis man som mand bliver tvunget til at aftjene værnepligt og nægter begge tjenester, kan man søge om at aftjene sin værnepligt igennem militærnægterordningen."
+  },
+  {
+    "id": 131,
+    "chapter": "Religion og kirke",
+    "question": "Hvad er den officielle kirke i Danmark ifølge grundloven?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Den katolske kirke"
+      },
+      {
+        "key": "B",
+        "text": "Den evangelisk-lutherske kirke (folkekirken)"
+      },
+      {
+        "key": "C",
+        "text": "Den anglikanske kirke"
+      },
+      {
+        "key": "D",
+        "text": "Den ortodokse kirke"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Ifølge grundloven er den evangelisk-lutherske kirke den danske folkekirke. Folkekirken er dermed protestantisk."
+  },
+  {
+    "id": 132,
+    "chapter": "Religion og kirke",
+    "question": "Hvornår skete reformationen i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1453"
+      },
+      {
+        "key": "B",
+        "text": "1536"
+      },
+      {
+        "key": "C",
+        "text": "1660"
+      },
+      {
+        "key": "D",
+        "text": "1849"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Den danske kirke brød i 1536 med den katolske kirke og paven i Rom. Det kaldes reformationen, og med den blev protestantismen indført."
+  },
+  {
+    "id": 133,
+    "chapter": "Religion og kirke",
+    "question": "Hvad er andelen af danskere, der er medlem af folkekirken (2024)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ca. 50%"
+      },
+      {
+        "key": "B",
+        "text": "Ca. 60%"
+      },
+      {
+        "key": "C",
+        "text": "Ca. 71%"
+      },
+      {
+        "key": "D",
+        "text": "Ca. 85%"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "De fleste borgere i Danmark (ca. 71 procent i 2024) er medlem af folkekirken."
+  },
+  {
+    "id": 134,
+    "chapter": "Religion og kirke",
+    "question": "Er det frivilligt at være medlem af folkekirken?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Nej, alle danskere er automatisk medlemmer"
+      },
+      {
+        "key": "B",
+        "text": "Ja, det er frivilligt, og man kan til- og framelde sig"
+      },
+      {
+        "key": "C",
+        "text": "Kun statsborgere kan vælge at melde sig ud"
+      },
+      {
+        "key": "D",
+        "text": "Nej, man betaler altid kirkeskat"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Det er frivilligt, om man vil være medlem af folkekirken. Man kan kun blive medlem ved at være døbt, og man kan frit melde sig ud."
+  },
+  {
+    "id": 135,
+    "chapter": "Religion og kirke",
+    "question": "Hvad er religionsfrihed i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Retten til at have hvilken som helst religion – men man skal følge folkekirken officielt"
+      },
+      {
+        "key": "B",
+        "text": "Retten til selv at vælge religion, skifte religion eller slet ikke have religion"
+      },
+      {
+        "key": "C",
+        "text": "Retten til at drive religiøse aktiviteter uden statslig kontrol"
+      },
+      {
+        "key": "D",
+        "text": "Retten til religiøs undervisning i folkeskolen"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Man kan selv vælge religion, frit vælge at skifte religion og vælge slet ikke at have en religion. Religionsfriheden blev stadfæstet med grundloven i 1849."
+  },
+  {
+    "id": 136,
+    "chapter": "Religion og kirke",
+    "question": "Hvem betaler en del af lønnen til præster og alle biskopper?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kun folkekirkens egne midler fra kirkeskat"
+      },
+      {
+        "key": "B",
+        "text": "Alle borgere via deres skat – uanset om de er medlem af folkekirken"
+      },
+      {
+        "key": "C",
+        "text": "Kirkekassen dækker det hele"
+      },
+      {
+        "key": "D",
+        "text": "Staten betaler ingenting til folkekirken"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "En del af udgifterne til kirken, herunder noget af lønnen til præster og lønnen til biskopper, betales af alle borgere gennem deres skat."
+  },
+  {
+    "id": 137,
+    "chapter": "Religion og kirke",
+    "question": "Hvad er et anerkendt trossamfund i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kun folkekirkemenigheder og katolske kirker er anerkendte"
+      },
+      {
+        "key": "B",
+        "text": "Et trossamfund, der er godkendt og har visse rettigheder – fx ret til at foretage gyldige vielser"
+      },
+      {
+        "key": "C",
+        "text": "Et trossamfund med mindst 1.000 medlemmer"
+      },
+      {
+        "key": "D",
+        "text": "Enhver forening med religiøse formål"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Der findes 431 anerkendte trossamfund og menigheder i Danmark. En godkendt menighed kan få en præst bemyndiget til at foretage vielser, der er borgerligt gyldige."
+  },
+  {
+    "id": 138,
+    "chapter": "Danmark og omverdenen",
+    "question": "Hvornår blev Danmark optaget i EU (dengang EF)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1960"
+      },
+      {
+        "key": "B",
+        "text": "1973"
+      },
+      {
+        "key": "C",
+        "text": "1986"
+      },
+      {
+        "key": "D",
+        "text": "1992"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Danmark blev medlem af EU (EF) i 1973. Det skete efter en folkeafstemning, hvor 63,4% stemte ja."
+  },
+  {
+    "id": 139,
+    "chapter": "Danmark og omverdenen",
+    "question": "Hvad skete der ved folkeafstemningen om Maastricht-traktaten i 1992?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Et flertal stemte ja til traktaten"
+      },
+      {
+        "key": "B",
+        "text": "Et flertal stemte nej til traktaten"
+      },
+      {
+        "key": "C",
+        "text": "Afstemningen endte uafgjort"
+      },
+      {
+        "key": "D",
+        "text": "Folkeafstemningen aldrig fandt sted"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "I 1992 stemte et flertal af danskerne nej til Maastricht-traktaten. Efterfølgende forhandlede Danmark sig til nogle forbehold."
+  },
+  {
+    "id": 140,
+    "chapter": "Danmark og omverdenen",
+    "question": "Hvad er de nuværende danske EU-forbehold?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Forsvarspolitik og fiskeri"
+      },
+      {
+        "key": "B",
+        "text": "Fælles valuta (euro) og retligt samarbejde"
+      },
+      {
+        "key": "C",
+        "text": "Landbrugspolitik og miljøpolitik"
+      },
+      {
+        "key": "D",
+        "text": "Fælles udenrigspolitik og told"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Danmarks forbehold handler bl.a. om den fælles valuta (euroen) og retligt samarbejde (fx regler om politi, strafferet, asyl og indvandring)."
+  },
+  {
+    "id": 141,
+    "chapter": "Danmark og omverdenen",
+    "question": "Hvornår ophævede Danmark sit forsvarsforbehold over for EU?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1. juni 2015"
+      },
+      {
+        "key": "B",
+        "text": "1. juni 2022"
+      },
+      {
+        "key": "C",
+        "text": "1. januar 2020"
+      },
+      {
+        "key": "D",
+        "text": "5. maj 1945"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Forsvarsforbehold blev ophævet som følge af en folkeafstemning den 1. juni 2022. Et flertal på 67 procent stemte ja til at ophæve forbeholdet."
+  },
+  {
+    "id": 142,
+    "chapter": "Danmark og omverdenen",
+    "question": "Hvornår blev FN grundlagt, og hvad er formålet?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Grundlagt i 1945 for at skabe fred og udvikling i verden – 193 lande er med"
+      },
+      {
+        "key": "B",
+        "text": "Grundlagt i 1949 for at danne et militærforsvar"
+      },
+      {
+        "key": "C",
+        "text": "Grundlagt i 1957 for at fremme europæisk handel"
+      },
+      {
+        "key": "D",
+        "text": "Grundlagt i 1960 for at bekæmpe fattigdom"
+      }
+    ],
+    "correctKey": "A",
+    "explanation": "FN blev grundlagt i 1945, kort efter afslutningen på 2. Verdenskrig. FN's formål er at skabe fred og udvikling i verden. I alt er 193 lande med."
+  },
+  {
+    "id": 143,
+    "chapter": "Danmark og omverdenen",
+    "question": "Hvad er Norden?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Danmark, Sverige, Finland og Island"
+      },
+      {
+        "key": "B",
+        "text": "Danmark, Norge, Sverige, Finland og Island samt de selvstyrende områder Færøerne, Grønland og Ålandsøerne"
+      },
+      {
+        "key": "C",
+        "text": "Skandinavien – kun Danmark, Sverige og Norge"
+      },
+      {
+        "key": "D",
+        "text": "Danmark, Norge og Sverige"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Norden omfatter landene Danmark, Norge, Sverige, Finland og Island samt de selvstyrende områder Færøerne, Grønland (under Danmark) og Ålandsøerne (under Finland)."
+  },
+  {
+    "id": 144,
+    "chapter": "Danmark og omverdenen",
+    "question": "Hvad er Danmarks udviklingsbistand i 2024?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ca. 5 mia. kr. svarende til 0,3% af BNI"
+      },
+      {
+        "key": "B",
+        "text": "Ca. 23 mia. kr. svarende til 0,7% af BNI"
+      },
+      {
+        "key": "C",
+        "text": "Ca. 50 mia. kr. svarende til 1,5% af BNI"
+      },
+      {
+        "key": "D",
+        "text": "Ca. 10 mia. kr. svarende til 0,5% af BNI"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Bistanden i 2024 er på cirka 23 milliarder kroner svarende til 0,7 procent af den såkaldte bruttonationalindkomst (BNI)."
+  },
+  {
+    "id": 145,
+    "chapter": "Danmarks geografi og befolkning",
+    "question": "Hvad er Danmarks areal (uden Grønland og Færøerne)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ca. 30.000 km²"
+      },
+      {
+        "key": "B",
+        "text": "Ca. 43.000 km²"
+      },
+      {
+        "key": "C",
+        "text": "Ca. 60.000 km²"
+      },
+      {
+        "key": "D",
+        "text": "Ca. 100.000 km²"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Danmarks areal er kun på lidt mere end 43.000 km², når man ikke regner Grønland og Færøerne med."
+  },
+  {
+    "id": 146,
+    "chapter": "Danmarks geografi og befolkning",
+    "question": "Hvad er den største ø i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bornholm"
+      },
+      {
+        "key": "B",
+        "text": "Fyn"
+      },
+      {
+        "key": "C",
+        "text": "Sjælland"
+      },
+      {
+        "key": "D",
+        "text": "Falster"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Danmark består af halvøen Jylland og over 400 øer. Den største ø er Sjælland."
+  },
+  {
+    "id": 147,
+    "chapter": "Danmarks geografi og befolkning",
+    "question": "Hvad er det nordligste punkt i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Blåvands Huk"
+      },
+      {
+        "key": "B",
+        "text": "Gedser Odde"
+      },
+      {
+        "key": "C",
+        "text": "Grenen (nordøst for Skagen)"
+      },
+      {
+        "key": "D",
+        "text": "Ertholmene"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Det nordligste punkt i Danmark kaldes for Grenen, og det ligger nordøst for byen Skagen i Nordjylland. Her mødes Skagerrak og Kattegat."
+  },
+  {
+    "id": 148,
+    "chapter": "Danmarks geografi og befolkning",
+    "question": "Hvad er Danmarks højeste naturlige punkt, og hvor højt er det?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Himmelbjerget – ca. 147 meter"
+      },
+      {
+        "key": "B",
+        "text": "Møllehøj – ca. 170 meter over havets overflade"
+      },
+      {
+        "key": "C",
+        "text": "Yding Skovhøj – ca. 200 meter"
+      },
+      {
+        "key": "D",
+        "text": "Guldbjerg – ca. 120 meter"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Det højeste naturlige punkt i Danmark hedder Møllehøj og ligger i Østjylland cirka 170 meter over havets overflade."
+  },
+  {
+    "id": 149,
+    "chapter": "Danmarks geografi og befolkning",
+    "question": "Hvad er Danmarks fem største byer?",
+    "options": [
+      {
+        "key": "A",
+        "text": "København, Odense, Aarhus, Roskilde og Esbjerg"
+      },
+      {
+        "key": "B",
+        "text": "København, Aarhus, Odense, Aalborg og Esbjerg"
+      },
+      {
+        "key": "C",
+        "text": "København, Aarhus, Randers, Aalborg og Odense"
+      },
+      {
+        "key": "D",
+        "text": "Aarhus, Odense, Aalborg, Esbjerg og Randers"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "De fem største byer er: København (ca. 2 mio. i hovedstadsområdet), Aarhus (ca. 280.000), Odense (ca. 180.000), Aalborg (ca. 120.000) og Esbjerg (ca. 72.000)."
+  },
+  {
+    "id": 150,
+    "chapter": "Danmarks geografi og befolkning",
+    "question": "Hvad er befolkningstallet i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ca. 4 millioner"
+      },
+      {
+        "key": "B",
+        "text": "Ca. 5 millioner"
+      },
+      {
+        "key": "C",
+        "text": "Ca. 6 millioner"
+      },
+      {
+        "key": "D",
+        "text": "Ca. 7 millioner"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Der bor ca. seks millioner mennesker i Danmark. Af dem er ca. 900.000 (15 procent) indvandrere eller efterkommere."
+  },
+  {
+    "id": 151,
+    "chapter": "Danmarks geografi og befolkning",
+    "question": "Hvad hedder det farvand, der adskiller Danmark og Sverige?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Storebælt"
+      },
+      {
+        "key": "B",
+        "text": "Lillebælt"
+      },
+      {
+        "key": "C",
+        "text": "Kattegat"
+      },
+      {
+        "key": "D",
+        "text": "Øresund"
+      }
+    ],
+    "correctKey": "D",
+    "explanation": "Farvandet mellem Sjælland og Sverige hedder Øresund."
+  },
+  {
+    "id": 152,
+    "chapter": "Danmarks historie før 1945",
+    "question": "Hvem samlede Danmark til ét rige ifølge Jellingestenen?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kong Knud den Store"
+      },
+      {
+        "key": "B",
+        "text": "Kong Harald Blåtand"
+      },
+      {
+        "key": "C",
+        "text": "Dronning Margrete 1."
+      },
+      {
+        "key": "D",
+        "text": "Kong Svend Tveskæg"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Kong Harald Blåtand rejste en runesten i Jelling, der siger, at det var ham, der samlede Danmark til ét rige og gjorde danskerne kristne. Han døde i 987."
+  },
+  {
+    "id": 153,
+    "chapter": "Danmarks historie før 1945",
+    "question": "Hvad var Kalmarunionen?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En handelsaftale mellem Danmark og Hanseforbundet"
+      },
+      {
+        "key": "B",
+        "text": "En union mellem Danmark, Norge og Sverige – dannet i 1397"
+      },
+      {
+        "key": "C",
+        "text": "Et forbund mellem Skandinavien og England i vikingetiden"
+      },
+      {
+        "key": "D",
+        "text": "En aftale om fred mellem Danmark og Sverige i 1700-tallet"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "I 1397 blev Danmark, Norge og Sverige samlet i Kalmarunionen, indgået i den svenske by Kalmar. Den varede frem til 1523."
+  },
+  {
+    "id": 154,
+    "chapter": "Danmarks historie før 1945",
+    "question": "Hvad er reformationen (1536)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Indførelsen af demokrati i Danmark"
+      },
+      {
+        "key": "B",
+        "text": "Bruddet med den katolske kirke og indførelsen af protestantisme under kongen"
+      },
+      {
+        "key": "C",
+        "text": "Afskaffelsen af stavnsbåndet"
+      },
+      {
+        "key": "D",
+        "text": "Indførelsen af enevælden"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Den danske kirke brød i 1536 med den katolske kirke og paven i Rom. Med reformationen blev protestantismen indført i Danmark, og kirken blev til en statskirke med kongen som overhoved."
+  },
+  {
+    "id": 155,
+    "chapter": "Danmarks historie før 1945",
+    "question": "Hvornår blev enevælden indført i Danmark, og hvornår sluttede den?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Indført i 1536 – sluttede i 1660"
+      },
+      {
+        "key": "B",
+        "text": "Indført i 1660-61 – sluttede i 1849 med grundloven"
+      },
+      {
+        "key": "C",
+        "text": "Indført i 1700 – sluttede i 1848"
+      },
+      {
+        "key": "D",
+        "text": "Indført i 1397 – sluttede i 1660"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Enevælden blev indført i 1660-61 og varede frem til 1848, da Kong Frederik 7. afgav sin enevældige magt."
+  },
+  {
+    "id": 156,
+    "chapter": "Danmarks historie før 1945",
+    "question": "Hvornår blev Stavnsbåndet afskaffet?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1660"
+      },
+      {
+        "key": "B",
+        "text": "1730"
+      },
+      {
+        "key": "C",
+        "text": "1788"
+      },
+      {
+        "key": "D",
+        "text": "1849"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "I 1788 blev det såkaldte 'Stavnsbånd' afskaffet, som havde tvunget de fleste bønder til at arbejde for en bestemt godsejer og bo et bestemt sted."
+  },
+  {
+    "id": 157,
+    "chapter": "Danmarks historie før 1945",
+    "question": "Hvad skete den 9. april 1940?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Danmark underskrev fredsaftalen med Tyskland"
+      },
+      {
+        "key": "B",
+        "text": "Tyske tropper besatte Danmark"
+      },
+      {
+        "key": "C",
+        "text": "Danmark erklærede krig mod Nazi-Tyskland"
+      },
+      {
+        "key": "D",
+        "text": "Danmarks grundlov blev ændret"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Under 2. Verdenskrig besatte tyske tropper Danmark den 9. april 1940."
+  },
+  {
+    "id": 158,
+    "chapter": "Danmarks historie før 1945",
+    "question": "Hvornår blev Danmark officielt befriet under 2. Verdenskrig?",
+    "options": [
+      {
+        "key": "A",
+        "text": "8. maj 1945"
+      },
+      {
+        "key": "B",
+        "text": "5. maj 1945"
+      },
+      {
+        "key": "C",
+        "text": "9. april 1945"
+      },
+      {
+        "key": "D",
+        "text": "11. november 1944"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Danmark blev officielt befriet af britiske tropper den 5. maj 1945."
+  },
+  {
+    "id": 159,
+    "chapter": "Danmarks historie før 1945",
+    "question": "Hvad tabte Danmark til Det Tyske Forbund i krigen 1864?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bornholm og Gotland"
+      },
+      {
+        "key": "B",
+        "text": "De to hertugdømmer Slesvig og Holsten"
+      },
+      {
+        "key": "C",
+        "text": "Skåne, Halland og Blekinge"
+      },
+      {
+        "key": "D",
+        "text": "Hele Jylland"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "I forbindelse med en krig mod Det Tyske Forbund i 1864 mistede Danmark de to hertugdømmer Slesvig og Holsten."
+  },
+  {
+    "id": 160,
+    "chapter": "Danmarks historie efter 1945",
+    "question": "Hvornår blev Danmark medlem af NATO?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1945"
+      },
+      {
+        "key": "B",
+        "text": "1949"
+      },
+      {
+        "key": "C",
+        "text": "1955"
+      },
+      {
+        "key": "D",
+        "text": "1960"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Danmark stoppede sin neutralitetspolitik og blev i 1949 medlem af forsvarsalliancen NATO."
+  },
+  {
+    "id": 161,
+    "chapter": "Danmarks historie efter 1945",
+    "question": "Hvad var Marshall-planen?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En dansk plan for genopbygning af landet efter krigen"
+      },
+      {
+        "key": "B",
+        "text": "En amerikansk plan (1948-1951) der gav penge til at genopbygge Vesteuropa og forhindre kommunismens udbredelse"
+      },
+      {
+        "key": "C",
+        "text": "En militærstrategi fra NATO"
+      },
+      {
+        "key": "D",
+        "text": "En handelsaftale mellem Danmark og USA"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Fra 1948 til 1951 gav USA store pengebeløb – den såkaldte Marshall-plan – til Vesteuropa, bl.a. Danmark, til genopbygning og for at forhindre kommunismens udbredelse."
+  },
+  {
+    "id": 162,
+    "chapter": "Danmarks historie efter 1945",
+    "question": "Hvornår blev fri abort indført i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1966"
+      },
+      {
+        "key": "B",
+        "text": "1973"
+      },
+      {
+        "key": "C",
+        "text": "1976"
+      },
+      {
+        "key": "D",
+        "text": "1980"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "I 1973 blev fri abort indført i Danmark, så kvinder nu selv kan vælge, om de vil afbryde en graviditet (frem til 12. uge)."
+  },
+  {
+    "id": 163,
+    "chapter": "Danmarks historie efter 1945",
+    "question": "Hvornår blev Ligelønsloven vedtaget i Folketinget?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1966"
+      },
+      {
+        "key": "B",
+        "text": "1973"
+      },
+      {
+        "key": "C",
+        "text": "1976"
+      },
+      {
+        "key": "D",
+        "text": "1984"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "En anden vigtig sejr for kvindebevægelsen var, da Folketinget i 1976 vedtog en lov om ligeløn, der gav mænd og kvinder ret til den samme løn for det samme arbejde."
+  },
+  {
+    "id": 164,
+    "chapter": "Danmarks historie efter 1945",
+    "question": "Hvornår stemte danskerne om EF-medlemskabet (EU), og hvad var resultatet?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1970 – 70% stemte ja"
+      },
+      {
+        "key": "B",
+        "text": "1972 – 63,4% stemte ja, og Danmark blev medlem i 1973"
+      },
+      {
+        "key": "C",
+        "text": "1979 – 55% stemte ja"
+      },
+      {
+        "key": "D",
+        "text": "1992 – flertallet stemte ja"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "I 1973 blev Danmark medlem af EF (EU). Det skete efter en folkeafstemning, hvor et flertal på 63,4 procent stemte ja."
+  },
+  {
+    "id": 165,
+    "chapter": "Danmarks historie efter 1945",
+    "question": "Hvad besluttede Folketinget i 1985 om atomkraftværker?",
+    "options": [
+      {
+        "key": "A",
+        "text": "At bygge tre atomkraftværker"
+      },
+      {
+        "key": "B",
+        "text": "At der ikke skulle bygges atomkraftværker i Danmark"
+      },
+      {
+        "key": "C",
+        "text": "At eksisterende atomkraftværker skulle lukkes"
+      },
+      {
+        "key": "D",
+        "text": "At bygge atomkraftværker med EU-støtte"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "I 1985 besluttede Folketinget, at der ikke skulle bygges atomkraftværker i Danmark."
+  },
+  {
+    "id": 166,
+    "chapter": "Danmarks historie efter 1945",
+    "question": "Hvornår blev det første tilfælde af COVID-19 registreret i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "November 2019"
+      },
+      {
+        "key": "B",
+        "text": "Januar 2020"
+      },
+      {
+        "key": "C",
+        "text": "Februar 2020"
+      },
+      {
+        "key": "D",
+        "text": "Marts 2020"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Sygdommen COVID-19 blev opdaget i Kina i 2019, og i Danmark blev det første tilfælde registreret i februar 2020."
+  },
+  {
+    "id": 167,
+    "chapter": "Dansk kultur",
+    "question": "Hvem kaldes 'dansk litteraturs far', og hvad er han kendt for?",
+    "options": [
+      {
+        "key": "A",
+        "text": "H.C. Andersen – for hans eventyr"
+      },
+      {
+        "key": "B",
+        "text": "Ludvig Holberg (1684-1754) – for komedier og filosofiske tekster"
+      },
+      {
+        "key": "C",
+        "text": "Søren Kierkegaard – for sin filosofi om eksistensen"
+      },
+      {
+        "key": "D",
+        "text": "Carl Nielsen – for sine symfonier"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Ludvig Holberg (1684-1754) er også blevet kaldt 'dansk litteraturs far'. Han lagde grunden til dansk teater med komedier som 'Jeppe på Bjerget'."
+  },
+  {
+    "id": 168,
+    "chapter": "Dansk kultur",
+    "question": "Hvad er H.C. Andersen (1805-1875) berømt for?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Hans filosofiske skrifter om eksistens"
+      },
+      {
+        "key": "B",
+        "text": "Sine eventyr, der er oversat til ca. 125 sprog"
+      },
+      {
+        "key": "C",
+        "text": "Sine malerier fra Skagen"
+      },
+      {
+        "key": "D",
+        "text": "Sine symfonier og musikkompositioner"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "H.C. Andersen var en dansk forfatter, der blev verdensberømt for sine eventyr. Hans eventyr er oversat til ca. 125 sprog."
+  },
+  {
+    "id": 169,
+    "chapter": "Dansk kultur",
+    "question": "Hvad vandt Thomas Vinterbergs film 'Druk' (2020)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En BAFTA-pris"
+      },
+      {
+        "key": "B",
+        "text": "En Oscar i 2021"
+      },
+      {
+        "key": "C",
+        "text": "Cannes Guldpalmen"
+      },
+      {
+        "key": "D",
+        "text": "En Emmy-pris"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Thomas Vinterbergs film 'Druk' (2020) vandt en Oscar i 2021."
+  },
+  {
+    "id": 170,
+    "chapter": "Dansk kultur",
+    "question": "Hvad er Arne Jacobsen (1902-1971) berømt for?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sine eventyr og romaner"
+      },
+      {
+        "key": "B",
+        "text": "Sine arkitekturtegninger og møbler som '7-eren' og 'Ægget'"
+      },
+      {
+        "key": "C",
+        "text": "Sine malerier fra Skagen-egnen"
+      },
+      {
+        "key": "D",
+        "text": "Sine symfonier og sange"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Arne Jacobsen var en dansk arkitekt, kendt for 'funktionalisme'. Han har tegnet Danmarks Nationalbank og er berømt for møbler som '7-eren' og 'Ægget'."
+  },
+  {
+    "id": 171,
+    "chapter": "Dansk kultur",
+    "question": "Hvornår vandt Danmark Eurovision Song Contest for første gang, og hvem sang?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1960 med Grethe Ingmann og Jørgen Ingmann"
+      },
+      {
+        "key": "B",
+        "text": "1963 med 'Dansevise' fremført af Grethe Ingmann og Jørgen Ingmann"
+      },
+      {
+        "key": "C",
+        "text": "2000 med Brødrene Olsen"
+      },
+      {
+        "key": "D",
+        "text": "2013 med Emmelie de Forest"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Danmark vandt Eurovision første gang i 1963 med 'Dansevise', fremført af Grethe Ingmann og Jørgen Ingmann."
+  },
+  {
+    "id": 172,
+    "chapter": "Dansk kultur",
+    "question": "Hvad er Karen Blixens mest kendte bog?",
+    "options": [
+      {
+        "key": "A",
+        "text": "'Enten-eller'"
+      },
+      {
+        "key": "B",
+        "text": "'Den afrikanske farm' (1937)"
+      },
+      {
+        "key": "C",
+        "text": "'Den Grimme Ælling'"
+      },
+      {
+        "key": "D",
+        "text": "'Barndommens Gade'"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Karen Blixens mest kendte bog er 'Den afrikanske farm', skrevet i 1937 om hendes oplevelser på en kaffefarm i Kenya."
+  },
+  {
+    "id": 173,
+    "chapter": "Traditioner og mærkedage",
+    "question": "Hvad er fastelavn, og hvornår fejres det?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En sommerfest der fejres i august"
+      },
+      {
+        "key": "B",
+        "text": "Et karneval der fejres syv uger før påske – børnene klæder sig ud og slår katten af tønden"
+      },
+      {
+        "key": "C",
+        "text": "En vinterfest der fejres den 1. december"
+      },
+      {
+        "key": "D",
+        "text": "En national flagdag der fejres den 5. juni"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Fastelavn er et andet ord for karneval og en forårsfest. Der er tradition for at fejre fastelavn ved at børnene klæder sig ud og slår katten af tønden. Fastelavn ligger syv uger før påske."
+  },
+  {
+    "id": 174,
+    "chapter": "Traditioner og mærkedage",
+    "question": "Hvad markerer den 5. maj i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Grundlovens indførelse"
+      },
+      {
+        "key": "B",
+        "text": "Befrielsen fra den tyske besættelse i 1945"
+      },
+      {
+        "key": "C",
+        "text": "Arbejdernes internationale dag"
+      },
+      {
+        "key": "D",
+        "text": "Sankthansaften"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Den 5. maj 1945 blev Danmark befriet efter fem års tysk besættelse under 2. Verdenskrig."
+  },
+  {
+    "id": 175,
+    "chapter": "Traditioner og mærkedage",
+    "question": "Hvad er grundlovsdag, og hvornår fejres den?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En religiøs helligdag den 1. januar"
+      },
+      {
+        "key": "B",
+        "text": "Den 5. juni – fejring af Danmarks første frie forfatning indført den 5. juni 1849"
+      },
+      {
+        "key": "C",
+        "text": "Den 9. april – mindedag for besættelsen"
+      },
+      {
+        "key": "D",
+        "text": "Den 24. december – juleaften"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Den 5. juni er grundlovsdag. Den dag fejrer man, at Danmarks første frie forfatning blev indført den 5. juni 1849."
+  },
+  {
+    "id": 176,
+    "chapter": "Traditioner og mærkedage",
+    "question": "Hvad fejres sankthans?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En kristen helligdag til minde om Moses"
+      },
+      {
+        "key": "B",
+        "text": "En blanding af hedensk folkelig tradition og kristendom – midsommerfest den 23. juni aften med bål"
+      },
+      {
+        "key": "C",
+        "text": "En national festdag for det danske kongehus"
+      },
+      {
+        "key": "D",
+        "text": "En høstfest der fejres den 23. september"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Den 23. juni om aftenen fejres sankthans. Det er en blanding af hedensk folkelig tradition og kristendom. I den folkelige tradition markerer festen, at det er midsommer. Man samles og tænder bål."
+  },
+  {
+    "id": 177,
+    "chapter": "Traditioner og mærkedage",
+    "question": "Hvornår holder kongen sin nytårstale?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1. januar kl. 12"
+      },
+      {
+        "key": "B",
+        "text": "31. december kl. 18"
+      },
+      {
+        "key": "C",
+        "text": "1. januar kl. 18"
+      },
+      {
+        "key": "D",
+        "text": "31. december kl. 24"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Mange har tradition for at lade nytårsfesten begynde med kongens nytårstale, som bliver vist i fjernsynet klokken 18 den 31. december."
+  },
+  {
+    "id": 178,
+    "chapter": "Traditioner og mærkedage",
+    "question": "Hvad markerer 1. maj?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Grundlovens indførelse"
+      },
+      {
+        "key": "B",
+        "text": "Arbejdernes internationale demonstrations- og festdag (siden 1889)"
+      },
+      {
+        "key": "C",
+        "text": "Danmarks optagelse i EU"
+      },
+      {
+        "key": "D",
+        "text": "Befrielsesdagen"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "1. maj har siden 1889 været arbejdernes internationale demonstrations- og festdag."
+  },
+  {
+    "id": 179,
+    "chapter": "Traditioner og mærkedage",
+    "question": "Hvad er tradition om julen i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Man fejrer jul kun den 25. december"
+      },
+      {
+        "key": "B",
+        "text": "Man fejrer jul den 24. (juleaftensdag), 25. og 26. december med juletræ, julemiddag og julegaver"
+      },
+      {
+        "key": "C",
+        "text": "Man holder julefrokost kun på arbejdspladsen"
+      },
+      {
+        "key": "D",
+        "text": "Julen fejres udelukkende religiøst i kirken"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "I Danmark har man normalt fri den 24. (juleaftensdag), 25. (juledag) og 26. december (2. juledag). I mange familier fejrer man juleaftensdag med juletræ, traditionel julemiddag, dans om juletræet og julegaver."
+  },
+  {
+    "id": 180,
+    "chapter": "Danmarks forsvars- og sikkerhedspolitik",
+    "question": "Hvornår blev Danmark medlem af NATO?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1945"
+      },
+      {
+        "key": "B",
+        "text": "1947"
+      },
+      {
+        "key": "C",
+        "text": "1949"
+      },
+      {
+        "key": "D",
+        "text": "1955"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Danmark stoppede sin neutralitetspolitik og blev i 1949 medlem af forsvarsalliancen NATO."
+  },
+  {
+    "id": 181,
+    "chapter": "Danmarks forsvars- og sikkerhedspolitik",
+    "question": "Hvad skete den 11. september 2001, og hvad betød det for Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Rusland besatte Krim, og Danmark satte fokus på europæisk forsvar"
+      },
+      {
+        "key": "B",
+        "text": "Terrorister angreb USA og slog ca. 3.000 mennesker ihjel – Danmark har siden deltaget i militære missioner mod terrorisme"
+      },
+      {
+        "key": "C",
+        "text": "Danmark trak sine tropper hjem fra Afghanistan"
+      },
+      {
+        "key": "D",
+        "text": "Islamisk Stat angreb europæiske lande"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Terrorangrebet på USA 11. september 2001 var et vendepunkt. Terrorister slog ca. 3.000 ihjel. Danmark har siden 2001 deltaget i militære missioner for at bekæmpe terrorisme."
+  },
+  {
+    "id": 182,
+    "chapter": "Danmarks forsvars- og sikkerhedspolitik",
+    "question": "Hvornår sendte Folketing danske soldater til Afghanistan, og hvad kostede det?",
+    "options": [
+      {
+        "key": "A",
+        "text": "I 2001 – ingen danske soldater omkom"
+      },
+      {
+        "key": "B",
+        "text": "I 2002 – 44 danske soldater mistede livet"
+      },
+      {
+        "key": "C",
+        "text": "I 2003 – 10 danske soldater omkom"
+      },
+      {
+        "key": "D",
+        "text": "I 2005 – 20 danske soldater omkom"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "I 2002 besluttede Folketing at sende danske soldater til Afghanistan. I alt 44 danske soldater mistede livet."
+  },
+  {
+    "id": 183,
+    "chapter": "Danmarks forsvars- og sikkerhedspolitik",
+    "question": "Hvornår ophævede Danmark sit forsvarsforbehold over for EU?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Den 1. januar 2020"
+      },
+      {
+        "key": "B",
+        "text": "Den 1. juni 2022 – 67% stemte ja"
+      },
+      {
+        "key": "C",
+        "text": "Den 9. april 2019"
+      },
+      {
+        "key": "D",
+        "text": "Den 5. maj 2021"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Forsvarsforbehold blev ophævet ved folkeafstemning den 1. juni 2022. Et flertal på 67 procent stemte ja til at ophæve forbeholdet."
+  },
+  {
+    "id": 184,
+    "chapter": "Danmarks forsvars- og sikkerhedspolitik",
+    "question": "Hvad er Pituffik Space Base (Pituffik Rumbase)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En dansk rumstation i Nordsøen"
+      },
+      {
+        "key": "B",
+        "text": "Den amerikanske militærbase ved Qaanaaq (Thule) i det nordlige Grønland"
+      },
+      {
+        "key": "C",
+        "text": "Et NATO-kommandocenter i Belgien"
+      },
+      {
+        "key": "D",
+        "text": "En islandsk flådebase"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "I 1951 byggede amerikanerne en stor luftbase ved Qaanaaq (Thule) i det nordlige Grønland, nu kaldet Pituffik Space Base. Den bruges stadig af USA i dag."
+  },
+  {
+    "id": 185,
+    "chapter": "Diskrimination, antisemitisme, hadforbrydelser og",
+    "question": "Hvad er diskrimination?",
+    "options": [
+      {
+        "key": "A",
+        "text": "At hjælpe bestemte grupper i samfundet"
+      },
+      {
+        "key": "B",
+        "text": "At gøre forskel på mennesker og behandle dem dårligere på grund af fx religion, hudfarve, køn, etnicitet eller seksuel orientering"
+      },
+      {
+        "key": "C",
+        "text": "At ytre sine holdninger offentligt"
+      },
+      {
+        "key": "D",
+        "text": "At nægte at indgå i en dialog"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Der er tale om diskrimination, hvis man gør forskel på mennesker og behandler dem dårligere på grund af fx religion, politisk holdning, hudfarve, køn, etnicitet, seksuel orientering eller alder."
+  },
+  {
+    "id": 186,
+    "chapter": "Diskrimination, antisemitisme, hadforbrydelser og",
+    "question": "Hvad er en hadforbrydelse?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En forbrydelse mod statens institutioner"
+      },
+      {
+        "key": "B",
+        "text": "En forbrydelse motiveret af had til ofrets etniske oprindelse, religion, seksuelle orientering m.v. – kan straffes særlig hårdt"
+      },
+      {
+        "key": "C",
+        "text": "En forbrydelse mod en offentlig person"
+      },
+      {
+        "key": "D",
+        "text": "En forbrydelse begået med våben"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Hadforbrydelser er forbrydelser, der er begået på grund af ofrets etniske oprindelse, religion, seksuelle orientering eller lignende. De kan straffes særlig hårdt."
+  },
+  {
+    "id": 187,
+    "chapter": "Diskrimination, antisemitisme, hadforbrydelser og",
+    "question": "Hvad skete ved terrorangrebet i København i 2015?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En terrorist angreb Folketing og skød en politiker"
+      },
+      {
+        "key": "B",
+        "text": "En terrorist forsøgte at komme ind i den jødiske synagoge i København og skød en vagt – og angreb også Kulturhuset Krudttønden"
+      },
+      {
+        "key": "C",
+        "text": "Islamisk Stat angreb en dansk militærbygning"
+      },
+      {
+        "key": "D",
+        "text": "En gruppe terrorister angreb Tivoli"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "I 2015 forsøgte en terrorist at komme ind i den jødiske synagoge i København. Han skød og dræbte en jødisk vagt. Samme dag angreb terroristen også Kulturhuset Krudttønden og dræbte en filminstruktør."
+  },
+  {
+    "id": 188,
+    "chapter": "Diskrimination, antisemitisme, hadforbrydelser og",
+    "question": "Hvad er Ligebehandlingsnævnet?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Et nævn, der afgør lønsager"
+      },
+      {
+        "key": "B",
+        "text": "En klagemyndighed, man kan henvende sig til gratis, hvis man oplever diskrimination"
+      },
+      {
+        "key": "C",
+        "text": "Et statsligt organ, der kontrollerer virksomheders ansættelsespraksis"
+      },
+      {
+        "key": "D",
+        "text": "En domstol, der behandler straffesager om diskrimination"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Hvis man oplever forskelsbehandling i strid med loven, kan man klage til Ligebehandlingsnævnet. Det er gratis at klage."
+  },
+  {
+    "id": 189,
+    "chapter": "Diskrimination, antisemitisme, hadforbrydelser og",
+    "question": "Hvor mange jøder bor der i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "500-1.000"
+      },
+      {
+        "key": "B",
+        "text": "2.000-3.000"
+      },
+      {
+        "key": "C",
+        "text": "6.000-8.000"
+      },
+      {
+        "key": "D",
+        "text": "15.000-20.000"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Den jødiske minoritet i Danmark er en særligt udsat gruppe. I alt bor der 6-8.000 jøder i Danmark."
+  },
+  {
+    "id": 190,
+    "chapter": "Klima",
+    "question": "Hvad er drivhusgasser?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Gasser, der bruges til at varme drivhuse op"
+      },
+      {
+        "key": "B",
+        "text": "Gasser som CO2 og metan, der begrænser varmen i at slippe ud af atmosfæren og dermed skaber global opvarmning"
+      },
+      {
+        "key": "C",
+        "text": "Kemikalier, der bruges i landbruget"
+      },
+      {
+        "key": "D",
+        "text": "Gasser, der bruges til produktion af vindenergi"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Drivhusgasser (fx CO2, metan og ozon) begrænser varmen i at slippe ud af atmosfæren. Kommer der flere drivhusgasser, stiger temperaturen – global opvarmning."
+  },
+  {
+    "id": 191,
+    "chapter": "Klima",
+    "question": "Hvad siger Danmarks Klimalov fra 2019?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Danmark skal reducere udledninger med 50% inden 2040"
+      },
+      {
+        "key": "B",
+        "text": "Danmark skal reducere udledninger med 70% inden 2030 (ift. 1990) og være klimaneutral senest i 2050"
+      },
+      {
+        "key": "C",
+        "text": "Danmark skal stoppe al fossilt energiforbrug inden 2025"
+      },
+      {
+        "key": "D",
+        "text": "Danmark skal reducere udledninger med 30% inden 2025"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "I klimaloven fra 2019 står der, at regeringen frem til 2030 skal reducere Danmarks udledning af drivhusgasser med 70 procent i forhold til 1990 og være klimaneutral senest i 2050."
+  },
+  {
+    "id": 192,
+    "chapter": "Klima",
+    "question": "Hvad var Vindeby (1991)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Danmarks første solcellepark"
+      },
+      {
+        "key": "B",
+        "text": "Verdens første havvindmøllepark, der lå ud for Lolland"
+      },
+      {
+        "key": "C",
+        "text": "Den første vindmølle bygget i Danmark på land"
+      },
+      {
+        "key": "D",
+        "text": "En energiø bygget i Nordsøen"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "I 1991 fik Danmark verdens første vindmøllepark på havet, Vindeby, ud for Lolland."
+  },
+  {
+    "id": 193,
+    "chapter": "Klima",
+    "question": "Hvad er Paris-aftalen (2015)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En aftale om oprettelse af atomkraftværker i Europa"
+      },
+      {
+        "key": "B",
+        "text": "En international aftale, hvor næsten alle verdens lande har skrevet under på at reducere den globale udledning af drivhusgasser"
+      },
+      {
+        "key": "C",
+        "text": "En bilateral handelsaftale mellem Danmark og Frankrig"
+      },
+      {
+        "key": "D",
+        "text": "En EU-aftale om energibesparelser"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Paris-aftalen fra 2015 er en international aftale, hvor næsten alle verdens lande har forpligtet sig til at reducere den globale udledning af drivhusgasser."
+  },
+  {
+    "id": 194,
+    "chapter": "Klima",
+    "question": "Hvad er andelen af Danmarks elforbrug, der kom fra vindmøller i 2022?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ca. 25%"
+      },
+      {
+        "key": "B",
+        "text": "Ca. 35%"
+      },
+      {
+        "key": "C",
+        "text": "Ca. 52%"
+      },
+      {
+        "key": "D",
+        "text": "Ca. 75%"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "I 2022 svarede elproduktionen fra vindmøller til ca. 52 procent af Danmarks elforbrug."
+  },
+  {
+    "id": 195,
+    "chapter": "Klima",
+    "question": "Hvad er 'den grønne omstilling'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En plan om at plante flere skove"
+      },
+      {
+        "key": "B",
+        "text": "En overgang fra fossile energikilder (kul, olie, gas) til vedvarende og grønne energikilder som sol, vind og vandkraft"
+      },
+      {
+        "key": "C",
+        "text": "Et nyt skattesystem for virksomheder, der forurener"
+      },
+      {
+        "key": "D",
+        "text": "En plan om at gøre alle byer i Danmark grønne med parker"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Den grønne omstilling handler om at stoppe med at bruge 'sorte' energikilder som olie og gas, der udleder mange drivhusgasser, og i stedet bruge vedvarende og grønne energikilder."
+  },
+  {
+    "id": 196,
+    "chapter": "Klima",
+    "question": "Hvad er en energiø?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En naturlig ø, der er omdannet til et naturreservat"
+      },
+      {
+        "key": "B",
+        "text": "En kunstig ø, der opsamler og omdanner energi fra havvindmøller til el og brændstof"
+      },
+      {
+        "key": "C",
+        "text": "En ø, der drives udelukkende på solenergi"
+      },
+      {
+        "key": "D",
+        "text": "En ø, der bruges til oplagring af olie og gas"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Danmark besluttede at bygge to energiøer i 2030'erne. De skal opsamle og omdanne energien fra havvindmøllerne, så den kan bruges til transportmidler og til produktion af strøm."
+  }
+]
