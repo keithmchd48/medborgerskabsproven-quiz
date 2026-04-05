@@ -66,7 +66,7 @@ const currentQuestion = computed(() => quizQuestions.value[currentIndex.value])
   <div class="min-h-dvh flex flex-col items-center px-4 py-10 sm:py-14">
     <header class="mb-8 text-center max-w-2xl">
       <h1 class="text-2xl sm:text-3xl font-semibold tracking-tight text-slate-900">
-        Danish Citizenship Test
+        Medborgerskabsprøven
       </h1>
       <p class="mt-2 text-sm text-slate-600">
         Practice quiz — questions and explanations are in Danish.
