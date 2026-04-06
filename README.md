@@ -60,3 +60,54 @@ node scripts/build-questions.mjs
 ```
 
 Run this from the **project root** (the same directory as `package.json`).
+
+---
+
+## Deploy on GitHub Pages
+
+### 1. Put the project on GitHub
+
+1. Create a **new repository** on GitHub (empty, no README required).
+2. In your project folder on your computer:
+
+   ```bash
+   git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+   git branch -M main
+   git push -u origin main
+   ```
+
+   Replace `YOUR_USERNAME` and `YOUR_REPO` with your GitHub username and repository name.
+
+### 2. Turn on GitHub Pages with Actions
+
+1. On GitHub, open the repo → **Settings** → **Pages** (under “Code and automation”).
+2. Under **Build and deployment**, set **Source** to **GitHub Actions** (not “Deploy from a branch”).
+
+### 3. Deploy
+
+The workflow **`.github/workflows/deploy-github-pages.yml`** runs on every push to **`main`**. After the first successful run:
+
+1. Open the **Actions** tab and confirm the workflow is green.
+2. Under **Settings → Pages**, copy the **site URL** (for a normal project repo it looks like `https://YOUR_USERNAME.github.io/YOUR_REPO/`).
+
+It can take one or two minutes after the job finishes before the site updates.
+
+### Base path (how assets load)
+
+Production builds use **`VITE_BASE_URL`** so links and scripts work under a subpath:
+
+| Repository type | Example URL | `VITE_BASE_URL` |
+|-----------------|-------------|-----------------|
+| Normal project repo | `https://user.github.io/quiz-app/` | `/quiz-app/` (set automatically in CI) |
+| User Pages repo named `user.github.io` | `https://user.github.io/` | `/` (set automatically in CI) |
+
+The workflow sets this for you. To **build locally** the same way as GitHub Pages for a project repo named `my-quiz`:
+
+```bash
+VITE_BASE_URL=/my-quiz/ npm run build
+npm run preview
+```
+
+### Private repositories
+
+GitHub Pages for **private** repos is only available on **paid** GitHub plans. For **zero cost**, keep the repository **public**, or use another free host for private repos.
