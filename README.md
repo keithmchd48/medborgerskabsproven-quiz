@@ -94,6 +94,14 @@ git tag v1.0.1   # optional
 git push origin main --follow-tags
 ```
 
+**If GitHub Actions fails on `npm ci` with missing packages (e.g. `@emnapi/core`):** your `package-lock.json` is out of date. Regenerate it locally, then commit it:
+
+```bash
+rm -rf node_modules package-lock.json
+npm install
+npm ci   # optional: confirm this succeeds before you push
+```
+
 ---
 
 ## Deploy on GitHub Pages
