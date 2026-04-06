@@ -1,0 +1,24 @@
+# Fails early if package-lock.json is out of sync with package.json (e.g. after a bad merge).
+# Runs on every push and on pull requests — before / alongside deploy.
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - name: Pin npm 10.x (consistent with package.json engines; avoids lockfile drift vs npm 11+)
+        run: npm install -g npm@10.9.2
+
+      - run: npm ci
+      - run: npm run build

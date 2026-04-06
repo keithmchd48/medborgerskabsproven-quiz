@@ -102,6 +102,8 @@ npm install
 npm ci   # optional: confirm this succeeds before you push
 ```
 
+**CI guard:** the [`.github/workflows/ci.yml`](.github/workflows/ci.yml) workflow runs **`npm ci`** and **`npm run build`** on every push and pull request. If the lockfile is wrong, that job fails immediately. **Use npm 10.x locally** (`package.json` has `"engines": { "npm": ">=10.0.0 <11" }`) so `npm install` produces a lockfile that matches GitHub Actions, which pins **npm 10.9.2** before installing.
+
 ---
 
 ## Deploy on GitHub Pages
