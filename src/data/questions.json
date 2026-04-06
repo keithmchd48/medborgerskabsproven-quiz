@@ -4898,5 +4898,1630 @@
     ],
     "correctKey": "B",
     "explanation": "Danmark besluttede at bygge to energiøer i 2030'erne. De skal opsamle og omdanne energien fra havvindmøllerne, så den kan bruges til transportmidler og til produktion af strøm."
+  },
+  {
+    "id": 197,
+    "chapter": "Skole",
+    "question": "Fra hvilken klasse begynder eleverne at modtage karakterer i folkeskolen?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Fra 6. klasse"
+      },
+      {
+        "key": "B",
+        "text": "Fra 7. klasse"
+      },
+      {
+        "key": "C",
+        "text": "Fra 8. klasse"
+      },
+      {
+        "key": "D",
+        "text": "Fra 9. klasse"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Fra folkeskolens 8. klasse får eleverne karakterer i en række fag mindst to gange om året."
+  },
+  {
+    "id": 198,
+    "chapter": "Skole",
+    "question": "Er 10. klasse obligatorisk?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ja, alle skal tage 10. klasse"
+      },
+      {
+        "key": "B",
+        "text": "Nej, det er frivilligt – ca. halvdelen tilmelder sig"
+      },
+      {
+        "key": "C",
+        "text": "Nej, kun elever med dårlige karakterer skal tage det"
+      },
+      {
+        "key": "D",
+        "text": "Ja, men kun for elever på efterskoler"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "10. klasse er frivillig, men cirka halvdelen af alle elever tilmelder sig."
+  },
+  {
+    "id": 199,
+    "chapter": "Skole",
+    "question": "Hvad er formålet med folkeskolens elevråd?",
+    "options": [
+      {
+        "key": "A",
+        "text": "At lære eleverne om international politik"
+      },
+      {
+        "key": "B",
+        "text": "At give eleverne mulighed for at have indflydelse på forhold i deres skolehverdag"
+      },
+      {
+        "key": "C",
+        "text": "At vælge skoleledelsen"
+      },
+      {
+        "key": "D",
+        "text": "At arrangere alle skolens aktiviteter"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Elevrådet er med til at bestemme sager, der handler om elevernes skolehverdag – fx mad i kantinen. Mindst to elevrepræsentanter sidder også i skolebestyrelsen."
+  },
+  {
+    "id": 200,
+    "chapter": "Uddannelse",
+    "question": "Hvor mange erhvervsakademier er der i Danmark? (2025)",
+    "options": [
+      {
+        "key": "A",
+        "text": "5"
+      },
+      {
+        "key": "B",
+        "text": "6"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "8"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Der er syv erhvervsakademier i Danmark (opdateret i 2025-materialet)."
+  },
+  {
+    "id": 201,
+    "chapter": "Uddannelse",
+    "question": "Hvad er en professionsbacheloruddannelse, og hvor lang tid tager den normalt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En akademisk 2-årig uddannelse på universiteterne"
+      },
+      {
+        "key": "B",
+        "text": "En praktisk 3-4-årig uddannelse på professionshøjskoler, der fører til fx lærer, sygeplejerske eller socialrådgiver"
+      },
+      {
+        "key": "C",
+        "text": "En erhvervsuddannelse med speciale i teknologi"
+      },
+      {
+        "key": "D",
+        "text": "En 5-årig kandidatuddannelse"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "En professionsbacheloruddannelse tager normalt 3-4 år og udbydes på professionshøjskoler. De fleste kommer til at arbejde i det offentlige, fx som lærer, sygeplejerske eller pædagog."
+  },
+  {
+    "id": 202,
+    "chapter": "Det danske arbejdsmarked",
+    "question": "Hvem har ret til fem ugers betalt ferie?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Alle borgere i Danmark uanset ansættelse"
+      },
+      {
+        "key": "B",
+        "text": "Alle lønmodtagere, der har arbejdet et helt år"
+      },
+      {
+        "key": "C",
+        "text": "Kun fuldtidsansatte i det offentlige"
+      },
+      {
+        "key": "D",
+        "text": "Kun ansatte med overenskomst"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Som lønmodtager har man ret til fem ugers betalt ferie, hvis man har arbejdet et helt år. De fem ugers ferie er fastsat ved lov."
+  },
+  {
+    "id": 203,
+    "chapter": "Dansk erhvervsliv",
+    "question": "Hvad er Arla's placering som mejerikoncern globalt (2024)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Verdens 3. største"
+      },
+      {
+        "key": "B",
+        "text": "Verdens 5. største"
+      },
+      {
+        "key": "C",
+        "text": "Verdens 7. største"
+      },
+      {
+        "key": "D",
+        "text": "Verdens 10. største"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Arla var i 2024 verdens 7. største mejerikoncern (i 2022-udgaven stod der 6. størst)."
+  },
+  {
+    "id": 204,
+    "chapter": "Dansk erhvervsliv",
+    "question": "Hvad er Danmarks største handelspartner i 2024 målt på samlet udenrigshandel?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Germany (12,8%)"
+      },
+      {
+        "key": "B",
+        "text": "Sverige (7,7%)"
+      },
+      {
+        "key": "C",
+        "text": "USA (15,0%)"
+      },
+      {
+        "key": "D",
+        "text": "Kina (4,7%)"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "I 2024 er USA Danmarks største handelspartner med 15,0 procent af den samlede udenrigshandel (import+eksport). USA er dermed steget fra 2. til 1. plads (2023-tal: USA 12,3%, Tyskland 12,9%)."
+  },
+  {
+    "id": 205,
+    "chapter": "Dansk erhvervsliv",
+    "question": "Hvad er Mærsk kendt for?",
+    "options": [
+      {
+        "key": "A",
+        "text": "At være et af verdens to største rederier der sejler med containere"
+      },
+      {
+        "key": "B",
+        "text": "At fremstille medicin"
+      },
+      {
+        "key": "C",
+        "text": "At producere LEGO-klodser"
+      },
+      {
+        "key": "D",
+        "text": "At drive Danmarks største dagligvarehandel"
+      }
+    ],
+    "correctKey": "A",
+    "explanation": "Mærsk er et af verdens to største rederier, der sejler med containere."
+  },
+  {
+    "id": 206,
+    "chapter": "Dansk erhvervsliv",
+    "question": "Hvor stor en andel af landbrugsarealet drives økologisk i Danmark? (2025-tal)",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ca. 5%"
+      },
+      {
+        "key": "B",
+        "text": "Ca. 8%"
+      },
+      {
+        "key": "C",
+        "text": "Ca. 11%"
+      },
+      {
+        "key": "D",
+        "text": "Ca. 15%"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Omkring 11 procent af landbrugsarealet drives økologisk (i 2024-materialet stod der 12 procent)."
+  },
+  {
+    "id": 207,
+    "chapter": "Det danske velfærdssamfund",
+    "question": "Hvad dækker det offentlige gratis på sundhedsområdet?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Alt inkl. tandlæge og medicin"
+      },
+      {
+        "key": "B",
+        "text": "Behandling hos praktiserende læge og på offentlige sygehuse er gratis; tandlæge og medicin betales delvist selv"
+      },
+      {
+        "key": "C",
+        "text": "Kun akutte skader og sygdomme"
+      },
+      {
+        "key": "D",
+        "text": "Kun behandlinger under 1.000 kr."
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Behandling hos praktiserende læge og på offentlige sygehuse er gratis. Voksne skal selv betale en del af udgifterne til fx tandlæge og medicin."
+  },
+  {
+    "id": 208,
+    "chapter": "Det danske velfærdssamfund",
+    "question": "Hvilke to broer skal man betale for at køre over i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Lillebæltsbroen og Storebæltsbroen"
+      },
+      {
+        "key": "B",
+        "text": "Øresundsbroen og Storebæltsbroen"
+      },
+      {
+        "key": "C",
+        "text": "Lillebæltsbroen og Øresundsbroen"
+      },
+      {
+        "key": "D",
+        "text": "Alle broer er gratis"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Det er gratis at køre på veje og broer i Danmark, men på Øresundsbroen og Storebæltsbroen skal man betale for at køre over."
+  },
+  {
+    "id": 209,
+    "chapter": "Familieliv",
+    "question": "Hvad er andelen af ægteskaber, der ender med skilsmisse i Danmark? (2025-tal)",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ca. 20%"
+      },
+      {
+        "key": "B",
+        "text": "Ca. 30%"
+      },
+      {
+        "key": "C",
+        "text": "Ca. 35%"
+      },
+      {
+        "key": "D",
+        "text": "Ca. 40%"
+      }
+    ],
+    "correctKey": "D",
+    "explanation": "I Danmark ender cirka 40 procent af alle ægteskaber med skilsmisse (opdateret fra 35% i 2024-materialet)."
+  },
+  {
+    "id": 210,
+    "chapter": "Familieliv",
+    "question": "Hvad er aldersgrænsen for køb af almindelig øl i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "15 år"
+      },
+      {
+        "key": "B",
+        "text": "16 år"
+      },
+      {
+        "key": "C",
+        "text": "18 år"
+      },
+      {
+        "key": "D",
+        "text": "20 år"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Unge skal være fyldt 16 år, før de må købe almindelig øl."
+  },
+  {
+    "id": 211,
+    "chapter": "Familieliv",
+    "question": "Hvad er aldersgrænsen for køb af meget stærk øl, vin, spiritus og cigaretter?",
+    "options": [
+      {
+        "key": "A",
+        "text": "16 år"
+      },
+      {
+        "key": "B",
+        "text": "17 år"
+      },
+      {
+        "key": "C",
+        "text": "18 år"
+      },
+      {
+        "key": "D",
+        "text": "20 år"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Unge skal være fyldt 18 år, før de må købe meget stærk øl, vin, spiritus og cigaretter."
+  },
+  {
+    "id": 212,
+    "chapter": "Familieliv",
+    "question": "Fra hvilken alder kan man tage kørekort i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "16 år"
+      },
+      {
+        "key": "B",
+        "text": "17 år"
+      },
+      {
+        "key": "C",
+        "text": "18 år"
+      },
+      {
+        "key": "D",
+        "text": "20 år"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Når man fylder 17 år, kan man tage kørekort til almindelig bil og køre uden ledsager mellem kl. 5 og kl. 20. Fra 18 år kan man køre bil uden ledsager hele døgnet."
+  },
+  {
+    "id": 213,
+    "chapter": "Familieliv",
+    "question": "Hvad er forbudt i Danmark i relation til børn?",
+    "options": [
+      {
+        "key": "A",
+        "text": "At lade børn under 15 år have lønnet arbejde"
+      },
+      {
+        "key": "B",
+        "text": "At slå børn og have sex med unge under 15 år"
+      },
+      {
+        "key": "C",
+        "text": "At lade børn bestemme over deres fritid"
+      },
+      {
+        "key": "D",
+        "text": "At tage børn med på fester"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Det er forbudt at slå børn. Det er forbudt at have sex med unge under 15 år. Børn under 13 år må normalt ikke have lønnet arbejde uden for hjemmet."
+  },
+  {
+    "id": 214,
+    "chapter": "Forenings- og fritidsliv",
+    "question": "Hvad er N.F.S. Grundtvig (1783-1872) særligt forbundet med?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Grundlæggelsen af folkeskolen"
+      },
+      {
+        "key": "B",
+        "text": "Inspirationen til udviklingen af folkehøjskoler – undervisning for alle som vej til demokrati"
+      },
+      {
+        "key": "C",
+        "text": "Indførelsen af demokratiet i 1849"
+      },
+      {
+        "key": "D",
+        "text": "Oprettelsen af fagforeninger i Danmark"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Højskolen er bl.a. inspireret af N.F.S. Grundtvig, der mente, at undervisning for alle var en måde at skabe demokrati på i samfundet."
+  },
+  {
+    "id": 215,
+    "chapter": "Forenings- og fritidsliv",
+    "question": "Hvad kendetegner aftenskoler?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Man skal bestå en eksamen for at afslutte"
+      },
+      {
+        "key": "B",
+        "text": "Undervisning i mange emner mod betaling – uden eksamen"
+      },
+      {
+        "key": "C",
+        "text": "De er gratis og tilbydes af kommunen"
+      },
+      {
+        "key": "D",
+        "text": "De er kun for voksne over 25 år"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Aftenskoler giver undervisning i mange emner mod betaling. Der er ingen eksamen på aftenskoler."
+  },
+  {
+    "id": 216,
+    "chapter": "Forenings- og fritidsliv",
+    "question": "Hvad er nyt i 2025-udgaven om bibliotekets online-tjenester?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Biblioteket tilbyder nu gratis 3D-print"
+      },
+      {
+        "key": "B",
+        "text": "Borgerne kan gratis låne og streame lydbøger, e-bøger, podcasts og film via tjenester som 'eReolen' og 'Filmstriben'"
+      },
+      {
+        "key": "C",
+        "text": "Alle bøger udlånes nu som digitale kopier"
+      },
+      {
+        "key": "D",
+        "text": "Biblioteket er kun tilgængeligt online"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "I 2025-udgaven er det tilføjet, at bibliotekerne har online-tjenester som 'eReolen' og 'Filmstriben', hvor borgerne gratis kan låne og streame lydbøger, e-bøger, podcasts, film og tv-serier hjemmefra."
+  },
+  {
+    "id": 217,
+    "chapter": "Sundhed og sygdom",
+    "question": "Fra hvilken alder er gratis tandpleje i Danmark? (2025)",
+    "options": [
+      {
+        "key": "A",
+        "text": "Til og med 18 år"
+      },
+      {
+        "key": "B",
+        "text": "Til og med 20 år"
+      },
+      {
+        "key": "C",
+        "text": "Til og med 21 år"
+      },
+      {
+        "key": "D",
+        "text": "Tandpleje er gratis for alle aldre"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Alle børn og unge i Danmark kan få gratis tandpleje til og med 21 år (opdateret fra 20 år i 2024-materialet)."
+  },
+  {
+    "id": 218,
+    "chapter": "Sundhed og sygdom",
+    "question": "Fra hvilken alder skal voksne selv betale for tandpleje? (2025)",
+    "options": [
+      {
+        "key": "A",
+        "text": "Fra 20 år"
+      },
+      {
+        "key": "B",
+        "text": "Fra 21 år"
+      },
+      {
+        "key": "C",
+        "text": "Fra 22 år"
+      },
+      {
+        "key": "D",
+        "text": "Fra 18 år"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Voksne fra og med 22 år skal selv finde en privat tandlæge og betale for behandlingen (det offentlige giver dog tilskud)."
+  },
+  {
+    "id": 219,
+    "chapter": "Sundhed og sygdom",
+    "question": "Hvad siger rygeloven om rygning indendørs?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Det er tilladt at ryge på alle restauranter"
+      },
+      {
+        "key": "B",
+        "text": "Det er forbudt at ryge indendørs på offentlige steder, arbejdspladser, skoler og de fleste restauranter, caféer, barer og diskoteker"
+      },
+      {
+        "key": "C",
+        "text": "Rygeloven gælder kun for statslige institutioner"
+      },
+      {
+        "key": "D",
+        "text": "Rygning er kun forbudt i hospitaler"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Der er vedtaget en rygelov, som forbyder rygning indendørs på offentlige steder: busser, sportshaller, biografer, arbejdspladser, skoler og langt de fleste restauranter, caféer, barer og diskoteker."
+  },
+  {
+    "id": 220,
+    "chapter": "Sundhed og sygdom",
+    "question": "Hvad er aldersgrænsen for køb af øl i Danmark (2025)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "16 år for al øl og vin"
+      },
+      {
+        "key": "B",
+        "text": "16 år for almindelig øl; 18 år for alkohol over 6% samt vin, spiritus og cigaretter"
+      },
+      {
+        "key": "C",
+        "text": "18 år for alt alkohol"
+      },
+      {
+        "key": "D",
+        "text": "15 år for øl under 4,5%"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Man skal være 16 år for at købe øl. Man skal være 18 år for at købe alkohol over seks procent (dvs. meget stærk øl, vin og spiritus) samt cigaretter. I nattelivszoner gælder 18 år for al alkohol efter kl. 22."
+  },
+  {
+    "id": 221,
+    "chapter": "Ligestilling",
+    "question": "Hvornår fik kvinder stemmeret til Folketinget?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1849"
+      },
+      {
+        "key": "B",
+        "text": "1905"
+      },
+      {
+        "key": "C",
+        "text": "1915"
+      },
+      {
+        "key": "D",
+        "text": "1924"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Kvinders ret til at stemme til den lovgivende forsamling blev indført i 1915, da man ændrede grundloven."
+  },
+  {
+    "id": 222,
+    "chapter": "Ligestilling",
+    "question": "Hvad er andelen af kvindelige Folketing-medlemmer i dag?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ca. 25%"
+      },
+      {
+        "key": "B",
+        "text": "Ca. 35%"
+      },
+      {
+        "key": "C",
+        "text": "Ca. 44%"
+      },
+      {
+        "key": "D",
+        "text": "Ca. 55%"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "44 procent af medlemmerne af det danske Folketing er kvinder."
+  },
+  {
+    "id": 223,
+    "chapter": "Demokrati og grundloven",
+    "question": "Hvad er enevælde, og hvornår afskaffedes det i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Et system med stærk præsident – afskaffet i 1920"
+      },
+      {
+        "key": "B",
+        "text": "En styreform, hvor kongen alene har al magt – gjaldt 1660-61 til 1848"
+      },
+      {
+        "key": "C",
+        "text": "Et demokrati med begrænset stemmeret – afskaffet i 1915"
+      },
+      {
+        "key": "D",
+        "text": "En form for koalitionsregering – afskaffet i 1953"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Enevælden var en styreform, hvor kongen havde magten alene. Den gjaldt i Danmark fra 1660-61 og frem til 1848, da grundloven trådte i kraft i 1849."
+  },
+  {
+    "id": 224,
+    "chapter": "Det danske retssamfund",
+    "question": "Hvad er den kriminelle lavalder i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Under 12 år"
+      },
+      {
+        "key": "B",
+        "text": "Under 15 år"
+      },
+      {
+        "key": "C",
+        "text": "Under 18 år"
+      },
+      {
+        "key": "D",
+        "text": "Alle kan straffes"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Børn under 15 år kan ikke straffes og kan ikke dømmes til bøder eller fængsel."
+  },
+  {
+    "id": 225,
+    "chapter": "Det danske retssamfund",
+    "question": "Hvad er Danmarks øverste domstol?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Byretten"
+      },
+      {
+        "key": "B",
+        "text": "Østre Landsret"
+      },
+      {
+        "key": "C",
+        "text": "Vestre Landsret"
+      },
+      {
+        "key": "D",
+        "text": "Højesteret"
+      }
+    ],
+    "correctKey": "D",
+    "explanation": "Højesteret er Danmarks øverste domstol."
+  },
+  {
+    "id": 226,
+    "chapter": "Det danske retssamfund",
+    "question": "Hvad er de to landsretter og deres placering?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sjællands Landsret i Roskilde og Jyllands Landsret i Vejle"
+      },
+      {
+        "key": "B",
+        "text": "Østre Landsret i København og Vestre Landsret i Viborg"
+      },
+      {
+        "key": "C",
+        "text": "Nordre Landsret i Aalborg og Søndre Landsret i Odense"
+      },
+      {
+        "key": "D",
+        "text": "Der er kun én landsret"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Der er to landsretter: Østre Landsret i København og Vestre Landsret i Viborg."
+  },
+  {
+    "id": 227,
+    "chapter": "Folketing og regering",
+    "question": "Hvem bestemmer alene, hvem der skal være minister og hvor mange ministre?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kongen"
+      },
+      {
+        "key": "B",
+        "text": "Parlamentet i fællesskab"
+      },
+      {
+        "key": "C",
+        "text": "Statsministeren alene"
+      },
+      {
+        "key": "D",
+        "text": "Alle partilederne"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Det er alene statsministeren, som bestemmer, hvem der skal være minister, og hvor mange ministre der skal være."
+  },
+  {
+    "id": 228,
+    "chapter": "Folketing og regering",
+    "question": "Hvilken regering har Danmark haft siden 2022?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En mindretalsregering bestående af Socialdemokratiet"
+      },
+      {
+        "key": "B",
+        "text": "En flertalsregering bestående af Socialdemokratiet, Venstre og Moderaterne"
+      },
+      {
+        "key": "C",
+        "text": "En koalition af Venstre, Liberal Alliance og Det Konservative Folkeparti"
+      },
+      {
+        "key": "D",
+        "text": "En mindretalsregering bestående af SF og Radikale Venstre"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Siden 2022 har Danmark haft en flertalsregering bestående af Socialdemokratiet, Venstre og Moderaterne."
+  },
+  {
+    "id": 229,
+    "chapter": "Det lokale selvstyre",
+    "question": "Hvad er regionernes primære ansvarsområde?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Veje og affald"
+      },
+      {
+        "key": "B",
+        "text": "Sundhedsområdet – herunder drift af de offentlige sygehuse"
+      },
+      {
+        "key": "C",
+        "text": "Folkeskoler og daginstitutioner"
+      },
+      {
+        "key": "D",
+        "text": "Boligstøtte og sociale ydelser"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Regionerne har bl.a. ansvar for sundhedsområdet. Det er regionerne, der driver de offentlige sygehuse."
+  },
+  {
+    "id": 230,
+    "chapter": "Det lokale selvstyre",
+    "question": "Hvad er en vigtig ny strukturændring i det regionale selvstyre? (ny i 2025-materialet)",
+    "options": [
+      {
+        "key": "A",
+        "text": "Alle regioner sammenlægges til én stor region"
+      },
+      {
+        "key": "B",
+        "text": "Region Hovedstaden og Region Sjælland sammenlægges den 1. januar 2027 til Region Østdanmark"
+      },
+      {
+        "key": "C",
+        "text": "Regionerne afskaffes og opgaverne overgår til kommunerne"
+      },
+      {
+        "key": "D",
+        "text": "Der oprettes to nye regioner i Jylland"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Nyt i 2025-materialet: Region Hovedstaden og Region Sjælland lægges sammen den 1. januar 2027. Den nye, sammenlagte region skal hedde Region Østdanmark."
+  },
+  {
+    "id": 231,
+    "chapter": "Folkestyret i praksis – valg og partier",
+    "question": "Hvor mange er medlem af et politisk parti i Danmark? (2025-tal)",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ca. 80.000"
+      },
+      {
+        "key": "B",
+        "text": "Ca. 110.000"
+      },
+      {
+        "key": "C",
+        "text": "Ca. 125.000"
+      },
+      {
+        "key": "D",
+        "text": "Ca. 200.000"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Ca. 110.000 er medlem af et politisk parti (opdateret fra ca. 125.000 i 2024-materialet)."
+  },
+  {
+    "id": 232,
+    "chapter": "Folkestyret i praksis – valg og partier",
+    "question": "Hvad er en interesseorganisation?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Et politisk parti"
+      },
+      {
+        "key": "B",
+        "text": "En sammenslutning af personer eller virksomheder med en fælles interesse, der forsøger at påvirke politik"
+      },
+      {
+        "key": "C",
+        "text": "En statslig rådgivningsenhed"
+      },
+      {
+        "key": "D",
+        "text": "Et lokalt kulturhus"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "En interesseorganisation er en sammenslutning af fx fagforeningsmedlemmer, landmænd eller patientforeninger, der forsøger at påvirke politik på deres område."
+  },
+  {
+    "id": 233,
+    "chapter": "Borgernes rettigheder og pligter",
+    "question": "Hvem har værnepligt i Danmark fra 1. juli 2025?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kun mænd over 18 år"
+      },
+      {
+        "key": "B",
+        "text": "Alle mænd og kvinder over 18 år med dansk statsborgerskab"
+      },
+      {
+        "key": "C",
+        "text": "Kun frivillige mænd og kvinder"
+      },
+      {
+        "key": "D",
+        "text": "Ingen – værnepligten er afskaffet"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Fra 1. juli 2025 har alle mænd OG kvinder i Danmark over 18 år med dansk statsborgerskab pligt til at være med til at forsvare landet (værnepligt). Tidligere var det kun mænd."
+  },
+  {
+    "id": 234,
+    "chapter": "Borgernes rettigheder og pligter",
+    "question": "Fra hvornår forlænges værnepligtstjenesten til 11 måneder som udgangspunkt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Fra 2024"
+      },
+      {
+        "key": "B",
+        "text": "Fra 2025"
+      },
+      {
+        "key": "C",
+        "text": "Fra 2026"
+      },
+      {
+        "key": "D",
+        "text": "Fra 2030"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Det er aftalt, at værnepligtige fra 2026 som udgangspunkt skal gøre tjeneste i 11 måneder (tidligere 4 måneder i Forsvaret)."
+  },
+  {
+    "id": 235,
+    "chapter": "Religion og kirke",
+    "question": "Hvor mange anerkendte trossamfund og menigheder er der i Danmark? (2025-tal)",
+    "options": [
+      {
+        "key": "A",
+        "text": "300"
+      },
+      {
+        "key": "B",
+        "text": "431"
+      },
+      {
+        "key": "C",
+        "text": "436"
+      },
+      {
+        "key": "D",
+        "text": "500"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Der findes 436 anerkendte trossamfund og menigheder i Danmark (opdateret fra 431 i 2024-materialet)."
+  },
+  {
+    "id": 236,
+    "chapter": "Danmark og omverdenen",
+    "question": "Hvornår blev Danmark member af EU (EF)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1960"
+      },
+      {
+        "key": "B",
+        "text": "1973"
+      },
+      {
+        "key": "C",
+        "text": "1986"
+      },
+      {
+        "key": "D",
+        "text": "1992"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Danmark blev member af EU (EF) i 1973 efter en folkeafstemning, hvor 63,4% stemte ja."
+  },
+  {
+    "id": 237,
+    "chapter": "Danmark og omverdenen",
+    "question": "Hvad er Danmarks nuværende EU-forbehold?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Forsvarspolitik og fiskeri"
+      },
+      {
+        "key": "B",
+        "text": "Fælles valuta (euro) og retligt samarbejde"
+      },
+      {
+        "key": "C",
+        "text": "Landbrugspolitik og miljøpolitik"
+      },
+      {
+        "key": "D",
+        "text": "Fælles udenrigspolitik og told"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Danmarks forbehold handler om den fælles valuta (euroen) og det retlige samarbejde (fx politi, strafferet, asyl og indvandring)."
+  },
+  {
+    "id": 238,
+    "chapter": "Danmark og omverdenen",
+    "question": "Hvornår har Danmark EU-formandskabet i 2025?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1. januar til 30. juni 2025"
+      },
+      {
+        "key": "B",
+        "text": "1. juli til 31. december 2025"
+      },
+      {
+        "key": "C",
+        "text": "1. januar til 31. marts 2025"
+      },
+      {
+        "key": "D",
+        "text": "Danmark havde ikke EU-formandskab i 2025"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Danmark har formandskabet for EU 1. juli til 31. december 2025. Sidst var det i 2012."
+  },
+  {
+    "id": 239,
+    "chapter": "Danmark og omverdenen",
+    "question": "I hvilken periode er Danmark member af FN's Sikkerhedsråd? (ny i 2025)",
+    "options": [
+      {
+        "key": "A",
+        "text": "2022-24"
+      },
+      {
+        "key": "B",
+        "text": "2023-25"
+      },
+      {
+        "key": "C",
+        "text": "2024-26 (2025-26)"
+      },
+      {
+        "key": "D",
+        "text": "2026-28"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Danmark er member af FN's Sikkerhedsråd i perioden 2025-26 (og har tidligere været member i 1967-68, 1985-86 og 2005-06)."
+  },
+  {
+    "id": 240,
+    "chapter": "Danmark og omverdenen",
+    "question": "Hvilken verdensdel modtager størstedelen af Danmarks udviklingsbistand? (ny oplysning i 2025)",
+    "options": [
+      {
+        "key": "A",
+        "text": "Asien"
+      },
+      {
+        "key": "B",
+        "text": "Sydamerika"
+      },
+      {
+        "key": "C",
+        "text": "Afrika"
+      },
+      {
+        "key": "D",
+        "text": "Østeuropa"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Afrika er den verdensdel, der modtager størstedelen af Danmarks udviklingsbistand. I 2024 fremlagde den danske regering en ny 'Strategi for et styrket dansk engagement med de afrikanske lande'."
+  },
+  {
+    "id": 241,
+    "chapter": "Danmarks geografi og befolkning",
+    "question": "Hvad er Danmarks højeste naturlige punkt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Himmelbjerget – ca. 147 m"
+      },
+      {
+        "key": "B",
+        "text": "Møllehøj – ca. 170 m (Østjylland)"
+      },
+      {
+        "key": "C",
+        "text": "Yding Skovhøj – ca. 200 m"
+      },
+      {
+        "key": "D",
+        "text": "Guldbjerg – ca. 120 m"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Det højeste naturlige punkt hedder Møllehøj og ligger i Østjylland ca. 170 meter over havets overflade."
+  },
+  {
+    "id": 242,
+    "chapter": "Danmarks geografi og befolkning",
+    "question": "Hvad er andelen af indvandrere og efterkommere i Danmarks befolkning? (2025-tal)",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ca. 10%"
+      },
+      {
+        "key": "B",
+        "text": "Ca. 13%"
+      },
+      {
+        "key": "C",
+        "text": "Ca. 16%"
+      },
+      {
+        "key": "D",
+        "text": "Ca. 20%"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Der bor ca. 6 millioner mennesker i Danmark. Af dem er næsten en million (16 procent) indvandrere eller efterkommere (opdateret fra 15% i 2024-materialet)."
+  },
+  {
+    "id": 243,
+    "chapter": "Danmarks geografi og befolkning",
+    "question": "Hvad hedder farvandet mellem Sjælland og Sverige?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Storebælt"
+      },
+      {
+        "key": "B",
+        "text": "Lillebælt"
+      },
+      {
+        "key": "C",
+        "text": "Kattegat"
+      },
+      {
+        "key": "D",
+        "text": "Øresund"
+      }
+    ],
+    "correctKey": "D",
+    "explanation": "Farvandet mellem Sjælland og Sverige hedder Øresund."
+  },
+  {
+    "id": 244,
+    "chapter": "Danmarks historie før 1945",
+    "question": "Hvad skete den 9. april 1940 og den 5. maj 1945?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Danmark underskrev en fredsaftale den 9. april og sejrede den 5. maj"
+      },
+      {
+        "key": "B",
+        "text": "Tyske tropper besatte Danmark den 9. april 1940; Danmark befriedes af britiske tropper den 5. maj 1945"
+      },
+      {
+        "key": "C",
+        "text": "Danmark erklærede krig den 9. april og kapitulerede den 5. maj"
+      },
+      {
+        "key": "D",
+        "text": "Grundloven indførtes den 9. april og ændredes den 5. maj"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Den 9. april 1940 besatte tyske tropper Danmark. Den 5. maj 1945 blev Danmark officielt befriet af britiske tropper."
+  },
+  {
+    "id": 245,
+    "chapter": "Danmarks historie efter 1945",
+    "question": "Hvornår indførtes fri abort, og hvad er grænsen i 2025?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Fri abort indførtes i 1966, grænsen er 12. uge"
+      },
+      {
+        "key": "B",
+        "text": "Fri abort indførtes i 1973 (12. uge) og grænsen er i 2025 hævet til 18. uge"
+      },
+      {
+        "key": "C",
+        "text": "Fri abort indførtes i 1980, grænsen er 18. uge"
+      },
+      {
+        "key": "D",
+        "text": "Fri abort indførtes i 1973, grænsen er fortsat 12. uge"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Fri abort indførtes i 1973 (frem til 12. uge). I 2025 er grænsen for den fri abort blevet hævet fra 12. til 18. graviditetsuge."
+  },
+  {
+    "id": 246,
+    "chapter": "Danmarks historie efter 1945",
+    "question": "Hvornår vedtog Folketing loven om ligeløn?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1966"
+      },
+      {
+        "key": "B",
+        "text": "1973"
+      },
+      {
+        "key": "C",
+        "text": "1976"
+      },
+      {
+        "key": "D",
+        "text": "1984"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "I 1976 vedtog Folketing en lov om ligeløn, der gav mænd og kvinder ret til den samme løn for det samme arbejde."
+  },
+  {
+    "id": 247,
+    "chapter": "Danmarks historie efter 1945",
+    "question": "Hvad er den forventede levealder for kvinder og mænd i Danmark i 2024?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kvinder 80,2 år og mænd 75,1 år"
+      },
+      {
+        "key": "B",
+        "text": "Kvinder 83,7 år og mænd 79,9 år"
+      },
+      {
+        "key": "C",
+        "text": "Kvinder 85,0 år og mænd 81,0 år"
+      },
+      {
+        "key": "D",
+        "text": "Kvinder 78,4 år og mænd 73,6 år"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "I 2024 kan kvinder i Danmark forvente at leve 83,7 år (mod 76,6 år i 1973-74), og mænd 79,9 år (mod 70,8 år i 1973-74)."
+  },
+  {
+    "id": 248,
+    "chapter": "Danmarks historie efter 1945",
+    "question": "Hvornår blev det første COVID-19-tilfælde registreret i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "November 2019"
+      },
+      {
+        "key": "B",
+        "text": "Januar 2020"
+      },
+      {
+        "key": "C",
+        "text": "Februar 2020"
+      },
+      {
+        "key": "D",
+        "text": "Marts 2020"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Sygdommen COVID-19 blev opdaget i Kina i 2019, og i Danmark blev det første tilfælde registreret i februar 2020."
+  },
+  {
+    "id": 249,
+    "chapter": "Danmarks historie efter 1945",
+    "question": "Hvornår besluttede Folketing at der ikke skal bygges atomkraftværker i Danmark?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1973"
+      },
+      {
+        "key": "B",
+        "text": "1980"
+      },
+      {
+        "key": "C",
+        "text": "1985"
+      },
+      {
+        "key": "D",
+        "text": "1990"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "I 1985 besluttede Folketing, at der ikke skulle bygges atomkraftværker i Danmark."
+  },
+  {
+    "id": 250,
+    "chapter": "Dansk kultur",
+    "question": "Hvem kaldes 'dansk litteraturs far'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "H.C. Andersen"
+      },
+      {
+        "key": "B",
+        "text": "Ludvig Holberg (1684-1754) – for komedier og filosofiske tekster"
+      },
+      {
+        "key": "C",
+        "text": "Søren Kierkegaard"
+      },
+      {
+        "key": "D",
+        "text": "Carl Nielsen"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Ludvig Holberg (1684-1754) kaldes 'dansk litteraturs far'. Han lagde grunden til dansk teater med komedier som 'Jeppe på Bjerget'."
+  },
+  {
+    "id": 251,
+    "chapter": "Traditioner og mærkedage",
+    "question": "Hvad er grundlovsdag?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En religiøs helligdag den 1. januar"
+      },
+      {
+        "key": "B",
+        "text": "Den 5. juni – fejring af Danmarks første frie forfatning indført 5. juni 1849"
+      },
+      {
+        "key": "C",
+        "text": "Den 9. april – mindedag for besættelsen"
+      },
+      {
+        "key": "D",
+        "text": "Den 24. december – juleaften"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Den 5. juni er grundlovsdag, der fejrer, at Danmarks første frie forfatning blev indført den 5. juni 1849."
+  },
+  {
+    "id": 252,
+    "chapter": "Traditioner og mærkedage",
+    "question": "Hvad fejres juleaften den 24. december?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Nytår og fyrværkeri"
+      },
+      {
+        "key": "B",
+        "text": "Jesu fødsel – med juletræ, julemiddag, dans og julegaver; mange går i kirke"
+      },
+      {
+        "key": "C",
+        "text": "Fastelavn og maskering"
+      },
+      {
+        "key": "D",
+        "text": "Grundlovsdag"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Juleaftensdag den 24. december er fejring af Jesu fødsel. I mange familier fejres det med juletræ, traditionel julemiddag, dans om juletræet og julegaver. Der holdes julegudstjenester."
+  },
+  {
+    "id": 253,
+    "chapter": "Danmarks forsvars- og sikkerhedspolitik",
+    "question": "Hvad er Pituffik Space Base?",
+    "options": [
+      {
+        "key": "A",
+        "text": "En dansk rumstation"
+      },
+      {
+        "key": "B",
+        "text": "Den amerikanske militærbase ved Qaanaaq (Thule) i Nordgrønland, etableret i 1951"
+      },
+      {
+        "key": "C",
+        "text": "Et NATO-kommandocenter i Belgien"
+      },
+      {
+        "key": "D",
+        "text": "En islandsk flådebase"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "I 1951 byggede USA en stor militærbase ved Qaanaaq (Thule) i Nordgrønland, nu kaldet Pituffik Space Base. Den bruges stadig af USA."
+  },
+  {
+    "id": 254,
+    "chapter": "Danmarks forsvars- og sikkerhedspolitik",
+    "question": "Hvad besluttede Danmark i 2025 i relation til Grønland og Arktis? (nyt i 2025)",
+    "options": [
+      {
+        "key": "A",
+        "text": "At sælge Grønland til USA"
+      },
+      {
+        "key": "B",
+        "text": "At styrke det danske forsvars tilstedeværelse omkring Grønland med bl.a. nye arktiske skibe og droner til overvågning"
+      },
+      {
+        "key": "C",
+        "text": "At trække alle soldater hjem fra Arktis"
+      },
+      {
+        "key": "D",
+        "text": "At overdrage Grønlands forsvar helt til NATO"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Nyt i 2025: Det er besluttet at styrke det danske forsvars tilstedeværelse omkring Grønland. Der købes nye arktiske skibe og droner til overvågning af store områder."
+  },
+  {
+    "id": 255,
+    "chapter": "Danmarks forsvars- og sikkerhedspolitik",
+    "question": "Hvad har Ruslands angreb på Ukraine siden 2022 medført for NATO?",
+    "options": [
+      {
+        "key": "A",
+        "text": "NATO er opløst"
+      },
+      {
+        "key": "B",
+        "text": "NATO er vendt tilbage til sit oprindelige fokus på at forsvare eget territorium – Danmark bruger flere penge på forsvar"
+      },
+      {
+        "key": "C",
+        "text": "Alle NATO-lande har sendt tropper til Ukraine"
+      },
+      {
+        "key": "D",
+        "text": "Danmark har forladt NATO"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Ruslands angreb på Ukraine har fået NATO til at fokusere på forsvar af eget territorium. Danmark har besluttet at bruge mange flere penge på forsvar frem mod 2030."
+  },
+  {
+    "id": 256,
+    "chapter": "Danmarks forsvars- og sikkerhedspolitik",
+    "question": "Hvad kostede Danmarks engagement i Afghanistan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "10 danske soldater mistede livet"
+      },
+      {
+        "key": "B",
+        "text": "44 danske soldater mistede livet"
+      },
+      {
+        "key": "C",
+        "text": "100 danske soldater mistede livet"
+      },
+      {
+        "key": "D",
+        "text": "Ingen danske soldater omkom"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "I alt 44 danske soldater mistede livet under Danmarks engagement i Afghanistan (2002-2014)."
+  },
+  {
+    "id": 257,
+    "chapter": "Diskrimination, antisemitisme, hadforbrydelser og",
+    "question": "Hvad viser statistikker om hadforbrydelser i Danmark (2017-22)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Der registreres ca. 50 sager om året"
+      },
+      {
+        "key": "B",
+        "text": "Der registreres 3.107 sager; 55% pga. race/etnicitet, 29% pga. religion, 17% pga. seksuel orientering – over 1 sag pr. dag"
+      },
+      {
+        "key": "C",
+        "text": "Næsten alle hadforbrydelser er vold"
+      },
+      {
+        "key": "D",
+        "text": "Der er færre hadforbrydelser hvert år"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "I 2017-22 registrerede politiet 3.107 sager om hadforbrydelser: 55% pga. race/etnicitet, 29% pga. religion og 17% pga. seksuel orientering – svarende til over 1 sag per dag."
+  },
+  {
+    "id": 258,
+    "chapter": "Klima",
+    "question": "Hvor meget er Danmarks drivhusgasudledning faldet fra 1990 til 2023?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ca. 30%"
+      },
+      {
+        "key": "B",
+        "text": "Ca. 40%"
+      },
+      {
+        "key": "C",
+        "text": "Ca. 47%"
+      },
+      {
+        "key": "D",
+        "text": "Ca. 51%"
+      }
+    ],
+    "correctKey": "D",
+    "explanation": "Danmarks udledning af drivhusgasser fra 1990 til 2023 er faldet med cirka 51 procent (opdateret fra 47% i 2024-materialet, som brugte 2022-data)."
+  },
+  {
+    "id": 259,
+    "chapter": "Klima",
+    "question": "Hvad er andelen af vedvarende energi i Danmarks energiforbrug i 2023?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ca. 25%"
+      },
+      {
+        "key": "B",
+        "text": "Ca. 35%"
+      },
+      {
+        "key": "C",
+        "text": "Ca. 47%"
+      },
+      {
+        "key": "D",
+        "text": "Ca. 50%"
+      }
+    ],
+    "correctKey": "D",
+    "explanation": "Vedvarende energi dækkede 50 procent af energiforbruget i Danmark i 2023 (opdateret fra 47% i 2024-materialet)."
+  },
+  {
+    "id": 260,
+    "chapter": "Klima",
+    "question": "Hvad er 'Den Grønne Trepart'? (ny i 2025-materialet)",
+    "options": [
+      {
+        "key": "A",
+        "text": "Et EU-klimasamarbejde"
+      },
+      {
+        "key": "B",
+        "text": "Et samarbejde mellem regeringen, kommunerne, fagforeninger, miljøorganisationer og erhvervsliv om mere natur og grøn omstilling af landbruget"
+      },
+      {
+        "key": "C",
+        "text": "En aftale om atomkraft"
+      },
+      {
+        "key": "D",
+        "text": "Et nyt vindmølleprojekt i Nordsøen"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Nyt i 2025: 'Den Grønne Trepart' er et samarbejde om mere natur og renere vand samt grøn omstilling af landbruget. Ca. 15% af Danmarks landbrugsjord skal omlægges til natur."
+  },
+  {
+    "id": 261,
+    "chapter": "Klima",
+    "question": "Hvad er Danmarkspremieren som det første land i verden på klimaafgiftsområdet? (ny i 2025)",
+    "options": [
+      {
+        "key": "A",
+        "text": "Danmark er det første land der forbyder benzinbiler"
+      },
+      {
+        "key": "B",
+        "text": "Danmark indfører som det første land i verden en direkte CO2-afgift på landbrugets udledninger"
+      },
+      {
+        "key": "C",
+        "text": "Danmark er det første land der forbyder import af russisk gas"
+      },
+      {
+        "key": "D",
+        "text": "Danmark er det første land der har 100% vedvarende energi"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Nyt i 2025: Med 'Den Grønne Trepart' indfører Danmark som det første land i verden en direkte CO2-afgift på landbrugets udledninger fra køer, grise, får og andre dyr."
   }
 ]
