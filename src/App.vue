@@ -4,6 +4,7 @@ import AppHeader from '@/components/AppHeader.vue'
 import QuizStartView from '@/components/QuizStartView.vue'
 import QuizQuestionView from '@/components/QuizQuestionView.vue'
 import QuizResultsView from '@/components/QuizResultsView.vue'
+import AppFooter from '@/components/AppFooter.vue'
 
 const {
   phase,
@@ -42,5 +43,7 @@ const {
         @end="endQuiz"
       />
     </main>
+
+    <AppFooter />
   </div>
 </template>

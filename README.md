@@ -18,6 +18,7 @@ The quiz content is based on the official teaching material **“Læremateriale 
 |------|---------|
 | Stack | Vue 3, TypeScript, Vite, Tailwind CSS |
 | Runtime | Runs entirely in the browser (static frontend; no backend server) |
+| Version | [Semantic Versioning 2.0.0](https://semver.org/) (`MAJOR.MINOR.PATCH`); see **Versioning** |
 
 ### Requirements
 
@@ -62,6 +63,36 @@ node scripts/build-questions.mjs
 ```
 
 Run this from the **project root** (the same directory as `package.json`).
+
+### Versioning
+
+This project follows **semantic versioning**: **`MAJOR.MINOR.PATCH`** ([spec](https://semver.org/)).
+
+| Segment | When to bump |
+|--------|----------------|
+| **MAJOR** | Breaking changes (e.g. incompatible UX, removed features, new requirements for users) |
+| **MINOR** | New functionality that stays backward compatible |
+| **PATCH** | Bug fixes and small compatible improvements |
+
+- **Source of truth:** the `version` field in **`package.json`** (also written into the built app as **`VITE_APP_VERSION`**, shown in the footer as `v1.2.3`).
+- **History:** update **`CHANGELOG.md`** when you release (see [Keep a Changelog](https://keepachangelog.com/)).
+
+**Bump the version** (updates `package.json` and `package-lock.json`; does **not** create a git commit):
+
+```bash
+npm run release:patch   # 1.0.0 → 1.0.1
+npm run release:minor   # 1.0.0 → 1.1.0
+npm run release:major   # 1.0.0 → 2.0.0
+```
+
+Then commit the version bump and changelog, tag if you like, and push (GitHub Actions will deploy the new build):
+
+```bash
+git add package.json package-lock.json CHANGELOG.md
+git commit -m "chore(release): v1.0.1"
+git tag v1.0.1   # optional
+git push origin main --follow-tags
+```
 
 ---
 
