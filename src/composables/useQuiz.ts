@@ -1,5 +1,6 @@
 import { ref, computed } from 'vue'
 import type { Question, AnsweredQuestion, OptionKey, Phase } from '@/types/question'
+import { shuffleQuestionOptions } from '@/utils/question'
 import rawQuestions from '@/data/questions.json'
 export const QUIZ_SIZE = 25
 
@@ -22,7 +23,9 @@ export function useQuiz() {
   const answers = ref<AnsweredQuestion[]>([])
 
   function startQuiz() {
-    quizQuestions.value = shuffle(allQuestions).slice(0, QUIZ_SIZE)
+    quizQuestions.value = shuffle(allQuestions)
+      .slice(0, QUIZ_SIZE)
+      .map(shuffleQuestionOptions)
     currentIndex.value = 0
     selectedKey.value = null
     answers.value = []
