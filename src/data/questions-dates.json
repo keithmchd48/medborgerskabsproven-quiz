@@ -240,54 +240,6 @@
     "explanation": "Nytårsaften den 31. december kl. 18 holder kongen nytårstale i fjernsynet."
   },
   {
-    "id": 9021,
-    "chapter": "Dates",
-    "question": "Hvad gælder om muslimsk Ramadan ifølge bogen?",
-    "options": [
-      { "key": "A", "text": "Mange muslimer spiser og drikker ikke, mens solen er på himlen" },
-      { "key": "B", "text": "Den falder altid i december i Danmark" },
-      { "key": "C", "text": "Den varer præcis 40 dage i alle lande" }
-    ],
-    "correctKey": "A",
-    "explanation": "I Ramadan faster muslimer – de spiser og drikker ikke, mens solen er på himlen – til minde om profetens første åbenbaring."
-  },
-  {
-    "id": 9022,
-    "chapter": "Dates",
-    "question": "Hvad markerer Eid al-Fitr?",
-    "options": [
-      { "key": "A", "text": "Afslutningen på Ramadan" },
-      { "key": "B", "text": "Begyndelsen af fasten" },
-      { "key": "C", "text": "Jødisk nytår" }
-    ],
-    "correctKey": "A",
-    "explanation": "Eid al-Fitr er den muslimske fest, der markerer afslutningen på Ramadan og fejres i stigende grad i danske institutioner."
-  },
-  {
-    "id": 9023,
-    "chapter": "Dates",
-    "question": "Hvad mindes ved jødisk påske (Pesach)?",
-    "options": [
-      { "key": "A", "text": "Jødernes udvandring fra Ægypten – tradition for lam og usyret brød" },
-      { "key": "B", "text": "Moses modtagelse af stentavlerne alene" },
-      { "key": "C", "text": "Oprettelsen af staten Israel" }
-    ],
-    "correctKey": "A",
-    "explanation": "Pesach mindes udvandringen fra Ægypten; der er tradition for at spise lam og usyret brød."
-  },
-  {
-    "id": 9024,
-    "chapter": "Dates",
-    "question": "Hvad markerer jødisk pinse (Shavuot) ifølge bogen?",
-    "options": [
-      { "key": "A", "text": "Pagtslutningen på Sinais bjerg, hvor Moses modtog de ti bud" },
-      { "key": "B", "text": "Udgangen fra Ægypten" },
-      { "key": "C", "text": "Ny måne i september" }
-    ],
-    "correctKey": "A",
-    "explanation": "Shavuot fejrer pagtslutningen på Sinais bjerg, hvor Moses modtog de ti bud."
-  },
-  {
     "id": 9025,
     "chapter": "Dates",
     "question": "Hvordan afsluttes kinesisk nytår ifølge bogen?",
