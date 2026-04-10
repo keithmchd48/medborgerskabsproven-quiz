@@ -3,9 +3,11 @@ import type { Question, AnsweredQuestion, OptionKey, Phase } from '@/types/quest
 import { shuffleQuestionOptions } from '@/utils/question'
 import { QUIZ_CATEGORIES, type QuizCategoryId } from '@/config/quizCategories'
 import rawQuestions from '@/data/questions.json'
+import rawDatesQuestions from '@/data/questions-dates.json'
 export const QUIZ_SIZE = 25
 
 const allQuestions = rawQuestions as Question[]
+const datesQuestions = rawDatesQuestions as Question[]
 
 function shuffle<T>(arr: T[]): T[] {
   const a = [...arr]
@@ -20,9 +22,15 @@ function questionPoolForCategory(categoryId: QuizCategoryId): Question[] {
   switch (categoryId) {
     case 'mixed':
       return allQuestions
+    case 'dates':
+      return datesQuestions
     default:
       return allQuestions
   }
+}
+
+function questionCountForPool(pool: Question[]): number {
+  return Math.min(QUIZ_SIZE, pool.length)
 }
 
 export function useQuiz() {
@@ -39,6 +47,16 @@ export function useQuiz() {
       : null,
   )
 
+  /** How many questions the next quiz will use (shown on start screen). */
+  const previewQuestionCount = computed(() => {
+    if (!selectedCategoryId.value) return QUIZ_SIZE
+    return questionCountForPool(questionPoolForCategory(selectedCategoryId.value))
+  })
+
+  const currentQuizLength = computed(() => quizQuestions.value.length)
+
+  const completedQuizQuestionCount = computed(() => answers.value.length)
+
   function selectCategory(categoryId: QuizCategoryId) {
     selectedCategoryId.value = categoryId
     phase.value = 'start'
@@ -52,9 +70,8 @@ export function useQuiz() {
   function startQuiz() {
     if (!selectedCategoryId.value) return
     const pool = questionPoolForCategory(selectedCategoryId.value)
-    quizQuestions.value = shuffle(pool)
-      .slice(0, QUIZ_SIZE)
-      .map(shuffleQuestionOptions)
+    const n = questionCountForPool(pool)
+    quizQuestions.value = shuffle(pool).slice(0, n).map(shuffleQuestionOptions)
     currentIndex.value = 0
     selectedKey.value = null
     answers.value = []
@@ -64,12 +81,13 @@ export function useQuiz() {
   function nextQuestion() {
     if (selectedKey.value === null) return
     const q = quizQuestions.value[currentIndex.value]!
+    const len = quizQuestions.value.length
     answers.value.push({
       ...q,
       selectedKey: selectedKey.value,
       isCorrect: selectedKey.value === q.correctKey,
     })
-    if (currentIndex.value >= QUIZ_SIZE - 1) {
+    if (currentIndex.value >= len - 1) {
       phase.value = 'results'
     } else {
       currentIndex.value++
@@ -92,6 +110,9 @@ export function useQuiz() {
     phase,
     selectedCategoryId,
     selectedCategory,
+    previewQuestionCount,
+    currentQuizLength,
+    completedQuizQuestionCount,
     quizQuestions,
     currentIndex,
     selectedKey,

@@ -1,0 +1,482 @@
+[
+  {
+    "id": 9001,
+    "chapter": "Dates",
+    "question": "Hvad sker der den 1. januar (Nytårsdag) ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "De fleste arbejdspladser og butikker er lukket, og statsministeren holder nytårstale i fjernsynet" },
+      { "key": "B", "text": "Alle skoler holder ekstra undervisning om grundloven" },
+      { "key": "C", "text": "Der afholdes kommunalvalg i hele landet" }
+    ],
+    "correctKey": "A",
+    "explanation": "Nytårsdag er en dag, hvor de fleste arbejdspladser og butikker er lukket, og statsministeren holder nytårstale i fjernsynet."
+  },
+  {
+    "id": 9002,
+    "chapter": "Dates",
+    "question": "Hvornår falder fastelavn ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Syv uger før påske" },
+      { "key": "B", "text": "Præcis den 1. marts hvert år" },
+      { "key": "C", "text": "Syv uger efter påske" }
+    ],
+    "correctKey": "A",
+    "explanation": "Fastelavn er en karnevals- og forårsfest syv uger før påske."
+  },
+  {
+    "id": 9003,
+    "chapter": "Dates",
+    "question": "Hvem bliver kaldt «kattekonge» ved fastelavn?",
+    "options": [
+      { "key": "A", "text": "Den, der slår det sidste bræt af tønden" },
+      { "key": "B", "text": "Den voksne, der organiserer optoget" },
+      { "key": "C", "text": "Det første barn, der finder slik i tønden" }
+    ],
+    "correctKey": "A",
+    "explanation": "Den, der slår det sidste bræt af tønden, kaldes kattekonge; der er slik og frugt i tønden."
+  },
+  {
+    "id": 9004,
+    "chapter": "Dates",
+    "question": "Hvilken dag indledes påskeugen ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Palmesøndag" },
+      { "key": "B", "text": "2. påskedag" },
+      { "key": "C", "text": "Skærtorsdag" }
+    ],
+    "correctKey": "A",
+    "explanation": "Palmesøndag er første dag i påskeugen og er helligdag."
+  },
+  {
+    "id": 9005,
+    "chapter": "Dates",
+    "question": "Hvad markerer Langfredag?",
+    "options": [
+      { "key": "A", "text": "Jesu korsfæstelse og død" },
+      { "key": "B", "text": "Jesu opstandelse" },
+      { "key": "C", "text": "Helligåndens komme til jorden" }
+    ],
+    "correctKey": "A",
+    "explanation": "Langfredag markerer Jesu korsfæstelse og død og er helligdag."
+  },
+  {
+    "id": 9006,
+    "chapter": "Dates",
+    "question": "Hvad markerer Påskedag (søndag)?",
+    "options": [
+      { "key": "A", "text": "Jesu opstandelse fra de døde" },
+      { "key": "B", "text": "Jesu korsfæstelse" },
+      { "key": "C", "text": "Julens begyndelse" }
+    ],
+    "correctKey": "A",
+    "explanation": "Påskedag markerer Jesu opstandelse fra de døde og er helligdag."
+  },
+  {
+    "id": 9007,
+    "chapter": "Dates",
+    "question": "Hvad gælder om påskeæg ifølge traditionen i bogen?",
+    "options": [
+      { "key": "A", "text": "De er traditionelt ofte lavet af chokolade" },
+      { "key": "B", "text": "De må kun spises om aftenen" },
+      { "key": "C", "text": "De uddeles kun i folkekirken" }
+    ],
+    "correctKey": "A",
+    "explanation": "Der gives påskeæg – traditionelt lavet af chokolade."
+  },
+  {
+    "id": 9008,
+    "chapter": "Dates",
+    "question": "Hvornår ligger påsken i forhold til kalenderdatoer?",
+    "options": [
+      { "key": "A", "text": "I marts eller april – ikke på faste datoer" },
+      { "key": "B", "text": "Altid i uge 40" },
+      { "key": "C", "text": "Fast på den sidste søndag i februar" }
+    ],
+    "correctKey": "A",
+    "explanation": "Påsken ligger i marts eller april og ikke på faste datoer."
+  },
+  {
+    "id": 9009,
+    "chapter": "Dates",
+    "question": "Hvad markeres den 1. maj ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Arbejdernes internationale dag – demonstrations- og festdag siden 1889" },
+      { "key": "B", "text": "Grundlovsdag med taler om demokrati" },
+      { "key": "C", "text": "Sankthansaften med bål over hele landet" }
+    ],
+    "correctKey": "A",
+    "explanation": "1. maj er arbejdernes internationale demonstrations- og festdag siden 1889; mange skolebørn har fri."
+  },
+  {
+    "id": 9010,
+    "chapter": "Dates",
+    "question": "Hvad har lønmodtagere normalt ret til i perioden 1. maj til 30. september?",
+    "options": [
+      { "key": "A", "text": "At holde tre ugers ferie i sammenhæng" },
+      { "key": "B", "text": "Gratis offentlig transport i ferien" },
+      { "key": "C", "text": "Fem ugers sammenhængende ferie uanset overenskomst" }
+    ],
+    "correctKey": "A",
+    "explanation": "I ferieperioden 1. maj–30. september har lønmodtagere normalt ret til at holde tre ugers ferie i sammenhæng."
+  },
+  {
+    "id": 9011,
+    "chapter": "Dates",
+    "question": "Hvornår falder Pinsedag ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Syv uger efter påske (søndag)" },
+      { "key": "B", "text": "Samme uge som påske" },
+      { "key": "C", "text": "Den sidste søndag i maj hvert år" }
+    ],
+    "correctKey": "A",
+    "explanation": "Pinsedag falder syv uger efter påske (søndag) og markerer ifølge Bibelen, at Helligånden kom ned til jorden."
+  },
+  {
+    "id": 9012,
+    "chapter": "Dates",
+    "question": "Hvilken dag er også helligdag i pinsetiden udover selve pinsedag?",
+    "options": [
+      { "key": "A", "text": "2. Pinsedag (mandagen efter)" },
+      { "key": "B", "text": "Skærtorsdag" },
+      { "key": "C", "text": "Langfredag" }
+    ],
+    "correctKey": "A",
+    "explanation": "Dagen efter pinsedag (mandag) er 2. Pinsedag og er helligdag."
+  },
+  {
+    "id": 9013,
+    "chapter": "Dates",
+    "question": "Hvornår er Grundlovsdag?",
+    "options": [
+      { "key": "A", "text": "5. juni" },
+      { "key": "B", "text": "1. maj" },
+      { "key": "C", "text": "4. juli" }
+    ],
+    "correctKey": "A",
+    "explanation": "Grundlovsdag fejres 5. juni – Danmarks første frie forfatning blev indført 5. juni 1849."
+  },
+  {
+    "id": 9014,
+    "chapter": "Dates",
+    "question": "Hvad er korrekt om Grundlovsdag ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Det er ikke en officiel fridag for alle, men mange offentlige kontorer og butikker holder lukket" },
+      { "key": "B", "text": "Alle skal have fri med løn ifølge lov" },
+      { "key": "C", "text": "Kun skoler holder lukket" }
+    ],
+    "correctKey": "A",
+    "explanation": "Grundlovsdag er ikke en officiel fridag for alle, men offentlige kontorer og mange butikker holder lukket."
+  },
+  {
+    "id": 9015,
+    "chapter": "Dates",
+    "question": "Hvornår fejres sankthansaften?",
+    "options": [
+      { "key": "A", "text": "23. juni om aftenen" },
+      { "key": "B", "text": "5. juni om aftenen" },
+      { "key": "C", "text": "31. december kl. 24" }
+    ],
+    "correctKey": "A",
+    "explanation": "Sankthansaften fejres 23. juni om aftenen som midsommerfest med bål."
+  },
+  {
+    "id": 9016,
+    "chapter": "Dates",
+    "question": "Hvornår fejres Halloween typisk i Danmark ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Ultimo oktober / primo november" },
+      { "key": "B", "text": "1. november præcis" },
+      { "key": "C", "text": "Sidste weekend i august" }
+    ],
+    "correctKey": "A",
+    "explanation": "Halloween fejres ultimo oktober eller primo november og er en amerikansk tradition, der er kommet til Danmark."
+  },
+  {
+    "id": 9017,
+    "chapter": "Dates",
+    "question": "Hvad er almindeligt ved Halloween ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Børnene klæder sig ud som hekse, spøgelser og lignende" },
+      { "key": "B", "text": "Alle familier skal gå i kirke" },
+      { "key": "C", "text": "Staten uddeler gratis slik i alle kommuner" }
+    ],
+    "correctKey": "A",
+    "explanation": "Ved Halloween klæder børn sig ud som hekse, spøgelser og lignende; det fejres ikke alle steder."
+  },
+  {
+    "id": 9018,
+    "chapter": "Dates",
+    "question": "Hvad sker der i december ud over selve juledagene ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Man holder julefrokoster på arbejdspladser og blandt venner med meget mad, øl og snaps" },
+      { "key": "B", "text": "Alle butikker skal holde lukket hele måneden" },
+      { "key": "C", "text": "Der afholdes kun statslige ceremonier" }
+    ],
+    "correctKey": "A",
+    "explanation": "I december holder man julefrokoster på arbejdspladser og blandt venner med meget mad, øl og snaps."
+  },
+  {
+    "id": 9019,
+    "chapter": "Dates",
+    "question": "Hvad markeres den 24. december (juleaftensdag) ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Jesu fødsel – med juletræ, julemiddag, dans om træet og julegaver i mange familier" },
+      { "key": "B", "text": "Grundlovens underskrift" },
+      { "key": "C", "text": "Afslutningen af skoleåret" }
+    ],
+    "correctKey": "A",
+    "explanation": "Juleaftensdag markerer Jesu fødsel; der holdes julegudstjenester, og mange familier fejrer med juletræ, middag og gaver."
+  },
+  {
+    "id": 9020,
+    "chapter": "Dates",
+    "question": "Hvornår holder kongen nytårstale i fjernsynet ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "31. december kl. 18" },
+      { "key": "B", "text": "1. januar kl. 12" },
+      { "key": "C", "text": "25. december kl. 18" }
+    ],
+    "correctKey": "A",
+    "explanation": "Nytårsaften den 31. december kl. 18 holder kongen nytårstale i fjernsynet."
+  },
+  {
+    "id": 9021,
+    "chapter": "Dates",
+    "question": "Hvad gælder om muslimsk Ramadan ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Mange muslimer spiser og drikker ikke, mens solen er på himlen" },
+      { "key": "B", "text": "Den falder altid i december i Danmark" },
+      { "key": "C", "text": "Den varer præcis 40 dage i alle lande" }
+    ],
+    "correctKey": "A",
+    "explanation": "I Ramadan faster muslimer – de spiser og drikker ikke, mens solen er på himlen – til minde om profetens første åbenbaring."
+  },
+  {
+    "id": 9022,
+    "chapter": "Dates",
+    "question": "Hvad markerer Eid al-Fitr?",
+    "options": [
+      { "key": "A", "text": "Afslutningen på Ramadan" },
+      { "key": "B", "text": "Begyndelsen af fasten" },
+      { "key": "C", "text": "Jødisk nytår" }
+    ],
+    "correctKey": "A",
+    "explanation": "Eid al-Fitr er den muslimske fest, der markerer afslutningen på Ramadan og fejres i stigende grad i danske institutioner."
+  },
+  {
+    "id": 9023,
+    "chapter": "Dates",
+    "question": "Hvad mindes ved jødisk påske (Pesach)?",
+    "options": [
+      { "key": "A", "text": "Jødernes udvandring fra Ægypten – tradition for lam og usyret brød" },
+      { "key": "B", "text": "Moses modtagelse af stentavlerne alene" },
+      { "key": "C", "text": "Oprettelsen af staten Israel" }
+    ],
+    "correctKey": "A",
+    "explanation": "Pesach mindes udvandringen fra Ægypten; der er tradition for at spise lam og usyret brød."
+  },
+  {
+    "id": 9024,
+    "chapter": "Dates",
+    "question": "Hvad markerer jødisk pinse (Shavuot) ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Pagtslutningen på Sinais bjerg, hvor Moses modtog de ti bud" },
+      { "key": "B", "text": "Udgangen fra Ægypten" },
+      { "key": "C", "text": "Ny måne i september" }
+    ],
+    "correctKey": "A",
+    "explanation": "Shavuot fejrer pagtslutningen på Sinais bjerg, hvor Moses modtog de ti bud."
+  },
+  {
+    "id": 9025,
+    "chapter": "Dates",
+    "question": "Hvordan afsluttes kinesisk nytår ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Med lanternefestival på den 15. dag" },
+      { "key": "B", "text": "Med valg til Folketinget" },
+      { "key": "C", "text": "Med fælles grundlovsgudstjeneste" }
+    ],
+    "correctKey": "A",
+    "explanation": "Kinesisk nytår starter på den første dag i den første måned i den kinesiske kalender og slutter med lanternefestival på den 15. dag."
+  },
+  {
+    "id": 9026,
+    "chapter": "Dates",
+    "question": "Hvad nævnes om karneval visse steder i Danmark?",
+    "options": [
+      { "key": "A", "text": "Udklædning, sambamusik og optog efter sydamerikansk forbillede" },
+      { "key": "B", "text": "At det altid afholdes på samme dato som i Rio" },
+      { "key": "C", "text": "At det er lovpligtigt for alle kommuner" }
+    ],
+    "correctKey": "A",
+    "explanation": "Karneval fejres visse steder efter sydamerikansk forbillede med udklædning, sambamusik og optog."
+  },
+  {
+    "id": 9027,
+    "chapter": "Dates",
+    "question": "Hvor ofte skal der mindst holdes folketingsvalg?",
+    "options": [
+      { "key": "A", "text": "Mindst hvert fjerde år" },
+      { "key": "B", "text": "Mindst hvert femte år" },
+      { "key": "C", "text": "Hvert andet år" }
+    ],
+    "correctKey": "A",
+    "explanation": "Statsministeren udskriver folketingsvalg; det skal dog mindst holdes hvert fjerde år."
+  },
+  {
+    "id": 9028,
+    "chapter": "Dates",
+    "question": "Hvor ofte afholdes kommunal- og regionsvalg ifølge eksemplerne i bogen?",
+    "options": [
+      { "key": "A", "text": "Hvert fjerde år (fx 2017, 2021, 2025)" },
+      { "key": "B", "text": "Hvert femte år" },
+      { "key": "C", "text": "Hvert tiende år" }
+    ],
+    "correctKey": "A",
+    "explanation": "Der er valg til kommuner og regionsråd hvert fjerde år, fx 2017, 2021, 2025."
+  },
+  {
+    "id": 9029,
+    "chapter": "Dates",
+    "question": "Hvor ofte er der valg til Europa-Parlamentet ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Hvert femte år (fx 2019, 2024, 2029)" },
+      { "key": "B", "text": "Hvert fjerde år" },
+      { "key": "C", "text": "Hvert tiende år" }
+    ],
+    "correctKey": "A",
+    "explanation": "Europa-Parlamentsvalg afholdes hvert femte år i alle EU-lande inden for samme periode."
+  },
+  {
+    "id": 9030,
+    "chapter": "Dates",
+    "question": "Hvornår er der spørgetid i Folketinget?",
+    "options": [
+      { "key": "A", "text": "Hver onsdag under Folketing-samlingen" },
+      { "key": "B", "text": "Hver mandag hele året" },
+      { "key": "C", "text": "Kun i valgår" }
+    ],
+    "correctKey": "A",
+    "explanation": "Hver onsdag er der spørgetid, hvor ministre svarer på spørgsmål fra Folketingets medlemmer."
+  },
+  {
+    "id": 9031,
+    "chapter": "Dates",
+    "question": "Hvornår kommer sundhedsplejersken typisk på besøg ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Ved barnets fødsel – gratis rådgivning til forældrene" },
+      { "key": "B", "text": "Først når barnet starter i skole" },
+      { "key": "C", "text": "Kun hvis barnet er sygt" }
+    ],
+    "correctKey": "A",
+    "explanation": "Ved barnets fødsel kommer sundhedsplejersken på besøg i hjemmet med gratis rådgivning."
+  },
+  {
+    "id": 9032,
+    "chapter": "Dates",
+    "question": "Hvor mange forebyggende børneundersøgelser kan barnet få fra fem uger til fem år ifølge programmet?",
+    "options": [
+      { "key": "A", "text": "Syv" },
+      { "key": "B", "text": "Fem" },
+      { "key": "C", "text": "Ti" }
+    ],
+    "correctKey": "A",
+    "explanation": "Fra barnet er fem uger til det er fem år, kan det få syv forebyggende børneundersøgelser hos lægen."
+  },
+  {
+    "id": 9033,
+    "chapter": "Dates",
+    "question": "Hvornår er konfirmation typisk ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Ca. 14 år – barnet siger ja til at være medlem af folkekirken" },
+      { "key": "B", "text": "Ved 18 år sammen med myndighed" },
+      { "key": "C", "text": "Før skolestart" }
+    ],
+    "correctKey": "A",
+    "explanation": "Ca. 14 år konfirmeres børn, der siger ja til at være medlem af den evangelisk-lutherske folkekirke."
+  },
+  {
+    "id": 9034,
+    "chapter": "Dates",
+    "question": "Fra hvilken alder kan man tage kørekort til almindelig bil med ledsager (ifølge bogen)?",
+    "options": [
+      { "key": "A", "text": "17 år (kørsel med ledsager mellem kl. 5 og 20)" },
+      { "key": "B", "text": "15 år" },
+      { "key": "C", "text": "16 år uden ledsager hele døgnet" }
+    ],
+    "correctKey": "A",
+    "explanation": "Når man fylder 17 år, kan man tage kørekort og køre med ledsager mellem kl. 5 og 20; fra 18 år uden ledsager hele døgnet."
+  },
+  {
+    "id": 9035,
+    "chapter": "Dates",
+    "question": "Hvornår er man myndig og har bl.a. stemmeret ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "18 år" },
+      { "key": "B", "text": "16 år" },
+      { "key": "C", "text": "21 år" }
+    ],
+    "correctKey": "A",
+    "explanation": "Man er myndig ved 18 år og får bl.a. stemmeret og kan tage kørekort uden ledsager."
+  },
+  {
+    "id": 9036,
+    "chapter": "Dates",
+    "question": "Hvad sker der ved 18 år i forhold til Forsvarets Dag?",
+    "options": [
+      { "key": "A", "text": "Unge indkaldes til undersøgelse og test af værnepligtsegnethed" },
+      { "key": "B", "text": "Alle skal aftjene værnepligt samme uge" },
+      { "key": "C", "text": "Der sendes automatisk kørekort hjem" }
+    ],
+    "correctKey": "A",
+    "explanation": "Ved 18 år indkaldes kvinder og mænd til Forsvarets Dag med tests og helbredsundersøgelse."
+  },
+  {
+    "id": 9037,
+    "chapter": "Dates",
+    "question": "Fra hvilken alder kan man som udgangspunkt modtage folkepension (nævnt for 2025)?",
+    "options": [
+      { "key": "A", "text": "67 år" },
+      { "key": "B", "text": "65 år" },
+      { "key": "C", "text": "70 år" }
+    ],
+    "correctKey": "A",
+    "explanation": "Man kan i 2025 som udgangspunkt få folkepension fra 67 år."
+  },
+  {
+    "id": 9038,
+    "chapter": "Dates",
+    "question": "Hvad markerer Skærtorsdag ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Det er en helligdag i påskeugen" },
+      { "key": "B", "text": "Det er første dag i fasten" },
+      { "key": "C", "text": "Det er sidste skoledag før sommerferien" }
+    ],
+    "correctKey": "A",
+    "explanation": "Skærtorsdag er helligdag i påskeugen."
+  },
+  {
+    "id": 9039,
+    "chapter": "Dates",
+    "question": "Hvad gælder om 2. påskedag ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Det er helligdag (mandag), og påskefrokoster fortsætter i mange familier" },
+      { "key": "B", "text": "Det er ikke helligdag i Danmark" },
+      { "key": "C", "text": "Alle butikker skal holde åbent" }
+    ],
+    "correctKey": "A",
+    "explanation": "2. påskedag er helligdag; påskefrokoster fortsætter i mange familier."
+  },
+  {
+    "id": 9040,
+    "chapter": "Dates",
+    "question": "Hvad er korrekt om 25. og 26. december ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "De er helligdage (Juledag og 2. Juledag)" },
+      { "key": "B", "text": "Kun 25. december er helligdag" },
+      { "key": "C", "text": "De er normale hverdage uden særregler" }
+    ],
+    "correctKey": "A",
+    "explanation": "25. december er Juledag og 26. december 2. Juledag – begge helligdage; mange samles til julefrokost."
+  }
+]

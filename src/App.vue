@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { useQuiz, QUIZ_SIZE } from '@/composables/useQuiz'
+import { useQuiz } from '@/composables/useQuiz'
 import AppHeader from '@/components/AppHeader.vue'
 import QuizCategoryView from '@/components/QuizCategoryView.vue'
 import QuizStartView from '@/components/QuizStartView.vue'
@@ -10,6 +10,9 @@ import AppFooter from '@/components/AppFooter.vue'
 const {
   phase,
   selectedCategory,
+  previewQuestionCount,
+  currentQuizLength,
+  completedQuizQuestionCount,
   currentIndex,
   selectedKey,
   score,
@@ -32,7 +35,7 @@ const {
 
       <QuizStartView
         v-else-if="phase === 'start' && selectedCategory"
-        :quiz-size="QUIZ_SIZE"
+        :quiz-size="previewQuestionCount"
         :category-label="selectedCategory.label"
         :category-description="selectedCategory.description"
         @start="startQuiz"
@@ -44,14 +47,14 @@ const {
         v-model="selectedKey"
         :question="currentQuestion"
         :question-number="currentIndex + 1"
-        :total-questions="QUIZ_SIZE"
+        :total-questions="currentQuizLength"
         @next="nextQuestion"
       />
 
       <QuizResultsView
         v-else-if="phase === 'results'"
         :score="score"
-        :quiz-size="QUIZ_SIZE"
+        :quiz-size="completedQuizQuestionCount"
         :wrong-answers="wrongAnswers"
         @end="endQuiz"
       />
