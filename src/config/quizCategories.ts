@@ -1,4 +1,4 @@
-export type QuizCategoryId = 'mixed' | 'dates'
+export type QuizCategoryId = 'mixed' | 'dates' | 'famous'
 
 export interface QuizCategory {
   id: QuizCategoryId
@@ -17,5 +17,10 @@ export const QUIZ_CATEGORIES: QuizCategory[] = [
     id: 'dates',
     label: 'Dates',
     description: 'Annual events, holidays, milestones and recurring politics — from the book.',
+  },
+  {
+    id: 'famous',
+    label: 'Famous Danish people',
+    description: 'Writers, artists, royals, politicians and others named in the book.',
   },
 ]

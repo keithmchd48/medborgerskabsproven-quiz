@@ -4,10 +4,12 @@ import { shuffleQuestionOptions } from '@/utils/question'
 import { QUIZ_CATEGORIES, type QuizCategoryId } from '@/config/quizCategories'
 import rawQuestions from '@/data/questions.json'
 import rawDatesQuestions from '@/data/questions-dates.json'
+import rawFamousQuestions from '@/data/questions-famous.json'
 export const QUIZ_SIZE = 25
 
 const allQuestions = rawQuestions as Question[]
 const datesQuestions = rawDatesQuestions as Question[]
+const famousQuestions = rawFamousQuestions as Question[]
 
 function shuffle<T>(arr: T[]): T[] {
   const a = [...arr]
@@ -24,6 +26,8 @@ function questionPoolForCategory(categoryId: QuizCategoryId): Question[] {
       return allQuestions
     case 'dates':
       return datesQuestions
+    case 'famous':
+      return famousQuestions
     default:
       return allQuestions
   }

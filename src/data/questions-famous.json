@@ -1,0 +1,542 @@
+[
+  {
+    "id": 9101,
+    "chapter": "Famous Danish people",
+    "question": "Hvad er Ludvig Holberg (1684–1754) særligt kendt for ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "At have grundlagt dansk teater med komedier som «Jeppe på Bjerget»" },
+      { "key": "B", "text": "At have skrevet eventyr som «Den grimme ælling»" },
+      { "key": "C", "text": "At have været Danmarks første kvindelige minister" }
+    ],
+    "correctKey": "A",
+    "explanation": "Holberg var forfatter og professor og lagde grunden til dansk teater med komedier som «Jeppe på Bjerget»."
+  },
+  {
+    "id": 9102,
+    "chapter": "Famous Danish people",
+    "question": "Hvad er H.C. Andersen (1805–1875) ifølge bogen primært kendt for?",
+    "options": [
+      { "key": "A", "text": "Sine eventyr, der er oversat til mange sprog" },
+      { "key": "B", "text": "At have malet Skagensmalerier" },
+      { "key": "C", "text": "At have grundlagt folkehøjskolen" }
+    ],
+    "correctKey": "A",
+    "explanation": "H.C. Andersen er verdensberømt for sine eventyr."
+  },
+  {
+    "id": 9103,
+    "chapter": "Famous Danish people",
+    "question": "Hvilken bog nævnes som Karen Blixens (1885–1962) mest kendte?",
+    "options": [
+      { "key": "A", "text": "«Den afrikanske farm» (1937)" },
+      { "key": "B", "text": "«Barndommens Gade»" },
+      { "key": "C", "text": "«Enten-eller»" }
+    ],
+    "correctKey": "A",
+    "explanation": "Karen Blixen er kendt for «Den afrikanske farm» fra 1937."
+  },
+  {
+    "id": 9104,
+    "chapter": "Famous Danish people",
+    "question": "Hvad er Tove Ditlevsen (1917–1976) ifølge bogen kendt for?",
+    "options": [
+      { "key": "A", "text": "«Barndommens Gade» og «Barndom»-trilogien" },
+      { "key": "B", "text": "At have vundet Eurovision i 1963" },
+      { "key": "C", "text": "At have tegnet Danmarks Nationalbank" }
+    ],
+    "correctKey": "A",
+    "explanation": "Tove Ditlevsen er kendt for «Barndommens Gade» og «Barndom»-trilogien."
+  },
+  {
+    "id": 9105,
+    "chapter": "Famous Danish people",
+    "question": "Hvad er særligt ved Yahya Hassan (1995–2020) ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Hans debutdigtsamling (2013) blev den mest sælgende digtsamling i Danmark nogensinde" },
+      { "key": "B", "text": "Han var Danmarks første kvindelige statsminister" },
+      { "key": "C", "text": "Han malede «Your Rainbow Panorama» på ARoS" }
+    ],
+    "correctKey": "A",
+    "explanation": "Yahya Hassan debuterede med den mest sælgende digtsamling i Danmark nogensinde (2013)."
+  },
+  {
+    "id": 9106,
+    "chapter": "Famous Danish people",
+    "question": "Hvad er Søren Kierkegaard (1813–1855) ifølge bogen kendt for?",
+    "options": [
+      { "key": "A", "text": "Filosofi om menneskets eksistens og værket «Enten-eller» (1843)" },
+      { "key": "B", "text": "At have samlet Danmark på Jellingestenen" },
+      { "key": "C", "text": "At have komponeret «Det uudslukkelige»" }
+    ],
+    "correctKey": "A",
+    "explanation": "Kierkegaard er filosof og kendt for eksistensfilosofi og «Enten-eller» (1843)."
+  },
+  {
+    "id": 9107,
+    "chapter": "Famous Danish people",
+    "question": "Hvad er P.S. Krøyer (1851–1909) berømt for?",
+    "options": [
+      { "key": "A", "text": "Malerier fra Skagen" },
+      { "key": "B", "text": "Arkitektur på Danmarks Nationalbank" },
+      { "key": "C", "text": "At have vundet en Oscar for «Druk»" }
+    ],
+    "correctKey": "A",
+    "explanation": "P.S. Krøyer er kunstmaler og berømt for malerier fra Skagen."
+  },
+  {
+    "id": 9108,
+    "chapter": "Famous Danish people",
+    "question": "Hvad nævnes om Carl Nielsen (1865–1931)?",
+    "options": [
+      { "key": "A", "text": "Han komponerede bl.a. symfonien «Det uudslukkelige» (1916) og folkelige sange" },
+      { "key": "B", "text": "Han vandt Eurovision med «Dansevise»" },
+      { "key": "C", "text": "Han grundlagde Kalmarunionen" }
+    ],
+    "correctKey": "A",
+    "explanation": "Carl Nielsen er komponist, kendt for symfonier som «Det uudslukkelige» (1916) og folkelige sange."
+  },
+  {
+    "id": 9109,
+    "chapter": "Famous Danish people",
+    "question": "Hvad er Arne Jacobsen (1902–1971) ifølge bogen kendt for?",
+    "options": [
+      { "key": "A", "text": "Funktionalistisk arkitektur, Danmarks Nationalbank og møbler som «7-eren» og «Ægget»" },
+      { "key": "B", "text": "Skagensmalerier og lyset ved Kattegat" },
+      { "key": "C", "text": "Digte om Barndommens Gade" }
+    ],
+    "correctKey": "A",
+    "explanation": "Arne Jacobsen er arkitekt (funktionalisme), tegnede bl.a. Nationalbanken og møbler som «7-eren» og «Ægget»."
+  },
+  {
+    "id": 9110,
+    "chapter": "Famous Danish people",
+    "question": "Hvad har Olafur Eliasson (født 1967, dansk-islandsk) skabt ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "«Your Rainbow Panorama» (2011) på ARoS i Aarhus" },
+      { "key": "B", "text": "Filmen «Hævnen» (2010)" },
+      { "key": "C", "text": "Eurovision-vinderen «Only Teardrops»" }
+    ],
+    "correctKey": "A",
+    "explanation": "Olafur Eliasson er kendt for installationen «Your Rainbow Panorama» på ARoS (2011)."
+  },
+  {
+    "id": 9111,
+    "chapter": "Famous Danish people",
+    "question": "Hvilken film og pris nævnes om Thomas Vinterberg (født 1969)?",
+    "options": [
+      { "key": "A", "text": "«Druk» (2020) vandt en Oscar i 2021" },
+      { "key": "B", "text": "«Hævnen» (2010) vandt en Oscar" },
+      { "key": "C", "text": "Han vandt Eurovision med Aqua" }
+    ],
+    "correctKey": "A",
+    "explanation": "Thomas Vinterbergs «Druk» (2020) vandt en Oscar i 2021."
+  },
+  {
+    "id": 9112,
+    "chapter": "Famous Danish people",
+    "question": "Hvilken film og pris nævnes om Susanne Bier (født 1960)?",
+    "options": [
+      { "key": "A", "text": "«Hævnen» (2010) vandt en Oscar" },
+      { "key": "B", "text": "«Druk» (2020) vandt en Oscar" },
+      { "key": "C", "text": "«Barbie Girl» blev en Oscar-vinder" }
+    ],
+    "correctKey": "A",
+    "explanation": "Susanne Biers «Hævnen» (2010) vandt en Oscar."
+  },
+  {
+    "id": 9113,
+    "chapter": "Famous Danish people",
+    "question": "Hvem vandt Eurovision for Danmark i 1963 med «Dansevise»?",
+    "options": [
+      { "key": "A", "text": "Grethe Ingmann og Jørgen Ingmann" },
+      { "key": "B", "text": "Brødrene Olsen" },
+      { "key": "C", "text": "Emmelie de Forest" }
+    ],
+    "correctKey": "A",
+    "explanation": "Grethe og Jørgen Ingmann vandt Eurovision 1963 med «Dansevise»."
+  },
+  {
+    "id": 9114,
+    "chapter": "Famous Danish people",
+    "question": "Hvem vandt Eurovision for Danmark i 2000 ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Brødrene Olsen (Jørgen og Niels Olsen)" },
+      { "key": "B", "text": "Aqua" },
+      { "key": "C", "text": "Grethe og Jørgen Ingmann" }
+    ],
+    "correctKey": "A",
+    "explanation": "Jørgen og Niels Olsen (Brødrene Olsen) vandt Eurovision 2000."
+  },
+  {
+    "id": 9115,
+    "chapter": "Famous Danish people",
+    "question": "Hvem vandt Eurovision for Danmark i 2013 med «Only Teardrops»?",
+    "options": [
+      { "key": "A", "text": "Emmelie de Forest" },
+      { "key": "B", "text": "Thomas Vinterberg" },
+      { "key": "C", "text": "Olafur Eliasson" }
+    ],
+    "correctKey": "A",
+    "explanation": "Emmelie de Forest vandt Eurovision 2013 med «Only Teardrops»."
+  },
+  {
+    "id": 9116,
+    "chapter": "Famous Danish people",
+    "question": "Hvad nævnes om popgruppen Aqua ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Dansk-norsk gruppe fra 1990'erne med globalt hit «Barbie Girl»" },
+      { "key": "B", "text": "De vandt Eurovision for Danmark i 2000" },
+      { "key": "C", "text": "De komponerede «Det uudslukkelige»" }
+    ],
+    "correctKey": "A",
+    "explanation": "Aqua er en dansk-norsk popgruppe fra 1990'erne med det globale hit «Barbie Girl»."
+  },
+  {
+    "id": 9117,
+    "chapter": "Famous Danish people",
+    "question": "Hvad er N.F.S. Grundtvig (1783–1872) ifølge bogen forbundet med?",
+    "options": [
+      { "key": "A", "text": "Digter og præst; inspirerede folkehøjskoler og demokratisk folkeoplysning" },
+      { "key": "B", "text": "At have malet Skagens solnedgange" },
+      { "key": "C", "text": "At have været EU-kommissær" }
+    ],
+    "correctKey": "A",
+    "explanation": "Grundtvig var digter og præst og inspirerede udviklingen af folkehøjskoler og folkeoplysning."
+  },
+  {
+    "id": 9118,
+    "chapter": "Famous Danish people",
+    "question": "Hvilket politiske førstegangs-record tilskrives Nina Bang ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Danmarks første kvindelige minister (undervisningsminister i 1924)" },
+      { "key": "B", "text": "Danmarks første kvindelige statsminister" },
+      { "key": "C", "text": "Første danske EU-kommissær" }
+    ],
+    "correctKey": "A",
+    "explanation": "Nina Bang blev i 1924 Danmarks første kvindelige minister (undervisningsminister)."
+  },
+  {
+    "id": 9119,
+    "chapter": "Famous Danish people",
+    "question": "Hvem var Danmarks første kvindelige statsminister ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Helle Thorning-Schmidt (2011–2015)" },
+      { "key": "B", "text": "Mette Frederiksen" },
+      { "key": "C", "text": "Margrethe Vestager" }
+    ],
+    "correctKey": "A",
+    "explanation": "Helle Thorning-Schmidt blev i 2011 Danmarks første kvindelige statsminister."
+  },
+  {
+    "id": 9120,
+    "chapter": "Famous Danish people",
+    "question": "Hvem er nævnt som Danmarks nuværende regent efter tronskifte i 2024?",
+    "options": [
+      { "key": "A", "text": "Kong Frederik 10." },
+      { "key": "B", "text": "Dronning Margrethe 2." },
+      { "key": "C", "text": "Kronprins Christian som regent" }
+    ],
+    "correctKey": "A",
+    "explanation": "Kong Frederik 10. arvede tronen i 2024 og er Danmarks nuværende regent."
+  },
+  {
+    "id": 9121,
+    "chapter": "Famous Danish people",
+    "question": "Hvad er korrekt om Dronning Mary ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Hun er australsk født og gift med Frederik 10. siden 2004" },
+      { "key": "B", "text": "Hun abdicerede i 2024" },
+      { "key": "C", "text": "Hun er tronfølger efter Frederik 10." }
+    ],
+    "correctKey": "A",
+    "explanation": "Dronning Mary er australsk født og gift med Frederik 10. siden 2004."
+  },
+  {
+    "id": 9122,
+    "chapter": "Famous Danish people",
+    "question": "Hvad skete der med Dronning Margrethe 2. i 2024 ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Hun abdicerede som regent" },
+      { "key": "B", "text": "Hun blev gift med Frederik 10." },
+      { "key": "C", "text": "Hun blev undervisningsminister" }
+    ],
+    "correctKey": "A",
+    "explanation": "Dronning Margrethe 2. abdicerede i 2024; Frederik 10. overtog tronen."
+  },
+  {
+    "id": 9123,
+    "chapter": "Famous Danish people",
+    "question": "Hvem er Danmarks tronfølger ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Kronprins Christian" },
+      { "key": "B", "text": "Dronning Mary" },
+      { "key": "C", "text": "Prins Joachim" }
+    ],
+    "correctKey": "A",
+    "explanation": "Kronprins Christian er tronfølger efter Frederik 10."
+  },
+  {
+    "id": 9124,
+    "chapter": "Famous Danish people",
+    "question": "Hvad tilskrives Kong Harald Blåtand ifølge Jellingestenen og bogen?",
+    "options": [
+      { "key": "A", "text": "At have samlet Danmark til ét rige og kristnet danskerne" },
+      { "key": "B", "text": "At have erobret England i 1013" },
+      { "key": "C", "text": "At have underskrevet grundloven af 1849" }
+    ],
+    "correctKey": "A",
+    "explanation": "Harald Blåtand samlede Danmark og kristnede danskerne (død 987)."
+  },
+  {
+    "id": 9125,
+    "chapter": "Famous Danish people",
+    "question": "Hvad er Kong Svend Tveskæg ifølge bogen kendt for?",
+    "options": [
+      { "key": "A", "text": "At have erobret England i 1013" },
+      { "key": "B", "text": "At have skabt Kalmarunionen" },
+      { "key": "C", "text": "At have bygget Rundetårn" }
+    ],
+    "correctKey": "A",
+    "explanation": "Svend Tveskæg erobrerede England i 1013."
+  },
+  {
+    "id": 9126,
+    "chapter": "Famous Danish people",
+    "question": "Hvad er særligt ved Kong Knud den Store (1018–1035)?",
+    "options": [
+      { "key": "A", "text": "Dansk konge der også regerede over England" },
+      { "key": "B", "text": "Han abdicerede i 2024" },
+      { "key": "C", "text": "Han grundlagde folkehøjskolen" }
+    ],
+    "correctKey": "A",
+    "explanation": "Knud den Store var dansk konge og regerede også over England."
+  },
+  {
+    "id": 9127,
+    "chapter": "Famous Danish people",
+    "question": "Hvad skabte Dronning Margrete 1. (død 1412) ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Kalmarunionen (1397)" },
+      { "key": "B", "text": "Grundloven af 1849" },
+      { "key": "C", "text": "Eurovision-sejren i 1963" }
+    ],
+    "correctKey": "A",
+    "explanation": "Margrete 1. samlede Danmark, Norge og Sverige i Kalmarunionen (1397)."
+  },
+  {
+    "id": 9128,
+    "chapter": "Famous Danish people",
+    "question": "Hvad er Kong Christian 4. (1588–1648) ifølge bogen særligt kendt for?",
+    "options": [
+      { "key": "A", "text": "Stor byggelyst – fx Børsen, Rundetårn og Rosenborg" },
+      { "key": "B", "text": "At have afskaffet enevælden i 1848" },
+      { "key": "C", "text": "At have skrevet «Enten-eller»" }
+    ],
+    "correctKey": "A",
+    "explanation": "Christian 4. er kendt for omfattende byggeri: Børsen, Rundetårn, Rosenborg m.m."
+  },
+  {
+    "id": 9129,
+    "chapter": "Famous Danish people",
+    "question": "Hvad gjorde Kong Frederik 7. (1848) ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Danmarks sidste enevældige konge; afgav magten så grundloven af 1849 kunne indføres" },
+      { "key": "B", "text": "Han grundlagde Kalmarunionen" },
+      { "key": "C", "text": "Han vandt Eurovision med «Dansevise»" }
+    ],
+    "correctKey": "A",
+    "explanation": "Frederik 7. var sidste enevældige konge og afgav magten, hvilket muliggjorde grundloven af 1849."
+  },
+  {
+    "id": 9130,
+    "chapter": "Famous Danish people",
+    "question": "Hvornår var Poul Schlüter ifølge bogen statsminister?",
+    "options": [
+      { "key": "A", "text": "1982–1993" },
+      { "key": "B", "text": "1993–2001" },
+      { "key": "C", "text": "2001–2009" }
+    ],
+    "correctKey": "A",
+    "explanation": "Poul Schlüter var statsminister 1982–1993."
+  },
+  {
+    "id": 9131,
+    "chapter": "Famous Danish people",
+    "question": "Hvornår var Poul Nyrup Rasmussen ifølge bogen statsminister?",
+    "options": [
+      { "key": "A", "text": "1993–2001" },
+      { "key": "B", "text": "1982–1993" },
+      { "key": "C", "text": "2001–2009" }
+    ],
+    "correctKey": "A",
+    "explanation": "Poul Nyrup Rasmussen var statsminister 1993–2001."
+  },
+  {
+    "id": 9132,
+    "chapter": "Famous Danish people",
+    "question": "Hvornår var Anders Fogh Rasmussen ifølge bogen statsminister?",
+    "options": [
+      { "key": "A", "text": "2001–2009" },
+      { "key": "B", "text": "2009–2011 og 2015–2019" },
+      { "key": "C", "text": "2011–2015" }
+    ],
+    "correctKey": "A",
+    "explanation": "Anders Fogh Rasmussen var statsminister 2001–2009."
+  },
+  {
+    "id": 9133,
+    "chapter": "Famous Danish people",
+    "question": "Hvornår var Lars Løkke Rasmussen ifølge bogen statsminister?",
+    "options": [
+      { "key": "A", "text": "2009–2011 og 2015–2019" },
+      { "key": "B", "text": "2001–2009" },
+      { "key": "C", "text": "1993–2001" }
+    ],
+    "correctKey": "A",
+    "explanation": "Lars Løkke Rasmussen var statsminister 2009–2011 og igen 2015–2019."
+  },
+  {
+    "id": 9134,
+    "chapter": "Famous Danish people",
+    "question": "Hvilken international rolle nævnes om Margrethe Vestager?",
+    "options": [
+      { "key": "A", "text": "EU-kommissær (tidligere)" },
+      { "key": "B", "text": "Danmarks nuværende udenrigsminister i 2025" },
+      { "key": "C", "text": "Dronning af Danmark" }
+    ],
+    "correctKey": "A",
+    "explanation": "Margrethe Vestager er nævnt som tidligere EU-kommissær."
+  },
+  {
+    "id": 9135,
+    "chapter": "Famous Danish people",
+    "question": "Hvem nævnes som Danmarks nuværende EU-kommissær i 2025?",
+    "options": [
+      { "key": "A", "text": "Dan Jørgensen" },
+      { "key": "B", "text": "Margrethe Vestager" },
+      { "key": "C", "text": "Lars Løkke Rasmussen" }
+    ],
+    "correctKey": "A",
+    "explanation": "Dan Jørgensen er ifølge 2025-materialet Danmarks nuværende EU-kommissær."
+  },
+  {
+    "id": 9136,
+    "chapter": "Famous Danish people",
+    "question": "Hvilken politisk rolle nævnes om Lars Løkke Rasmussen ud over tidligere statsminister?",
+    "options": [
+      { "key": "A", "text": "Udenrigsminister (fx i forbindelse med Ghana-besøg i 2024)" },
+      { "key": "B", "text": "Kun undervisningsminister i 1924" },
+      { "key": "C", "text": "EU-kommissær i 2025" }
+    ],
+    "correctKey": "A",
+    "explanation": "Lars Løkke Rasmussen nævnes også som udenrigsminister (Ghana-besøg, 2024)."
+  },
+  {
+    "id": 9137,
+    "chapter": "Famous Danish people",
+    "question": "Hvem af disse er nævnt som statsminister i bogen?",
+    "options": [
+      { "key": "A", "text": "Mette Frederiksen" },
+      { "key": "B", "text": "Olafur Eliasson" },
+      { "key": "C", "text": "P.S. Krøyer" }
+    ],
+    "correctKey": "A",
+    "explanation": "Mette Frederiksen nævnes som statsminister (fx i billedtekst i bogen)."
+  },
+  {
+    "id": 9138,
+    "chapter": "Famous Danish people",
+    "question": "Hvem skrev «Jeppe på Bjerget»?",
+    "options": [
+      { "key": "A", "text": "Ludvig Holberg" },
+      { "key": "B", "text": "H.C. Andersen" },
+      { "key": "C", "text": "Karen Blixen" }
+    ],
+    "correctKey": "A",
+    "explanation": "«Jeppe på Bjerget» er en af Holbergs kendte komedier."
+  },
+  {
+    "id": 9139,
+    "chapter": "Famous Danish people",
+    "question": "Hvilken kunstner forbinder bogen med regnbueinstallationen på ARoS?",
+    "options": [
+      { "key": "A", "text": "Olafur Eliasson" },
+      { "key": "B", "text": "P.S. Krøyer" },
+      { "key": "C", "text": "Arne Jacobsen" }
+    ],
+    "correctKey": "A",
+    "explanation": "Olafur Eliasson står bag «Your Rainbow Panorama» på ARoS."
+  },
+  {
+    "id": 9140,
+    "chapter": "Famous Danish people",
+    "question": "Hvem instruerede Oscar-vinderen «Druk»?",
+    "options": [
+      { "key": "A", "text": "Thomas Vinterberg" },
+      { "key": "B", "text": "Susanne Bier" },
+      { "key": "C", "text": "Carl Th. Dreyer" }
+    ],
+    "correctKey": "A",
+    "explanation": "Thomas Vinterberg instruerede «Druk», som vandt Oscar i 2021."
+  },
+  {
+    "id": 9141,
+    "chapter": "Famous Danish people",
+    "question": "Hvilken dansk filmskaber vandt Oscar med «Hævnen» (2010)?",
+    "options": [
+      { "key": "A", "text": "Susanne Bier" },
+      { "key": "B", "text": "Thomas Vinterberg" },
+      { "key": "C", "text": "Lars von Trier" }
+    ],
+    "correctKey": "A",
+    "explanation": "Susanne Biers «Hævnen» (2010) vandt en Oscar."
+  },
+  {
+    "id": 9142,
+    "chapter": "Famous Danish people",
+    "question": "Hvem af disse var både sanger og medvirkede ved Eurovision-sejr for Danmark i 1963?",
+    "options": [
+      { "key": "A", "text": "Grethe Ingmann" },
+      { "key": "B", "text": "Emmelie de Forest" },
+      { "key": "C", "text": "Tove Ditlevsen" }
+    ],
+    "correctKey": "A",
+    "explanation": "Grethe Ingmann sang «Dansevise» sammen med Jørgen Ingmann ved Eurovision 1963."
+  },
+  {
+    "id": 9143,
+    "chapter": "Famous Danish people",
+    "question": "Hvilken filosof skrev «Enten-eller» (1843)?",
+    "options": [
+      { "key": "A", "text": "Søren Kierkegaard" },
+      { "key": "B", "text": "N.F.S. Grundtvig" },
+      { "key": "C", "text": "Ludvig Holberg" }
+    ],
+    "correctKey": "A",
+    "explanation": "«Enten-eller» (1843) er et af Kierkegaards hovedværker."
+  },
+  {
+    "id": 9144,
+    "chapter": "Famous Danish people",
+    "question": "Hvem inspirerede ifølge bogen udviklingen af folkehøjskolen?",
+    "options": [
+      { "key": "A", "text": "N.F.S. Grundtvig" },
+      { "key": "B", "text": "Karen Blixen" },
+      { "key": "C", "text": "Yahya Hassan" }
+    ],
+    "correctKey": "A",
+    "explanation": "Grundtvigs ider om oplysning og demokrati knyttes til folkehøjskolerne."
+  },
+  {
+    "id": 9145,
+    "chapter": "Famous Danish people",
+    "question": "Hvem var Danmarks statsminister i perioden 2011–2015 ifølge bogen?",
+    "options": [
+      { "key": "A", "text": "Helle Thorning-Schmidt" },
+      { "key": "B", "text": "Anders Fogh Rasmussen" },
+      { "key": "C", "text": "Poul Schlüter" }
+    ],
+    "correctKey": "A",
+    "explanation": "Helle Thorning-Schmidt var statsminister 2011–2015."
+  }
+]
