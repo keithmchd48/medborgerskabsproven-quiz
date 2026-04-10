@@ -19,4 +19,4 @@ export interface AnsweredQuestion extends Question {
   isCorrect: boolean
 }
 
-export type Phase = 'start' | 'quiz' | 'results'
+export type Phase = 'home' | 'start' | 'quiz' | 'results'

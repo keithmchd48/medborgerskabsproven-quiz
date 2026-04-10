@@ -1,6 +1,7 @@
 import { ref, computed } from 'vue'
 import type { Question, AnsweredQuestion, OptionKey, Phase } from '@/types/question'
 import { shuffleQuestionOptions } from '@/utils/question'
+import { QUIZ_CATEGORIES, type QuizCategoryId } from '@/config/quizCategories'
 import rawQuestions from '@/data/questions.json'
 export const QUIZ_SIZE = 25
 
@@ -15,15 +16,43 @@ function shuffle<T>(arr: T[]): T[] {
   return a
 }
 
+function questionPoolForCategory(categoryId: QuizCategoryId): Question[] {
+  switch (categoryId) {
+    case 'mixed':
+      return allQuestions
+    default:
+      return allQuestions
+  }
+}
+
 export function useQuiz() {
-  const phase = ref<Phase>('start')
+  const phase = ref<Phase>('home')
+  const selectedCategoryId = ref<QuizCategoryId | null>(null)
   const quizQuestions = ref<Question[]>([])
   const currentIndex = ref(0)
   const selectedKey = ref<OptionKey | null>(null)
   const answers = ref<AnsweredQuestion[]>([])
 
+  const selectedCategory = computed(() =>
+    selectedCategoryId.value
+      ? QUIZ_CATEGORIES.find((c) => c.id === selectedCategoryId.value) ?? null
+      : null,
+  )
+
+  function selectCategory(categoryId: QuizCategoryId) {
+    selectedCategoryId.value = categoryId
+    phase.value = 'start'
+  }
+
+  function goBackToCategories() {
+    selectedCategoryId.value = null
+    phase.value = 'home'
+  }
+
   function startQuiz() {
-    quizQuestions.value = shuffle(allQuestions)
+    if (!selectedCategoryId.value) return
+    const pool = questionPoolForCategory(selectedCategoryId.value)
+    quizQuestions.value = shuffle(pool)
       .slice(0, QUIZ_SIZE)
       .map(shuffleQuestionOptions)
     currentIndex.value = 0
@@ -55,11 +84,14 @@ export function useQuiz() {
   const currentQuestion = computed(() => quizQuestions.value[currentIndex.value])
 
   function endQuiz() {
-    phase.value = 'start'
+    selectedCategoryId.value = null
+    phase.value = 'home'
   }
 
   return {
     phase,
+    selectedCategoryId,
+    selectedCategory,
     quizQuestions,
     currentIndex,
     selectedKey,
@@ -67,6 +99,8 @@ export function useQuiz() {
     score,
     wrongAnswers,
     currentQuestion,
+    selectCategory,
+    goBackToCategories,
     startQuiz,
     nextQuestion,
     endQuiz,

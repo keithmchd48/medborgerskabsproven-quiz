@@ -1,10 +1,13 @@
 <script setup lang="ts">
 defineProps<{
   quizSize: number
+  categoryLabel: string
+  categoryDescription: string
 }>()
 
 const emit = defineEmits<{
   start: []
+  back: []
 }>()
 </script>
 
@@ -12,8 +15,22 @@ const emit = defineEmits<{
   <section
     class="flex flex-col items-center justify-center flex-1 gap-8 rounded-2xl border border-slate-200/80 bg-white/90 p-10 shadow-sm backdrop-blur-sm"
   >
+    <button
+      type="button"
+      class="self-start -mt-2 text-sm font-medium text-slate-600 transition hover:text-slate-900 focus:outline-none focus-visible:underline"
+      @click="emit('back')"
+    >
+      ← Choose another category
+    </button>
+
+    <div class="w-full text-center space-y-2">
+      <p class="text-xs font-medium uppercase tracking-wide text-slate-500">Selected</p>
+      <p class="text-lg font-semibold text-slate-900">{{ categoryLabel }}</p>
+      <p class="text-sm text-slate-600 max-w-md mx-auto leading-relaxed">{{ categoryDescription }}</p>
+    </div>
+
     <p class="text-slate-600 text-center max-w-md leading-relaxed">
-      Each quiz has {{ quizSize }} random questions from the full bank. Select one answer per
+      Each quiz has {{ quizSize }} random questions from this category. Select one answer per
       question to continue. At the end you will see your score and a review of any mistakes.
     </p>
     <button

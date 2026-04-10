@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { useQuiz, QUIZ_SIZE } from '@/composables/useQuiz'
 import AppHeader from '@/components/AppHeader.vue'
+import QuizCategoryView from '@/components/QuizCategoryView.vue'
 import QuizStartView from '@/components/QuizStartView.vue'
 import QuizQuestionView from '@/components/QuizQuestionView.vue'
 import QuizResultsView from '@/components/QuizResultsView.vue'
@@ -8,11 +9,14 @@ import AppFooter from '@/components/AppFooter.vue'
 
 const {
   phase,
+  selectedCategory,
   currentIndex,
   selectedKey,
   score,
   wrongAnswers,
   currentQuestion,
+  selectCategory,
+  goBackToCategories,
   startQuiz,
   nextQuestion,
   endQuiz,
@@ -24,7 +28,16 @@ const {
     <AppHeader />
 
     <main class="w-full max-w-2xl flex-1 flex flex-col">
-      <QuizStartView v-if="phase === 'start'" :quiz-size="QUIZ_SIZE" @start="startQuiz" />
+      <QuizCategoryView v-if="phase === 'home'" @select="selectCategory" />
+
+      <QuizStartView
+        v-else-if="phase === 'start' && selectedCategory"
+        :quiz-size="QUIZ_SIZE"
+        :category-label="selectedCategory.label"
+        :category-description="selectedCategory.description"
+        @start="startQuiz"
+        @back="goBackToCategories"
+      />
 
       <QuizQuestionView
         v-else-if="phase === 'quiz' && currentQuestion"
